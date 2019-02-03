@@ -1,0 +1,200 @@
+<?php
+
+// Heading
+$_['heading_title']             = 'Square';
+$_['heading_title_transaction'] = 'Afficher la transaction #%s';
+
+// Help
+$_['help_total']                    = 'Total de la commande à atteindre avant que cette méthode de paiement ne devienne active.';
+$_['help_local_cron']               = 'Insérez cette commande dans votre onglet CRON du serveur Web. Réglez-le pour courir au moins une fois par jour. ';
+$_['help_remote_cron']              = 'Utilisez cette URL pour configurer une tâche CRON via un service CRON basé sur le Web. Réglez-le pour courir au moins une fois par jour. ';
+$_['help_recurring_status']         = 'Activer pour autoriser les paiements récurrents périodiques. <br /> REMARQUE: vous devez également configurer une tâche CRON quotidienne.';
+$_['help_cron_email']               = 'Un résumé de la tâche récurrente sera envoyé à cet e-mail après l&rsquo;achèvement.';
+$_['help_cron_email_status']        = 'Activer pour recevoir un résumé après chaque tâche CRON.';
+$_['help_notify_recurring_success'] = 'Notifier les clients sur les transactions récurrentes réussies.';
+$_['help_notify_recurring_fail']    = 'Avertir les clients des transactions récurrentes ayant échoué.';
+
+// Tab
+$_['tab_setting']     = 'Paramètres';
+$_['tab_transaction'] = 'Transactions';
+$_['tab_cron']        = 'CRON';
+$_['tab_recurring']   = 'Paiements récurrents';
+
+// Text
+$_['text_access_token_expires_label']       = 'Le jeton d&rsquo;accès expire';
+$_['text_access_token_expires_placeholder'] = 'Non configuré';
+$_['text_acknowledge_cron']                 = 'Je confirme avoir configuré une tâche CRON automatisée en utilisant l&rsquo;une des méthodes ci-dessus.';
+$_['text_admin_notifications']              = 'Notifications d&rsquo;administration';
+$_['text_authorize_label']                  = 'Autoriser';
+$_['text_canceled_success']                 = 'Succès: vous avez annulé ce paiement avec succès!';
+$_['text_capture']                          = 'Capture';
+$_['text_client_id_help']                   = 'Récupérer ceci depuis la page Gérer une application sur Square';
+$_['text_client_id_label']                  = 'Identifiant de l&rsquo;application';
+$_['text_client_id_placeholder']            = 'Identifiant de l&rsquo;application';
+$_['text_client_secret_help']               = 'Récupérer ceci depuis la page Gérer une application sur Square';
+$_['text_client_secret_label']              = 'OAuth Application Secret';
+$_['text_client_secret_placeholder']        = 'Secret d&rsquo;application OAuth';
+$_['text_confirm_action']                   = 'Etes-vous sûr?';
+$_['text_confirm_cancel']                   = 'Etes-vous sûr de vouloir annuler les paiements récurrents?';
+$_['text_confirm_capture']                  = 'Vous êtes sur le point de capturer le montant suivant: <strong>%s</strong>. Cliquez sur OK pour continuer. ';
+$_['text_confirm_refund']                   = 'Veuillez indiquer le motif du remboursement:';
+$_['text_confirm_void']                     = 'Vous allez annuler le montant suivant: <strong>%s</strong>. Cliquez sur OK pour continuer. ';
+$_['text_connected']                        = 'Connecté';
+$_['text_connected_info']                   = 'Reconnectez-vous si vous souhaitez changer de compte ou révoquer manuellement l&rsquo;accès de cette extension à partir de la console de Square App: actualisez manuellement le jeton d&rsquo;accès s&rsquo;il a été vendu depuis 45 jours. ';
+$_['text_connection_section']               = 'Connexion Square';
+$_['text_connection_success']               = 'Connexion réussie!';
+$_['text_cron_email']                       = 'Envoyer un résumé de la tâche à cet e-mail:';
+$_['text_cron_email_status']                = 'Envoyer un récapitulatif e-mail:';
+$_['text_customer_notifications']           = 'Notifications client';
+$_['text_debug_disabled']                   = 'Désactivé';
+$_['text_debug_enabled']                    = 'Activé';
+$_['text_debug_help']                       = 'Les requêtes API et les réponses seront enregistrées dans le journal des erreurs OpenCart. Utilisez ceci uniquement à des fins de débogage et de développement. ';
+$_['text_debug_label']                      = 'Debug Logging';
+$_['text_delay_capture_help']               = 'Autoriser uniquement les transactions ou effectuer des frais automatiquement';
+$_['text_delay_capture_label']              = 'Type de transaction';
+$_['text_disabled_connect_help_text']       = 'L&rsquo;identifiant et le secret du client sont des champs obligatoires.';
+$_['text_edit_heading']                     = 'Modifier la place';
+$_['text_enable_sandbox_help']              = 'Activer le mode bac à sable pour tester les transactions';
+$_['text_enable_sandbox_label']             = 'Activer le mode sandbox';
+$_['text_executables']                      = 'Méthodes d&rsquo;exécution CRON';
+$_['text_extension']                        = 'Extensions';
+$_['text_extension_status']                 = 'Statut de l&rsquo;extension';
+$_['text_extension_status_disabled']        = 'Désactivé';
+$_['text_extension_status_enabled']         = 'Activé';
+$_['text_extension_status_help']            = 'Activer ou désactiver la méthode de paiement';
+$_['text_insert_amount']                    = 'Veuillez insérer le montant du remboursement. Maximum: %s dans %s: ';
+$_['text_loading']                          = 'Chargement des données ... Veuillez patienter ...';
+$_['text_loading_short']                    = 'Veuillez patienter ...';
+$_['text_local_cron']                       = 'Méthode n° 1 - tâche CRON:';
+$_['text_location_error']                   = 'Une erreur est survenue lors de la tentative de synchronisation des emplacements et des jetons: %s';
+$_['text_location_help']                    = 'Sélectionnez l&rsquo;emplacement Square à utiliser pour les transactions. Doit avoir des capacités de traitement de cartes activées. ';
+$_['text_location_label']                   = 'Localisation';
+$_['text_manage']                           = 'Transaction par carte de crédit (Square)';
+$_['text_manage_tooltip']                   = 'Voir les détails / Capture / Annuler / Rembourser';
+$_['text_merchant_info_section_heading']    = 'Informations importantes';
+$_['text_merchant_name_label']              = 'Nom du marchand';
+$_['text_merchant_name_placeholder']        = 'Non configuré';
+$_['text_no_appropriate_locations_warning'] = 'Il n&rsquo;y a pas d&rsquo;emplacements capables de configurer le traitement des cartes en ligne dans votre compte Square.';
+$_['text_no_location_selected_warning']     = 'Il n&rsquo;y a pas d&rsquo;emplacement sélectionné.';
+$_['text_no_locations_label']               = 'Aucun emplacement valide';
+$_['text_no_transactions']                  = 'Aucune transaction n&rsquo;a encore été enregistrée. ';
+$_['text_not_connected']                    = 'Non connecté';
+$_['text_not_connected_info']               = 'En cliquant sur ce bouton, vous allez connecter ce module à votre compte Square et activer le service.';
+$_['text_notification_ssl']                 = 'Assurez-vous que SSL est activé sur votre page de paiement. Sinon, l&rsquo;extension ne fonctionnera pas. ';
+$_['text_notify_recurring_fail']            = 'La transaction récurrente a échoué:';
+$_['text_notify_recurring_success']         = 'Transaction récurrente réussie:';
+$_['text_ok']                               = 'OK';
+$_['text_order_history_cancel']             = 'Un administrateur a annulé vos paiements récurrents. Votre carte ne sera plus débitée. ';
+$_['text_payment_method_name_help']         = 'Nom de la méthode de paiement de la commande';
+$_['text_payment_method_name_label']        = 'Nom de la méthode de paiement';
+$_['text_payment_method_name_placeholder']  = 'Carte de crédit / débit';
+$_['text_recurring_info']                   = 'Veuillez vous assurer de configurer une tâche CRON quotidienne en utilisant l&rsquo;une des méthodes ci-dessous. Les emplois CRON vous aident avec: <br/> <br/> & bull; Actualisation automatique de votre jeton d&rsquo;accès à l&rsquo;API <br/> &bull; Traitement des opérations récurrentes ';
+$_['text_recurring_status']                 = 'Statut des paiements récurrents:';
+$_['text_redirect_uri_help']                = 'Collez ce lien dans le champ Redirection URI sous Gérer application / oAuth';
+$_['text_redirect_uri_label']               = 'URL de redirection Square OAuth';
+$_['text_refresh_access_token_success']     = 'Actualisé la connexion à votre compte Square.';
+$_['text_refresh_token']                    = 'Créer un nouveau jeton';
+$_['text_refund']                           = 'Remboursement';
+$_['text_refund_details']                   = 'Détails du remboursement';
+$_['text_refunded_amount']                  = 'Remboursé: %s. Statut du remboursement: %s. Raison du remboursement: %s ';
+$_['text_refunds']                          = 'Remboursements (%s)';
+$_['text_remote_cron']                      = 'Méthode n° 2 - Remote CRON:';
+$_['text_sale_label']                       = 'Vente';
+$_['text_sandbox_access_token_help']        = 'Récupérer ceci depuis la page Gérer une application sur Square';
+$_['text_sandbox_access_token_label']       = 'Sandbox Access Token';
+$_['text_sandbox_access_token_placeholder'] = 'Sandbox Access Token';
+$_['text_sandbox_client_id_help']           = 'Récupérer ceci depuis la page Gérer une application sur Square';
+$_['text_sandbox_client_id_label']          = 'Identifiant de l&rsquo;application Sandbox';
+$_['text_sandbox_client_id_placeholder']    = 'Identifiant de l&rsquo;application Sandbox';
+$_['text_sandbox_disabled_label']           = 'Désactivé';
+$_['text_sandbox_enabled']                  = 'Le mode bac à sable est activé! Les transactions sembleront passer, mais aucune charge ne sera effectuée. ';
+$_['text_sandbox_enabled_label']            = 'Activé';
+$_['text_sandbox_section_heading']          = 'Paramètres du bac à sable carré';
+$_['text_select_location']                  = 'Sélectionnez un emplacement';
+$_['text_settings_section_heading']         = 'Paramètres carrés';
+$_['text_squareup']                         = '<a target="_BLANK" href="https://squareup.com"><img src="view/image/payment/squareup.png" alt="Square" title="Square" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_success']                          = 'Succès: vous avez modifié le module  Square!';
+$_['text_success_capture']                  = 'Transaction réussie!';
+$_['text_success_refund']                   = 'La transaction a bien été remboursée!';
+$_['text_success_void']                     = 'La transaction a été annulée!';
+$_['text_token_expired']                    = 'Votre jeton d&rsquo;accès Square a expiré! <a href="%s"> Cliquez ici </a> pour le renouveler maintenant. ';
+$_['text_token_expiry_warning']             = 'Votre jeton d&rsquo;accès Square expirera sur %s. <a href="%s"> Cliquez ici </a> pour le renouveler maintenant. ';
+$_['text_token_revoked']                    = 'Votre jeton d&rsquo;accès Square a expiré ou a été révoqué! <a href="%s"> Cliquez ici </a> pour autoriser à nouveau l&rsquo;extension Square. ';
+$_['text_transaction_statuses']             = 'Statuts de transaction';
+$_['text_view']                             = 'Voir plus';
+$_['text_void']                             = 'Annuler';
+$_['text_na']                               = 'N/A';
+$_['text_no_reason_provided']               = 'Raison non fournie.';
+
+// Statuses
+$_['squareup_status_comment_authorized'] = 'La transaction par carte a été autorisée mais pas encore capturée.';
+$_['squareup_status_comment_captured']   = 'La transaction par carte a été autorisée puis capturée (c.-à-d. terminée).';
+$_['squareup_status_comment_voided']     = 'La transaction par carte a été autorisée et annulée par la suite (c.-à-d. annulée). ';
+$_['squareup_status_comment_failed']     = 'La transaction par carte a échoué.';
+
+// Entry
+$_['entry_total']                    = 'Total';
+$_['entry_geo_zone']                 = 'Zone géographique';
+$_['entry_sort_order']               = 'Ordre de tri';
+$_['entry_merchant']                 = 'ID du marchand';
+$_['entry_transaction_id']           = 'ID de la transaction';
+$_['entry_order_id']                 = 'Identifiant de la commande';
+$_['entry_partner_solution_id']      = 'ID de solution partenaire';
+$_['entry_type']                     = 'Type de transaction';
+$_['entry_currency']                 = 'Devise';
+$_['entry_amount']                   = 'Montant';
+$_['entry_browser']                  = 'Agent utilisateur client';
+$_['entry_ip']                       = 'Adresse IP du client';
+$_['entry_date_created']             = 'Date de création';
+$_['entry_billing_address_company']  = 'Société de facturation';
+$_['entry_billing_address_street']   = 'Rue de facturation';
+$_['entry_billing_address_city']     = 'Ville de facturation';
+$_['entry_billing_address_postcode'] = 'Facturation ZIP';
+$_['entry_billing_address_province'] = 'Province / Etat de facturation';
+$_['entry_billing_address_country']  = 'Pays de facturation';
+$_['entry_status_authorized']        = 'Autorisé';
+$_['entry_status_captured']          = 'Capturé';
+$_['entry_status_voided']            = 'Annulé';
+$_['entry_status_failed']            = 'Echec';
+$_['entry_setup_confirmation']       = 'Confirmation de l&rsquo;installation:';
+
+// Error
+$_['error_permission']                    = 'Attention: vous n&rsquo;êtes pas autorisé a modifier le paiement Square!';
+$_['error_permission_recurring']          = '<strong> Attention: </strong>  Vous n&rsquo;êtes pas autorisé à modifier les paiements récurrents!';
+$_['error_transaction_missing']           = 'Transaction introuvable!';
+$_['error_no_ssl']                        = '<strong> Attention: </strong> SSL n&rsquo;est pas activé sur votre panneau d&rsquo;administration. Activez-le pour terminer votre configuration. ';
+$_['error_user_rejected_connect_attempt'] = 'La tentative de connexion a été annulée par l&rsquo;utilisateur.';
+$_['error_possible_xss']                  = 'Nous avons détecté une attaque croisée possible et avons mis fin à votre tentative de connexion. Veuillez vérifier votre ID d&rsquo;application et votre code secret et réessayer en utilisant les boutons du panneau d&rsquo;administration. ';
+$_['error_invalid_email']                 = 'L&rsquo;adresse e-mail fournie n&rsquo;est pas valide!';
+$_['error_cron_acknowledge']              = 'Veuillez confirmer que vous avez configuré un travail CRON.';
+$_['error_client_id']                     = 'L&rsquo;identifiant du client de l&rsquo;application est un champ obligatoire';
+$_['error_client_secret']                 = 'Le secret client de l&rsquo;application est un champ obligatoire';
+$_['error_sandbox_client_id']             = 'L&rsquo;ID du client sandbox est un champ obligatoire lorsque le mode bac à sable est activé ';
+$_['error_sandbox_token']                 = 'Le jeton sandbox est un champ obligatoire lorsque le mode sandbox est activé';
+$_['error_no_location_selected']          = 'L&rsquo;emplacement est un champ obligatoire';
+$_['error_refresh_access_token']          = "Une erreur s&rsquo;est produite lors de la tentative d&rsquo;actualisation de la connexion de l&rsquo;extension à votre compte Square. Veuillez vérifier les informations d&rsquo;identification de votre application et réessayer.";
+$_['error_form']                          = 'S&rsquo;il vous plaît vérifier le formulaire pour les erreurs et essayer de sauver agian.';
+$_['error_token']                         = 'Une erreur est survenue lors de l&rsquo;actualisation du token: %s ';
+$_['error_no_refund']                     = 'Le remboursement a échoué.';
+
+// Column
+$_['column_transaction_id'] = 'ID de la transaction';
+$_['column_order_id']       = 'Identifiant de la commande';
+$_['column_customer']       = 'Client';
+$_['column_status']         = 'Statut';
+$_['column_type']           = 'Type';
+$_['column_amount']         = 'Montant';
+$_['column_ip']             = 'IP';
+$_['column_date_created']   = 'Date de création';
+$_['column_action']         = 'Action';
+$_['column_refunds']        = 'Remboursements';
+$_['column_reason']         = 'Raison';
+$_['column_fee']            = 'Frais de traitement';
+
+// Button
+$_['button_void']      = 'Void';
+$_['button_refund']    = 'Remboursement';
+$_['button_capture']   = 'Capture';
+$_['button_connect']   = 'Connecte';
+$_['button_reconnect'] = 'Reconnecter';
+$_['button_refresh']   = 'Actualiser le jeton';

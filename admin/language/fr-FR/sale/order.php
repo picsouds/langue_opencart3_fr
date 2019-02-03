@@ -1,0 +1,132 @@
+<?php
+// Heading
+$_['heading_title']              = 'Commandes';
+
+// Text
+$_['text_success']               = 'Succès: vous avez modifié les commandes!';
+$_['text_list']                  = 'Liste de commande';
+$_['text_add']                   = 'Ajouter une commande';
+$_['text_edit']                  = 'Modifier la commande';
+$_['text_filter']                = 'Filtre';
+$_['text_order_detail']          = 'Détails de la commande';
+$_['text_customer_detail']       = 'Détails du client';
+$_['text_option']                = 'Options';
+$_['text_store']                 = 'Boutique';
+$_['text_date_added']            = 'Date d&rsquo;ajout';
+$_['text_payment_method']        = 'Méthode de paiement';
+$_['text_shipping_method']       = 'Méthode d&rsquo;expédition';
+$_['text_customer']              = 'Client';
+$_['text_customer_group']        = 'Groupe de clients';
+$_['text_email']                 = 'E-mail';
+$_['text_telephone']             = 'Téléphone';
+$_['text_fax']                   ='Fax';
+$_['text_invoice']               = 'Facture';
+$_['text_reward']                = 'Points de fidélité';
+$_['text_affiliate']             = 'Affilié';
+$_['text_order']                 = 'Commande (#%s)';
+$_['text_payment_address']       = 'Adresse de paiement';
+$_['text_shipping_address']      = 'Adresse de livraison';
+$_['text_comment']               = 'Commentaire client';
+$_['text_history']               = 'Historique des commandes';
+$_['text_history_add']           = 'Ajouter un historique de commande';
+$_['text_account_custom_field']  = 'Champs personnalisés du compte';
+$_['text_payment_custom_field']  = 'Champs personnalisés d&rsquo;adresse de paiement';
+$_['text_shipping_custom_field'] = 'Champs personnalisés d&rsquo;adresse de livraison';
+$_['text_browser']               = 'Navigateur';
+$_['text_ip']                    = 'Adresse IP';
+$_['text_forwarded_ip']          = 'Forwarded IP';
+$_['text_user_agent']            = 'User Agent';
+$_['text_accept_language']       = 'Accepter la langue';
+$_['text_order_id']              = 'ID la commande:';
+$_['text_website']               = 'Site Web:';
+$_['text_invoice_no']            = 'N° de facture';
+$_['text_invoice_date']          = 'Date de la facture:';
+$_['text_sku']                   = 'SKU:';
+$_['text_upc']                   = 'UPC:';
+$_['text_ean']                   = 'EAN:';
+$_['text_jan']                   = 'JAN:';
+$_['text_isbn']                  = 'ISBN:';
+$_['text_mpn']                   = 'MPN:';
+$_['text_missing']               = 'Commande non finalisée';
+$_['text_default']               = 'Défaut';
+$_['text_product']               = 'Ajouter un ou plusieurs produits';
+$_['text_voucher']               = 'Ajouter un ou plusieurs chèques-cadeaux';
+$_['text_shipping']              = 'Expédition';
+$_['text_contact']               = 'Contact';
+$_['text_reward_added']          = 'Succès: points de fidélité ajoutés!';
+$_['text_reward_removed']        = 'Succès: points de fidélité supprimés!';
+$_['text_commission_added']      = 'Succès: commission ajoutée!';
+$_['text_commission_removed']    = 'Succès: commission supprimée!';
+$_['text_restock']               = 'Succès: les produits ont été réapprovisionnés!';
+$_['text_upload']                = 'Votre fichier a été téléchargé avec succès!';
+$_['text_picklist']              = 'Bordereau d&rsquo;envoi';
+
+// Column
+$_['column_order_id']            = 'Commande n°';
+$_['column_customer']            = 'Client';
+$_['column_status']              = 'Statut';
+$_['column_date_added']          = 'Date d&rsquo;ajout';
+$_['column_date_modified']       = 'Date de modification';
+$_['column_total']               = 'Total';
+$_['column_product']             = 'Produit';
+$_['column_model']               = 'Référence';
+$_['column_quantity']            = 'Quantité';
+$_['column_price']               = 'Prix unitaire';
+$_['column_comment']             = 'Commentaire';
+$_['column_notify']              = 'Client notifié';
+$_['column_location']            = 'Emplacement';
+$_['column_reference']           = 'Référence';
+$_['column_action']              = 'Action';
+$_['column_weight']              = 'Poids du produit';
+
+// Entry
+$_['entry_store']                = 'Boutique';
+$_['entry_customer']             = 'Client';
+$_['entry_customer_group']       = 'Groupe de clients';
+$_['entry_firstname']            = 'Prénom';
+$_['entry_lastname']             = 'Nom de famille';
+$_['entry_email']                = 'E-mail';
+$_['entry_telephone']            = 'Téléphone';
+$_['entry_address']              = 'Choisir l&rsquo;adresse';
+$_['entry_company']              = 'Société';
+$_['entry_address_1']            = 'Adresse 1';
+$_['entry_address_2']            = 'Adresse 2';
+$_['entry_city']                 = 'Ville';
+$_['entry_postcode']             = 'Code postal';
+$_['entry_country']              = 'Pays';
+$_['entry_zone']                 = 'Département';
+$_['entry_zone_code']            = 'Code département';
+$_['entry_product']              = 'Choisir un produit';
+$_['entry_option']               = 'Choisir une ou plusieurs options';
+$_['entry_quantity']             = 'Quantité';
+$_['entry_to_name']              = 'Nom du destinataire';
+$_['entry_to_email']             = 'E-mail du destinataire';
+$_['entry_from_name']            = 'Nom de l&rsquo;expéditeur';
+$_['entry_from_email']           = 'E-mail de l&rsquo;expéditeur';
+$_['entry_theme']                = 'Thème du chèque cadeau';
+$_['entry_message']              = 'Message';
+$_['entry_amount']               = 'Montant';
+$_['entry_affiliate']            = 'Affilié';
+$_['entry_order_status']         = 'Statut de la commande';
+$_['entry_notify']               = 'Informer le client';
+$_['entry_override']             = 'Passer outre';
+$_['entry_comment']              = 'Commentaire';
+$_['entry_currency']             = 'Devise';
+$_['entry_shipping_method']      = 'Mode de livraison';
+$_['entry_payment_method']       = 'Moyen de paiement';
+$_['entry_coupon']               = 'Bon de réduction';
+$_['entry_voucher']              = 'Chèque cadeau';
+$_['entry_reward']               = 'Points de fidélité';
+$_['entry_order_id']             = 'Commande n°';
+$_['entry_total']                = 'Total';
+$_['entry_date_added']           = 'Date d&rsquo;ajout';
+$_['entry_date_modified']        = 'Date de modification';
+
+// Help
+$_['help_override']              = 'Si la commande du client est bloquée pour le changer le statut de la commande en raison d&rsquo;une extension anti-fraude - permettre d&rsquo;ignorer.';
+
+// Error
+$_['error_warning']              = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']           = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les commandes!';
+$_['error_action']               = 'Attention: impossible de terminer cette action!';
+$_['error_filetype']             = 'Type de fichier invalide!';
