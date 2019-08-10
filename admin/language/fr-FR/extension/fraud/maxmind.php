@@ -98,8 +98,8 @@ $_['help_proxy_score']                        = 'Probabilité que l&rsquo;adress
 $_['help_is_trans_proxy']                     = 'Déterminé si l&rsquo;adresse IP est dans notre base de données de serveurs proxy transparents connus, renvoyée si forwardedIP est passé en entrée. ';
 $_['help_free_mail']                          = 'Déterminé si l&rsquo;e-mail provient du fournisseur de messagerie gratuit (e-mail gratuit = risque plus élevé).';
 $_['help_carder_email']                       = 'Déterminé si l&rsquo;e-mail est dans la base de données des courriels à haut risque.';
-$_['help_high_risk_username']                 = 'Déterminé si l&rsquo;entrée usernameMD5 est dans la base de données des noms d&rsquo;utilisateur à haut risque? Renvoyé seulement si le nom d&rsquo;utilisateurMD5 est inclus dans les entrées. ';
-$_['help_high_risk_password']                 = 'Déterminé si l&rsquo;entrée passwordMD5 est dans la base de données des mots de passe à haut risque. Uniquement renvoyé si passwordMD5 est inclus dans les entrées. ';
+$_['help_high_risk_username']                 = 'Déterminé si l&rsquo;entrée username MD5 est dans la base de données des noms d&rsquo;utilisateur à haut risque? Renvoyé seulement si le nom d&rsquo;utilisateurMD5 est inclus dans les entrées. ';
+$_['help_high_risk_password']                 = 'Déterminé si l&rsquo;entrée password MD5 est dans la base de données des mots de passe à haut risque. Uniquement renvoyé si passwordMD5 est inclus dans les entrées. ';
 $_['help_bin_match']                          = 'Déterminé Le pays de la banque émettrice, basé sur le numéro BIN, correspond-il au pays de l&rsquo;adresse de facturation?';
 $_['help_bin_country']                        = 'Code de pays de la banque émettrice de la carte de crédit basée sur le numéro BIN.';
 $_['help_bin_name_match']                     = 'Déterminé si le nom de la banque émettrice correspond au nom BIN entré. Une valeur de retour de Oui fournit une indication positive que le titulaire de la carte est en possession d&rsquo;une carte de crédit.';

@@ -17,7 +17,7 @@ $_['column_current']            = 'Forfait actuel';
 // Text
 $_['text_subscription_current'] = 'Forfait actuel';
 $_['text_subscription_avail']   = 'Forfaits disponibles';
-$_['text_subscription_avail1']  = 'Le changement de forfait sera immédiat et les appels non utilisées ne seront pas crédités.';
+$_['text_subscription_avail1']  = 'Le changement de forfait sera immédiat et les appels non utilisés ne seront pas crédités.';
 $_['text_ajax_acc_load_plan']   = 'ID PayPal : ';
 $_['text_ajax_acc_load_plan2']  = 'Vous devriez annuler TOUS les autres abonnements chez nous';
 $_['text_load_my_plan']         = 'Chargement de votre forfait';

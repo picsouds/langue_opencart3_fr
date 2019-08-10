@@ -102,7 +102,7 @@ $_['help_display_weight']          = 'Voulez-vous afficher le poids de livraison
 $_['help_weight_class']            = 'Valeur en kilogrammes ou en livres.';
 $_['help_length_class']            = 'Valeur en centimètres ou en pouces.';
 $_['help_dimension']               = 'Ceci est supposé être votre moyenne de votre taille de boîte d&rsquo;emballage. Les dimensions d&rsquo;article individuel ne sont pas supportées actuellement, en conséquence, vous devez saisir les dimensions moyennes, telles que 5 × 5 × 5.';
-$_['help_debug']                   = 'Sauve les données envoyées et reçues dans l&rsquo;historique du système';
+$_['help_debug']                   = 'Sauver les données envoyées et reçues dans l&rsquo;historique du système';
 
 // Error
 $_['error_permission']             = 'Attention: vous n&rsquo;êtes pas autorisé à modifier la livraison UPS !';
