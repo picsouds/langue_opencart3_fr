@@ -54,8 +54,8 @@ $_['text_refund_status']        = 'Paiement remboursé';
 $_['text_total_refunded']       = 'Total remboursé';
 $_['text_refund_success']       = 'Le remboursement a réussi!';
 $_['text_capture_success']      = 'La capture a réussi!';
-$_['text_refund_failed']        = 'Le remboursement a échoué:';
-$_['text_capture_failed']       = 'Echec de la capture:';
+$_['text_refund_failed']        = 'Le remboursement a échoué: ';
+$_['text_capture_failed']       = 'Echec de la capture: ';
 $_['text_unknown_failure']      = 'Ordre ou montant invalide';
 
 $_['text_confirm_capture'] = 'Etes-vous sûr de vouloir capturer le paiement?';

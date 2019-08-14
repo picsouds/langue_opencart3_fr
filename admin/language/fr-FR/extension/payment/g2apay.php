@@ -25,19 +25,19 @@ $_['entry_secret']                    = 'Secret';
 $_['entry_api_hash']                  = 'API Hash';
 $_['entry_environment']               = 'Environnement';
 $_['entry_secret_token']              = 'Jeton Secret';
-$_['entry_ipn_url']                   = 'URL de l&rsquo;IPN:';
+$_['entry_ipn_url']                   = 'URL de l&rsquo;IPN: ';
 $_['entry_total']                     = 'Total';
 $_['entry_geo_zone']                  = 'Zone géographique';
 $_['entry_status']                    = 'Statut';
 $_['entry_sort_order']                = 'Ordre de tri';
 $_['entry_debug']                     = 'Journalisation du débogage';
 $_['entry_order_status']              = 'Statut de la commande';
-$_['entry_complete_status']           = 'Statut complet:';
-$_['entry_rejected_status']           = 'Statut rejeté:';
-$_['entry_cancelled_status']          = 'Statut annulé:';
-$_['entry_pending_status']            = 'Statut en attente:';
-$_['entry_refunded_status']           = 'Statut Remboursé:';
-$_['entry_partially_refunded_status'] = 'Statut partiellement remboursé:';
+$_['entry_complete_status']           = 'Statut complet: ';
+$_['entry_rejected_status']           = 'Statut rejeté: ';
+$_['entry_cancelled_status']          = 'Statut annulé: ';
+$_['entry_pending_status']            = 'Statut en attente: ';
+$_['entry_refunded_status']           = 'Statut Remboursé: ';
+$_['entry_partially_refunded_status'] = 'Statut partiellement remboursé: ';
 
 // Help
 $_['help_username'] = 'L&rsquo;adresse e-mail utilisée pour votre compte';

@@ -17,6 +17,6 @@ $_['entry_email']                  = 'E-mail';
 $_['entry_password']               = 'Mot de passe';
 
 // Error
-$_['error_login']                  = 'Attention: aucune correspondance trouvée entre ce nom d&rsquo;utilisateur et/ou ce mot de passe.';
+$_['error_login']                  = 'Attention: aucune correspondance n&rsquo;a été trouvée entre ce nom d&rsquo;utilisateur et/ou ce mot de passe.';
 $_['error_attempts']               = 'Attention: votre compte a dépassé le nombre autorisé de tentatives de connexion. Merci d&rsquo;essayer à nouveau dans 1 heure.';
 $_['error_approved']               = 'Attention: votre compte nécessite d&rsquo;être approuvé avant que vous puissiez vous connecter.';

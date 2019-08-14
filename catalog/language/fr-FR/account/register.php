@@ -22,7 +22,7 @@ $_['entry_password']       = 'Mot de passe';
 $_['entry_confirm']        = 'Confirmer le mot de passe';
 
 // Error
-$_['error_exists']         = 'Attention: cet e-mail est déjà enregistrée !';
+$_['error_exists']         = 'Attention: cet e-mail est déjà enregistré !';
 $_['error_firstname']      = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']       = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
 $_['error_email']          = 'L&rsquo;adresse e-mail ne semble pas être valide !';

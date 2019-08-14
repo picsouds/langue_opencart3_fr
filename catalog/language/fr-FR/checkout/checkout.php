@@ -69,7 +69,7 @@ $_['entry_shipping']                 = 'Mes adresses de livraison et de facturat
 
 // Error
 $_['error_warning']                  = 'Une erreur s&rsquo;est produite lors du traitement de votre commande ! Si le problème persiste, veuillez essayez de sélectionner un autre moyen de paiement ou bien contactez le propriétaire de la boutique en <a href="%s"> cliquant ici</a>.';
-$_['error_login']                    = 'Attention: aucune correspondance trouvée entre ce nom d&rsquo;utilisateur et/ou ce mot de passe.';
+$_['error_login']                    = 'Attention: aucune correspondance n&rsquo;a été trouvée entre ce nom d&rsquo;utilisateur et/ou ce mot de passe.';
 $_['error_attempts']                 = 'Attention: votre compte a dépassé le nombre autorisé de tentatives de connexion. Veuillez réessayer dans 1 heure. ';
 $_['error_approved']                 = 'Attention: votre compte nécessite d&rsquo;avoir été approuvé avant que vous puissiez vous connecter.';
 $_['error_exists']                   = 'Attention: cet e-mail est déjà enregistré !';

@@ -64,7 +64,7 @@ $_['text_payment_info']        = 'Informations de paiement';
 $_['text_no_cron_time']        = 'Le cron n&rsquo;a pas encore été exécuté ';
 $_['text_comment']             = 'Mis à jour par Lay-Buy';
 $_['text_comment_canceled']    = 'Commande annulée et récurrente du profil PayPal #%s annulé.';
-$_['text_remaining']           = 'Restant:';
+$_['text_remaining']           = 'Restant: ';
 $_['text_payment']             = 'Paiement';
 
 // Column

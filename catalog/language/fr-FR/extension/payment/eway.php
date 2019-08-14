@@ -18,7 +18,7 @@ $_['entry_cc_cvv2'] 		= 'Cryptogramme visuel (CVV2)';
 
 $_['button_pay']		    = 'Payer maintenant';
 
-$_['text_card_accepted'] 	= 'Cartes acceptées:';
+$_['text_card_accepted'] 	= 'Cartes acceptées: ';
 $_['text_card_type_m'] 		= 'Mastercard';
 $_['text_card_type_v']		= 'Visa (crédit / débit / électronique / delta)';
 $_['text_card_type_c']		= 'Diners';

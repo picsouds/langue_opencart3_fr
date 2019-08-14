@@ -39,7 +39,7 @@ $_['column_description']        = 'Description';
 $_['column_amount']             = 'Montant';
 $_['column_points']             = 'Points';
 $_['column_ip']                 = 'IP';
-$_['column_total']              = 'Solde total';
+$_['column_total']              = 'Total des comptes';
 $_['column_action']             = 'Action';
 
 // Entry

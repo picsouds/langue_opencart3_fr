@@ -23,7 +23,7 @@ $_['entry_lastname']            = 'Nom de famille';
 $_['entry_email']               = 'E-mail';
 $_['entry_telephone']           = 'Téléphone';
 $_['entry_company']             = 'Société';
-$_['entry_website']             = 'Site Internet';
+$_['entry_website']             = 'Site web';
 $_['entry_tax']                 = 'Numéro d&rsquo;identification fiscale';
 $_['entry_payment']             = 'Moyen de paiement';
 $_['entry_cheque']              = 'Nom de bénéficiaire du chèque';
@@ -37,7 +37,7 @@ $_['entry_password']            = 'Mot de passe';
 $_['entry_confirm']             = 'Confirmer le mot de passe';
 
 // Error
-$_['error_exists']              = 'Attention: cet e-mail est déjà enregistrée !';
+$_['error_exists']              = 'Attention: cet e-mail est déjà enregistré !';
 $_['error_firstname']           = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']            = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
 $_['error_email']               = 'L&rsquo;adresse e-mail ne semble pas être valide !';

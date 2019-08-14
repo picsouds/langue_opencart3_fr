@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_title']				                = 'EC-Ship';
-$_['text_weight'] 				                = 'Poids:';
+$_['text_weight'] 				                = 'Poids: ';
 $_['text_air_registered_mail'] 			        = 'Courrier recommandé par air';
 $_['text_air_parcel'] 				            = 'Colis aérien';
 $_['text_e_express_service_to_us'] 		        = 'Service e-Express vers US';
