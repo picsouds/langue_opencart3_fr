@@ -200,7 +200,7 @@ $_['error_curl']                    = 'CURL: code d&rsquo;erreur (%s): %s';
 //$_['summernote']                    = 'zh-TW';
 
 // Datepicker
-$_['datepicker']                    = 'en-gb';
+//$_['datepicker']                    = 'en-gb';
 //$_['datepicker']                    = 'af';
 //$_['datepicker']                    = 'ar-dz';
 //$_['datepicker']                    = 'ar-kw';
@@ -241,7 +241,7 @@ $_['datepicker']                    = 'en-gb';
 //$_['datepicker']                    = 'fo';
 //$_['datepicker']                    = 'fr-ca';
 //$_['datepicker']                    = 'fr-ch';
-//$_['datepicker']                    = 'fr';
+$_['datepicker']                    = 'fr';
 //$_['datepicker']                    = 'fy';
 //$_['datepicker']                    = 'gd';
 //$_['datepicker']                    = 'gl';
