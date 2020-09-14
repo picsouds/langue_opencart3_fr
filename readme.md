@@ -6,7 +6,7 @@ Pack de langue française pour opencart 3.0.3.1 (admin/catalog) [OpenCart](https
 
 ## Installation 
 
-Extraire les répertoires `/admin/language/fr-FR` et `/admin/catalog/fr-FR` dans le répertoire `upload` de votre site.
+Extraire les répertoires `admin/language/fr-FR` et `catalog/language/fr-FR` dans le répertoire `upload` de votre site.
 
 __A partir de l'installation par défaut (en langue anglaise)__
 
@@ -27,7 +27,7 @@ __A partir de l'installation par défaut (en langue anglaise)__
 
 ## Nouvelle Installation
 
-Extraire les répertoires `/admin/language/fr-FR`, `/admin/catalog/fr-FR` et `install` dans le répertoire `upload` de votre site.
+Extraire les répertoires `admin/language/fr-FR`, `catalog/language/fr-FR` et `install` dans le répertoire `upload` de votre site.
 
 1. Suivre la procédure d'installation classique (Language Francais disponible sur la procédure d'installation)
 2. L'étape 4/4 de l'installation exécute les requêtes de `opencart.sql` et installe l'environnement français par défaut ainsi que les données (catégories, produits ...)
