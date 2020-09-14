@@ -33,7 +33,7 @@ $_['text_token_issue_customer_error'] 		= 'Nous rencontrons une panne technique 
 $_['text_token_revoked_subject'] 			= 'Votre jeton d&rsquo;accès Square a été révoqué!';
 $_['text_token_revoked_message'] 			= "L&rsquo;accès de l&rsquo;extension de paiement Square à votre compte Square a été révoqué via le tableau de bord Square. Vous devez vérifier les informations d&rsquo;identification de votre application dans les paramètres d&rsquo;extension et vous reconnecter.";
 $_['text_token_expired_subject'] 			= 'Votre jeton d&rsquo;accès Square a expiré!';
-$_['text_token_expired_message'] 			= 'Le jeton d\accès de l&rsquo;extension de paiement Square connecté à votre compte Square a expiré. Vous devez vérifier vos références d&rsquo;application et votre job CRON dans les paramètres d&rsquo;extension et vous reconnecter.';
+$_['text_token_expired_message'] 			= 'Le jeton d&rsquo;accès de l&rsquo;extension de paiement Square connecté à votre compte Square a expiré. Vous devez vérifier vos références d&rsquo;application et votre job CRON dans les paramètres d&rsquo;extension et vous reconnecter.';
 
 // Error
 $_['error_browser_not_supported']			= 'Erreur: le système de paiement ne prend plus en charge votre navigateur Web. Veuillez mettre à jour ou utiliser un autre. ';

@@ -90,7 +90,7 @@ $_['button_rebate']  = 'Remise et/ou remboursement';
 $_['button_void']    = 'Annulation';
 
 // Error
-$_['error_merchant_id']     = 'L\ID marchand est requis.';
+$_['error_merchant_id']     = 'L&rsquo;ID marchand est requis.';
 $_['error_secret']          = 'Le mot secret partagé est requis';
 $_['error_live_url']        = 'L&rsquo;URL de production est nécessaire';
 $_['error_demo_url']        = 'L&rsquo;URL de démonstration est requise';

@@ -86,7 +86,7 @@ $_['help_ipn']       = 'Nécessaire pour les abonnements';
 $_['help_total']     = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 $_['help_logo']      = 'Maximum 750px (largeur) × 90px (hauteur) <br/> vous ne devez utiliser un logo que si vous avez SSL.';
 $_['help_currency']  = 'Utilisé pour les recherches de transaction';
-$_['help_pp_credit'] = 'Les marchands non américains doivent faire une demande pour accepter le crédit PayPal, contactez PayPal pour plus d\’informations. Activé par défaut pour tous les acheteurs américains ';
+$_['help_pp_credit'] = 'Les marchands non américains doivent faire une demande pour accepter le crédit PayPal, contactez PayPal pour plus d&rsquo;informations. Activé par défaut pour tous les acheteurs américains ';
 $_['help_pp_cards']  = 'Activé par défaut pour tous les acheteurs';
 $_['help_pp_elv']    = 'Elektronisches Lastschriftverfahren (paiements bancaires). Activé par défaut pour tous les acheteurs DE ';
 

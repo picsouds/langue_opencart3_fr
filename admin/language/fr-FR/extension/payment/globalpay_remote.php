@@ -70,7 +70,7 @@ $_['entry_status_rebate']            = 'Remboursé';
 
 // Help
 $_['help_total']            = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
-$_['help_card_select']      = 'Demander à l&rsquo;utilisateur de choisir le type de carte bancaire avant qu\ils soient redirigés';
+$_['help_card_select']      = 'Demander à l&rsquo;utilisateur de choisir le type de carte bancaire avant qu&rsquo;ils soient redirigés';
 $_['help_notification']     = 'Vous devez fournir cette URL à Globalpay pour recevoir des notifications de paiement';
 $_['help_debug']            = 'En activant le débogage, vous autorisez l&rsquo;écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
 $_['help_liability']        = 'Accepter la responsabilité signifie que vous accepterez toujours les paiements lorsqu&rsquo;un utilisateur échoue le protocole 3-D secure.';
