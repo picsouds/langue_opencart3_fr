@@ -1191,8 +1191,8 @@ CREATE TABLE `oc_customer_group_description` (
 --
 
 INSERT INTO `oc_customer_group_description` (`customer_group_id`, `language_id`, `name`, `description`) VALUES
-(1, 1, 'Default', 'test'),
-(1, 2, 'Default', 'test');
+(1, 1, 'Default', 'default client group'),
+(1, 2, 'Défaut', 'groupe de clients par défaut');
 
 -----------------------------------------------------------
 
@@ -1348,6 +1348,15 @@ CREATE TABLE `oc_custom_field` (
   PRIMARY KEY (`custom_field_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
+--
+-- Dumping data for table `oc_custom_field` 
+--
+
+INSERT INTO `oc_custom_field` (`custom_field_id`,`type`,`value`,`validation`,`location`,`status`,`sort_order`) VALUES 
+---(1,'date','','/^(19|20)\d{2}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])$/','account',1,5),
+(1,'date','','/^(0[1-9]|[1-2][0-9]|3[0-1])-(0[1-9]|1[0-2])-(19|20)\\d{2}$/','account',1,5),
+(2,'select','','','account',1,0);
+
 -----------------------------------------------------------
 
 --
@@ -1361,6 +1370,14 @@ CREATE TABLE `oc_custom_field_customer_group` (
   `required` tinyint(1) NOT NULL,
   PRIMARY KEY (`custom_field_id`,`customer_group_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Dumping data for table `oc_custom_field_customer_group` 
+--
+
+INSERT INTO `oc_custom_field_customer_group` (`custom_field_id`,`customer_group_id`,`required`) VALUES 
+(1,1,0),
+(2,1,1);
 
 -----------------------------------------------------------
 
@@ -1376,6 +1393,16 @@ CREATE TABLE `oc_custom_field_description` (
   PRIMARY KEY (`custom_field_id`,`language_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
+--
+-- Dumping data for table `oc_custom_field_description` 
+--
+
+INSERT INTO `oc_custom_field_description` (`custom_field_id`,`language_id`,`name`) VALUES 
+(1,1,'Birth date'),
+(1,2,'Date de naissance'),
+(2,1,'Civility'),
+(2,2,'Civilité');
+
 -----------------------------------------------------------
 
 --
@@ -1389,6 +1416,15 @@ CREATE TABLE `oc_custom_field_value` (
   `sort_order` int(3) NOT NULL,
   PRIMARY KEY (`custom_field_value_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Dumping data for table `oc_custom_field_value` 
+--
+
+INSERT INTO `oc_custom_field_value` (`custom_field_value_id`,`custom_field_id`,`sort_order`) VALUES 
+(1,1,0),
+(2,2,0),
+(3,2,0);
 
 -----------------------------------------------------------
 
@@ -1404,6 +1440,18 @@ CREATE TABLE `oc_custom_field_value_description` (
   `name` varchar(128) NOT NULL,
   PRIMARY KEY (`custom_field_value_id`,`language_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Dumping data for table `oc_custom_field_value_description` 
+--
+
+INSERT INTO `oc_custom_field_value_description` (`custom_field_value_id`,`language_id`,`custom_field_id`,`name`) VALUES 
+(1,1,1,''),
+(1,2,1,''),
+(2,1,2,'Mr.'),
+(2,2,2,'Monsieur'),
+(3,1,2,'Mrs'),
+(3,2,2,'Madame');
 
 -----------------------------------------------------------
 
@@ -2662,7 +2710,7 @@ INSERT INTO `oc_product` (`product_id`, `model`, `sku`, `upc`, `ean`, `jan`, `is
 
 DROP TABLE IF EXISTS `oc_product_advertise_google`;
 CREATE TABLE `oc_product_advertise_google` (
-  `product_advertise_google_id` int(11) UNSIGNED NOT NULL,
+  `product_advertise_google_id` int(11) UNSIGNED NOT NULL AUTO_INCREMENT,
   `product_id` int(11) DEFAULT NULL,
   `store_id` int(11) NOT NULL DEFAULT '0',
   `has_issues` tinyint(1) DEFAULT NULL,
@@ -3482,7 +3530,7 @@ CREATE TABLE `oc_setting` (
   `store_id` int(11) NOT NULL DEFAULT '0',
   `code` varchar(128) NOT NULL,
   `key` varchar(128) NOT NULL,
-  `value` text NOT NULL,
+  `value` longtext NOT NULL,
   `serialized` tinyint(1) NOT NULL,
   PRIMARY KEY (`setting_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
@@ -3516,7 +3564,7 @@ INSERT INTO `oc_setting` (`store_id`, `code`, `key`, `value`, `serialized`) VALU
 (0, 'config', 'config_currency', 'EUR', 0),
 (0, 'config', 'config_currency_auto', '1', 0),
 (0, 'config', 'config_length_class_id', '1', 0),
-(0, 'config', 'config_weight_class_id', '2', 0),
+(0, 'config', 'config_weight_class_id', '1', 0),
 (0, 'config', 'config_product_count', '1', 0),
 (0, 'config', 'config_limit_admin', '20', 0),
 (0, 'config', 'config_review_status', '1', 0),
