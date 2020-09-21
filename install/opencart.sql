@@ -1348,15 +1348,6 @@ CREATE TABLE `oc_custom_field` (
   PRIMARY KEY (`custom_field_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
---
--- Dumping data for table `oc_custom_field` 
---
-
-INSERT INTO `oc_custom_field` (`custom_field_id`,`type`,`value`,`validation`,`location`,`status`,`sort_order`) VALUES 
----(1,'date','','/^(19|20)\d{2}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])$/','account',1,5),
-(1,'date','','/^(0[1-9]|[1-2][0-9]|3[0-1])-(0[1-9]|1[0-2])-(19|20)\\d{2}$/','account',1,5),
-(2,'select','','','account',1,0);
-
 -----------------------------------------------------------
 
 --
@@ -1370,14 +1361,6 @@ CREATE TABLE `oc_custom_field_customer_group` (
   `required` tinyint(1) NOT NULL,
   PRIMARY KEY (`custom_field_id`,`customer_group_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
-
---
--- Dumping data for table `oc_custom_field_customer_group` 
---
-
-INSERT INTO `oc_custom_field_customer_group` (`custom_field_id`,`customer_group_id`,`required`) VALUES 
-(1,1,0),
-(2,1,1);
 
 -----------------------------------------------------------
 
@@ -1393,16 +1376,6 @@ CREATE TABLE `oc_custom_field_description` (
   PRIMARY KEY (`custom_field_id`,`language_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
 
---
--- Dumping data for table `oc_custom_field_description` 
---
-
-INSERT INTO `oc_custom_field_description` (`custom_field_id`,`language_id`,`name`) VALUES 
-(1,1,'Birth date'),
-(1,2,'Date de naissance'),
-(2,1,'Civility'),
-(2,2,'Civilité');
-
 -----------------------------------------------------------
 
 --
@@ -1416,15 +1389,6 @@ CREATE TABLE `oc_custom_field_value` (
   `sort_order` int(3) NOT NULL,
   PRIMARY KEY (`custom_field_value_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
-
---
--- Dumping data for table `oc_custom_field_value` 
---
-
-INSERT INTO `oc_custom_field_value` (`custom_field_value_id`,`custom_field_id`,`sort_order`) VALUES 
-(1,1,0),
-(2,2,0),
-(3,2,0);
 
 -----------------------------------------------------------
 
@@ -1440,18 +1404,6 @@ CREATE TABLE `oc_custom_field_value_description` (
   `name` varchar(128) NOT NULL,
   PRIMARY KEY (`custom_field_value_id`,`language_id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
-
---
--- Dumping data for table `oc_custom_field_value_description` 
---
-
-INSERT INTO `oc_custom_field_value_description` (`custom_field_value_id`,`language_id`,`custom_field_id`,`name`) VALUES 
-(1,1,1,''),
-(1,2,1,''),
-(2,1,2,'Mr.'),
-(2,2,2,'Monsieur'),
-(3,1,2,'Mrs'),
-(3,2,2,'Madame');
 
 -----------------------------------------------------------
 
