@@ -29,19 +29,19 @@ $_['entry_secret_token']                 = 'Jeton secret';
 $_['entry_webhook_url']                  = 'URL du webhook';
 $_['entry_cron_job_url']                 = 'URL du planificateur CRON : ';
 $_['entry_last_cron_job_run']            = 'Dernière exécution CRON : ';
-$_['entry_success_status']               = 'Statut « Réussi »';
-$_['entry_failed_status']                = 'Statut « Echoué »';
-$_['entry_settled_status']               = 'Statut « Réglé »';
-$_['entry_refunded_status']              = 'Statut « Remboursé »';
-$_['entry_partially_refunded_status']    = 'Statut « Partiellement remboursé »';
-$_['entry_charged_back_status']          = 'Statut « Rechargé »';
-$_['entry_information_requested_status'] = 'Informations requises';
-$_['entry_information_supplied_status']  = 'Informations fournies';
-$_['entry_chargeback_reversed_status']   = 'Contrepartie du statut « Paiement retourné »';
+$_['entry_success_status']               = 'Statut Réussi';
+$_['entry_failed_status']                = 'Statut Echoué';
+$_['entry_settled_status']               = 'Statut Réglé';
+$_['entry_refunded_status']              = 'Statut Remboursé';
+$_['entry_partially_refunded_status']    = 'Statut Partiellement remboursé';
+$_['entry_charged_back_status']          = 'Statut Rétrofacturation';
+$_['entry_information_requested_status'] = 'Statut Informations requises';
+$_['entry_information_supplied_status']  = 'Statut Informations fournies';
+$_['entry_chargeback_reversed_status']   = 'Statut Annulation de la rétrofacturation';
 
 
-$_['entry_reversed_status'] = 'Statut « Paiement retourné »';
-$_['entry_voided_status']   = 'Statut « Annulé »';
+$_['entry_reversed_status'] = 'Statut Annulé';
+$_['entry_voided_status']   = 'Statut Annulé';
 
 // Help
 $_['help_total']        = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
@@ -73,3 +73,4 @@ $_['text_column_date_added'] = 'Date d&rsquo;ajout';
 $_['text_confirm_refund'] = 'Etes-vous certain de vouloir effectuer un remboursement du paiement ?';
 
 $_['button_refund'] = 'Remise / remboursement';
+

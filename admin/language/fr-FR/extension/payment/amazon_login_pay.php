@@ -75,6 +75,7 @@ $_['text_credentials']             = 'Veuillez coller vos clés ici (au format J
 $_['text_validate_credentials']    = 'Valider et utiliser les informations d&rsquo;identification';
 $_['text_extension']               = 'Extensions';
 $_['text_info_ssl']                = '<strong>Important:</strong> SSL (https://) est obligatoire et doit être activé sur votre site Web pour que Amazon Pay et la connexion avec les boutons Amazon fonctionnent.';
+$_['text_info_buyer_multi_currencies'] = 'Cette extension prend en charge la fonctionnalité multi-devises. Si vous souhaitez l&rsquo;utiliser, assurez-vous d&rsquo;avoir activé au moins l&rsquo;une des <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>devises prises en charge par Amazon Pay</b></a> dans les paramètres de votre boutique en ligne <b><a href="index.php?route=localisation/currency&user_token=%s">(%s > %s > %s )</b></a>, puis activez la <b>fonction multi-devises</b>';
 
 // Columns
 $_['column_status'] = 'Statut';
@@ -91,7 +92,8 @@ $_['entry_login_pay_mode'] = 'Mode de paiement';
 $_['entry_checkout']       = 'Mode de paiement';
 $_['entry_payment_region'] = 'Région de paiement';
 $_['entry_capture_status'] = 'Statut de capture automatique';
-$_['entry_pending_status'] = 'Statut « en attente »';
+$_['entry_pending_status'] = 'Statut en attente';
+$_['entry_capture_oc_status']  = 'Statut de l&rsquo;ordre de capture';
 $_['entry_ipn_url']        = 'Adresse URL IPN';
 $_['entry_ipn_token']      = 'Jeton secret';
 $_['entry_debug']          = 'Enregistrements de débogage';
@@ -100,11 +102,14 @@ $_['entry_debug']          = 'Enregistrements de débogage';
 $_['help_pay_mode']       = 'Paiement uniquement disponible pour les boutiques localisée aux Etats-Unis';
 $_['help_checkout']       = 'Le bouton de paiement doit-il également se connecter au client ?';
 $_['help_capture_status'] = 'Choisissez le statut de la commande qui déclenchera la capture automatique d&rsquo;un paiement autorisé';
+$_['help_capture_oc_status'] = 'Choisissez le statut de la commande que la commande obtiendra une fois qu&rsquo;elle sera capturée dans Amazon Seller Central ou à partir de la fonction de capture dans l&rsquo;admin OpenCart > %s > %s > %s.';
 $_['help_ipn_url']        = 'Définissez ceci comme votre URL sur Amazon Seller Central';
 $_['help_ipn_token']      = 'Définissez-le assez long et difficle à deviner';
 $_['help_minimum_total']  = 'Cela doit être au dessus de zéro';
 $_['help_debug']          = 'En activant le débogage, vous autorisez l&rsquo;écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire';
 $_['help_declined_codes'] = 'Ceci à des fins de test uniquement';
+$_['help_buyer_multi_currency']     = 'Enable this option if you would like the buyer to shop in any of the Amazon Pay supported currencies available in your on-line store: %s';
+$_['help_buyer_multi_currency_no_available_currency']     = 'There are no <a href="https://pay.amazon.co.uk/help/5BDCWHCUC27485L"><b>Amazon Pay supported currencies</b></a> available in your on-line store, please add/enable such currencies in order to use this functionality.';
 
 // Order Info
 $_['tab_order_adjustment'] = 'Ajustement de la commande';
@@ -122,6 +127,7 @@ $_['error_curreny']       = 'Votre boutique doit avoir la devise %s installée e
 $_['error_upload']        = 'Le téléchargement a échoué';
 $_['error_data_missing']  = 'Données requises manquantes';
 $_['error_credentials']   = 'Veuillez entrer les clés dans un format JSON valide';
+$_['error_no_supported_currencies'] = 'Aucune devise prise en charge n&rsquo;est disponible dans votre boutique, veuillez ajouter / activer les devises prises en charge par l&rsquo;acheteur pour plusieurs devises afin d&rsquo;utiliser cette fonctionnalité.';
 
 // Buttons
 $_['button_capture'] = 'Réceptionner';

@@ -11,8 +11,8 @@ $_['text_automatic']   = 'Déplacer automatiquement';
 $_['text_manual']      = 'Déplacer manuellement';
 $_['text_move']        = 'Déplacer';
 $_['text_to']          = 'Vers';
-$_['text_config']      = 'Modifier config.php change';
-$_['text_admin']       = 'Modifier admin / config.php et changer';
+$_['text_config']      = 'Modifier config.php ';
+$_['text_admin']       = 'Modifier admin.php / config.php';
 
 // Button
 $_['button_move']      = 'Déplacer';

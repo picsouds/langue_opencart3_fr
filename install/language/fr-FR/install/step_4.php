@@ -10,8 +10,6 @@ $_['text_loading']                = 'Loading modules...';
 $_['text_extension']              = 'Visitez le Marketplace';
 $_['text_mail']                   = 'Rejoignez la liste de diffusion';
 $_['text_mail_description']       = 'Restez informé des mises à jour et des événements OpenCart.';
-$_['text_openbay']                = 'OpenBay Pro donne aux marchands la possibilité de relier leur magasin à des markets tiers tels que eBay et Amazon. Importez les commandes, répertoriez les articles et gérez les informations d’expédition directement depuis OpenCart ... <a href="http://www.openbaypro.com/?utm_source=opencart_install&utm_medium=referral&utm_campaign=opencart_install" target="_blank"> Plus d&rsquo;informations </a > ';
-$_['text_amazon_pay']             = 'Amazon Pay est une solution de paiement sécurisée qui permet aux clients d’effectuer des opérations d&rsquo;achats en utilisant les informations déjà stockées sur leur compte Amazon. C’est rapide, simple et sécurisé .... <a href="https://pay.amazon.com/fr/signup" target="_blank"> Plus d&rsquo;informations </a> ';
 $_['text_facebook']               = 'Likez nous sur Facebook';
 $_['text_facebook_description']   = 'Dites-nous à quel point vous aimez OpenCart!';
 $_['text_facebook_visit']         = 'Visitez notre page Facebook';

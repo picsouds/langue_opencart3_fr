@@ -4,7 +4,7 @@ $_['heading_title']          = 'Globalpay Redirect';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module « Globalpay Redirect » !';
+$_['text_success']           = 'Succès: vous avez modifié le module Globalpay Redirect !';
 $_['text_edit']              = 'Modifier Globalpay Redirect';
 $_['text_live']              = 'Direct';
 $_['text_demo']              = 'Démonstration';

@@ -141,16 +141,16 @@ $_['entry_message']                  = 'Message';
 $_['entry_ipn_url']                  = 'Adresse URL IPN : ';
 $_['entry_checkout_method']          = 'Méthode de paiement : ';
 $_['entry_debug']                    = 'Mode de débogage : ';
-$_['entry_canceled_reversal_status'] = 'Statut « Annulation de retour de paiement »';
-$_['entry_completed_status']         = 'Statut « Terminé »';
-$_['entry_denied_status']            = 'Statut « Refusé »';
-$_['entry_expired_status']           = 'Statut « Expiré »';
-$_['entry_failed_status']            = 'Statut « Echoué »';
-$_['entry_pending_status']           = 'Statut « En attente »';
-$_['entry_processed_status']         = 'Statut « Traité »';
-$_['entry_refunded_status']          = 'Statut « Remboursé »';
-$_['entry_reversed_status']          = 'Statut « Paiement retourné »';
-$_['entry_voided_status']            = 'Statut « Annulé »';
+$_['entry_canceled_reversal_status'] = 'Statut Annulation de retour de paiement';
+$_['entry_completed_status']         = 'Statut Terminé';
+$_['entry_denied_status']            = 'Statut Refusé';
+$_['entry_expired_status']           = 'Statut Expiré';
+$_['entry_failed_status']            = 'Statut Echoué';
+$_['entry_pending_status']           = 'Statut En attente';
+$_['entry_processed_status']         = 'Statut Traité ';
+$_['entry_refunded_status']          = 'Statut Remboursé';
+$_['entry_reversed_status']          = 'Statut Annulé';
+$_['entry_voided_status']            = 'Statut Annulé';
 
 // Help
 $_['help_test']  = 'Utilisez le live ou pour tester serveur de passerelle (bac à sable) pour traiter les transactions ? Le test peut échouer avec Internet Explorer';

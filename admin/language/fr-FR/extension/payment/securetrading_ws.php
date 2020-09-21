@@ -10,7 +10,7 @@ $_['text_all_geo_zones']                         = 'Toutes les zones géographiq
 $_['text_process_immediately']                   = 'Procéder immédiatement';
 $_['text_wait_x_days']                           = 'Attendre %d jours';
 $_['text_wait']                                  = 'Veuillez patienter.';
-$_['text_authorisation_reversed']                = 'L&rsquo;autorisation a été reversée avec succès';
+$_['text_authorisation_reversed']                = 'L&rsquo;autorisation a été annulée avec succès';
 $_['text_refund_issued']                         = 'Le remboursement a été envoyé avec succès';
 $_['text_success']                               = 'Succès: vous avez modifié le module de service web Secure Trading !';
 $_['text_pending_settlement']                    = 'Réglement en attente';
@@ -56,8 +56,8 @@ $_['entry_order_status']          = 'Statut de la commande';
 $_['entry_failed_order_status']   = 'Statut des commandes ayant échoué';
 $_['entry_declined_order_status'] = 'Statut des commandes refusées';
 $_['entry_refunded_order_status'] = 'Statut des commandes remboursées';
-
-$_['entry_authorisation_reversed_order_status'] = 'Autorisation inversée de l&rsquo;état de la commande';
+ 
+$_['entry_authorisation_reversed_order_status'] = 'Statut Autorisation annulée';
 $_['entry_settle_status']                       = 'Statut de règlement';
 $_['entry_settle_due_date']                     = 'Date limite de règlement';
 $_['entry_geo_zone']                            = 'Zone géographique';
@@ -75,7 +75,7 @@ $_['entry_date_from']                           = 'Date de';
 $_['entry_date_to']                             = 'Date à';
 $_['entry_hour']                                = 'Heure';
 $_['entry_minute']                              = 'Minute';
-
+ 
 $_['column_order_id']              = 'ID Commande';
 $_['column_transaction_reference'] = 'Référence de la transaction';
 $_['column_customer']              = 'Client';
@@ -85,7 +85,7 @@ $_['column_settle_status']         = 'Statut de réglement';
 $_['column_status']                = 'Etat';
 $_['column_type']                  = 'Type';
 $_['column_payment_type']          = 'Type de paiement';
-
+ 
 $_['error_permission']     = 'Attention: vous n&rsquo;êtes pas autorisé à modifier ce module';
 $_['error_site_reference'] = 'La référence du site est requise';
 $_['error_cards_accepted'] = 'Les cartes acceptées sont requises';
@@ -93,12 +93,12 @@ $_['error_username']       = 'Le nom d&rsquo;utilisateur est requis';
 $_['error_password']       = 'Le mot de passe est requis';
 $_['error_connection']     = 'Impossible de se connecter à Secure Trading';
 $_['error_data_missing']   = 'Données manquantes';
-
+ 
 $_['help_refund']       = 'Veuillez inclure le point décimal et la partie décimale du montant';
 $_['help_csv_username'] = 'Nom d&rsquo;utilisateur du service de téléchargement de transaction';
 $_['help_csv_password'] = 'Mot de passe du service de téléchargement de transaction';
 $_['help_total']        = 'Le total de la commande doit atteindre avant que cette méthode de paiement ne devienne active';
-
+ 
 $_['button_reverse_authorisation'] = 'Autorisation inverse';
 $_['button_refund']                = 'Remboursement';
 $_['button_show']                  = 'Afficher';

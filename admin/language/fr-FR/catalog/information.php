@@ -43,3 +43,4 @@ $_['error_account']          = 'Attention: cette page d&rsquo;information ne peu
 $_['error_checkout']         = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée aux conditions de paiement de la boutique! ';
 $_['error_affiliate']        = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme termes d&rsquo;affiliation de la boutique!';
 $_['error_return']           = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme conditions de retour de la boutique!';
+$_['error_store']            = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement utilisée par la boutique %s!';
