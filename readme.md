@@ -36,10 +36,16 @@ Extraire les répertoires `admin/language/fr-FR`, `catalog/language/fr-FR` et `i
 
 [pack fr opencart 3.0.3.1](https://github.com/picsouds/langue_opencart3_fr/tree/3.0.3.1) 
 
+## Remerciements
+
+[Kat](mailto:katydy3@gmail.com) - traductrice post-éditeur/réviseuse 
+
 ## License
 
 MIT
 
 **Free Software, Hell Yeah!**
+
+
 
 
