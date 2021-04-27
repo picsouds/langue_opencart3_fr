@@ -11,6 +11,7 @@ $_['text_add']           = 'Votre adresse a été correctement ajoutée';
 $_['text_edit']          = 'Votre adresse a été correctement modifiée';
 $_['text_delete']        = 'Votre adresse a été correctement supprimée';
 $_['text_empty']         = 'Vous n&rsquo;avez pas saisi d&rsquo;adresse pour votre compte.';
+$_['text_confirm']       = 'Etes-vous sûr ?';
 
 // Entry
 $_['entry_firstname']    = 'Prénom';

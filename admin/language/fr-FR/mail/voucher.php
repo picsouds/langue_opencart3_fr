@@ -7,3 +7,4 @@ $_['text_from']     = 'Ce chèque cadeau a été envoyé de la part de %s';
 $_['text_message']  = 'Avec le message suivant';
 $_['text_redeem']   = 'Pour échanger ce chèque cadeau, notez bien le code de rachat qui est <b>%s</b>. Cliquer ensuite sur le lien ci-dessous et acheter le produit pour lequel vous souhaitez utiliser ce chèque cadeau. Vous pouvez entrer le code du chèque cadeau sur la page du panier avant de valider la commande.';
 $_['text_footer']   = 'Veuillez répondre à ce message si vous avez des questions.';
+$_['text_sent']     = 'Succès : L\'e-mail du chèque-cadeau a été envoyé !';

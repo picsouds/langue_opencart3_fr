@@ -46,6 +46,7 @@ $_['text_name']          = 'Nom du téléchargement';
 $_['text_progress']      = 'Progression';
 $_['text_available']     = 'Installations disponibles';
 $_['text_action']        = 'Action';
+$_['text_see_more']      = 'Voir plus de réponses...';
 
 // Entry
 $_['entry_pin']          = 'PIN';
@@ -63,6 +64,7 @@ $_['button_view_all']    = 'Voir toutes les extensions';
 $_['button_get_support'] = 'Obtenir de l&rsquo;aide';
 $_['button_comment']     = 'Commentaires';
 $_['button_reply']       = 'Répondre';
+$_['button_refresh']     = 'Actualiser';
 
 // Error
 $_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les extensions!';

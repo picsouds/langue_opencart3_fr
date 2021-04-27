@@ -18,6 +18,7 @@ $_['text_column_type']       = 'Type';
 $_['text_column_date_added'] = 'Ajouté';
 $_['text_refund_ok']         = 'Le remboursement a été demandé avec succès';
 $_['text_refund_ok_order']   = 'Le remboursement a été demandé avec succès, le montant a été intégralement remboursé';
+$_['text_refund']            = 'Remboursement';
 
 // Entry
 $_['entry_username']                  = 'Nom d&rsquo;utilisateur';

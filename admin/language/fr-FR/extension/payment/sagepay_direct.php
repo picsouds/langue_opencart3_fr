@@ -54,6 +54,9 @@ $_['help_debug']          = 'En activant le débogage, vous autorisez l&rsquo;é
 $_['help_transaction']    = 'La méthode de transaction doit être définie sur Paiement pour autoriser les prélèvements';
 $_['help_cron_job_token'] = 'Utilisez une valeur longue et difficile à deviner';
 $_['help_cron_job_url']   = 'Définissez une tâche CRON pour appeler cette URL';
+$_['text_void']           = 'Annulé';
+$_['text_payment']        = 'Paiement';
+$_['text_rebate']         = 'Remboursement';
 
 // Button
 $_['button_release'] = 'Envoi';

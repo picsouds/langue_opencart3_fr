@@ -18,7 +18,6 @@ $_['text_month']               = 'Mois';
 $_['text_year']                = 'Année';
 $_['text_trial']               = '%s chaque %s %s pour %s paiements soit ';
 $_['text_recurring']           = '%s chaque %s %s';
-$_['text_payment_cancel']      = 'Jusqu&rsquo;à annulation';
 $_['text_recurring_item']      = 'Elément récurrent';
 $_['text_payment_recurring']   = 'Profil de paiement';
 $_['text_trial_description']   = '%s chaque %d %s(s) pour %d paiement(s) soit';

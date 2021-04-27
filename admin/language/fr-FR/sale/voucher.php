@@ -7,7 +7,6 @@ $_['text_success']      = 'Succès: vous avez modifié les chèques cadeaux !';
 $_['text_list']         = 'Liste des chèques cadeau';
 $_['text_add']          = 'Ajouter un chèque cadeau';
 $_['text_edit']         = 'Modifier un chèque cadeau';
-$_['text_sent']         = 'Succès: le chèque cadeau a été envoyé !';
 
 // Column
 $_['column_name']       = 'Nom du chèque cadeau';

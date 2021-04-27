@@ -39,6 +39,9 @@ $_['text_confirm_void']     = 'Etes-vous certain de vouloir annuler le paiement 
 $_['text_confirm_capture']  = 'Etes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_rebate']   = 'Etes-vous certain de vouloir remboursement le paiement ?';
 $_['text_realex_remote']    = '<a target="_BLANK" href="http://www.realexpayments.co.uk/partner-refer?id=opencart"><img src="view/image/payment/realex.png" alt="Realex" title="Realex" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_void']              = 'Annulé';
+$_['text_payment']           = 'Paiement';
+$_['text_rebate']            = 'Remboursement';
 
 // Column
 $_['text_column_amount']     = 'Montant';

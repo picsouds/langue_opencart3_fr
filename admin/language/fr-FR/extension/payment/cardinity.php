@@ -15,6 +15,8 @@ $_['text_confirm_refund']   = 'Etes-vous sûr de vouloir rembourser';
 $_['text_na']               = 'N/A';
 $_['text_success_action']   = 'Succès';
 $_['text_error_generic']    = 'Erreur: une erreur est survenue dans votre requête. Veuillez vérifier les journaux. ';
+$_['text_amount']			= 'Montant';
+$_['text_description']	    = 'Description';
 
 // Column
 $_['column_refund']         = 'Remboursement';
@@ -49,4 +51,5 @@ $_['error_composer']        = 'Impossible de charger le SDK Cardinity. Veuillez 
 $_['error_php_version']     = 'Une version minimale de PHP 5.4.0 est requise!';
 $_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autoriséde modifier le paiement Cardinity!';
 $_['error_connection']      = 'Un problème est survenu lors de l&rsquo;établissement d&rsquo;une connexion à l&rsquo;API Cardinity. Veuillez vérifier vos paramètres Key et Secret.';
+$_['error_transaction']     = 'Impossible de trouver la transaction pour cette commande.';
 $_['error_warning']         = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';

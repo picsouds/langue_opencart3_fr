@@ -14,6 +14,9 @@ $_['text_to']          = 'Vers';
 $_['text_config']      = 'Modifier config.php ';
 $_['text_admin']       = 'Modifier admin.php / config.php';
 
+// Entry
+$_['entry_directory']  = 'Répertoire';
+
 // Button
 $_['button_move']      = 'Déplacer';
 $_['button_manual']    = 'Manuel';

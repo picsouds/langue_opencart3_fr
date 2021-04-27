@@ -44,6 +44,9 @@ $_['text_confirm_void']      = 'Etes-vous certain de vouloir annuler ce paiement
 $_['text_confirm_capture']   = 'Etes-vous certain de vouloir capturer le paiement ?';
 $_['text_confirm_rebate']    = 'Etes-vous certain de vouloir rembourser le paiement ?';
 $_['text_globalpay']         = '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_void']              = 'Annulé';
+$_['text_payment']           = 'Paiement';
+$_['text_rebate']            = 'Remboursement';
 
 // Entry
 $_['entry_merchant_id']              = 'Numéro de boutique';

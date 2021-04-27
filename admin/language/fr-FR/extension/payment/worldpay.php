@@ -14,6 +14,8 @@ $_['text_release_ok_order'] = 'Envoi effectué, le statut de la commande a été
 $_['text_refund_ok']        = 'Le remboursement a réussi';
 $_['text_refund_ok_order']  = 'Le remboursement a réussi : le statut de la commande a été mis à jour';
 $_['text_void_ok']          = 'L&rsquo;annulation a réussie : le statut de la commande a été mis à jour';
+$_['text_refund']           = 'Remboursement';
+$_['text_edit']             = 'Editer Worldpay Online Payments';
 
 // Entry
 $_['entry_service_key']                  = 'Clef de service';

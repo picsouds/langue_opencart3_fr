@@ -28,4 +28,4 @@ $_['entry_status']      = 'Statut';
 $_['entry_sort_order']  = 'Ordre de tri';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport de recherche de clients!';
+$_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport de recherche de clients!';

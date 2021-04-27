@@ -12,6 +12,7 @@ $_['text_success']                  = 'Succès: vous avez modifié le module Car
 $_['text_edit']                     = 'Modifier CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
 $_['text_payment']                  = 'Paiement';
+$_['text_refund']                   = 'Remboursement';
 $_['text_authorize']                = 'Autoriser';
 $_['text_live']                     = 'Live';
 $_['text_test']                     = 'Test';

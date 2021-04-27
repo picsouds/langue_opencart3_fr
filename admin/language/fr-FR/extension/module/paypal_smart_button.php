@@ -31,6 +31,8 @@ $_['text_pay']			 	 			= 'Payer';
 $_['text_buy_now']			 	 		= 'Achter maintenant';
 $_['text_pay_pal']			 	 		= 'PayPal';
 $_['text_installment']			 	 	= 'Versement';
+$_['text_text']							= 'Texte Message';
+$_['text_flex']							= 'Bannière Flexible';
 $_['text_yes']			 	 			= 'Oui';
 $_['text_no']			 	 			= 'Non';
 
@@ -46,6 +48,17 @@ $_['entry_button_color'] 				= 'Bouton couleur';
 $_['entry_button_shape'] 				= 'Bouton Forme';
 $_['entry_button_label'] 				= 'Bouton Étiquette';
 $_['entry_button_tagline'] 				= 'Bouton Slogan';
+$_['entry_message_status']                             = 'Message Payez plus tard' ;
+$_['entry_message_align']      = 'Alignement du message' ;
+$_['entry_message_size']       = 'Taille du message' ;
+$_['entry_message_layout']     = 'Disposition du message' ;
+$_['entry_message_text_color'] = 'Couleur du texte du message' ;
+$_['entry_message_text_size']  = 'Taille du texte du message' ;
+$_['entry_message_flex_color'] = 'Couleur de la bannière du message' ;
+$_['entry_message_flex_ratio'] = 'Ratio de la bannière de message' ;
+
+// Help
+$_['help_message_status']				= 'Ajoutez des messages de paiement ultérieur à votre site.';
 
 // Success
 $_['success_save']						= 'Succès: vous avez modifié le module Bouton intelligent PayPal!';

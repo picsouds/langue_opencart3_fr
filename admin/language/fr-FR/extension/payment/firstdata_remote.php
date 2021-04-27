@@ -38,6 +38,9 @@ $_['text_column_date_added'] = 'Date d&rsquo;ajout';
 $_['text_confirm_void']      = 'Etes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_capture']   = 'Etes-vous certain de vouloir réceptionner le paiement ?';
 $_['text_confirm_refund']    = 'Etes-vous certain de vouloir effectuer un remboursement du paiement ?';
+$_['text_void']              = 'Annulé';
+$_['text_payment']           = 'Paiement';
+$_['text_refund']            = 'Remboursement';
 
 // Entry
 $_['entry_certificate_path']         = 'Chemin d&rsquo;accès du certificat';

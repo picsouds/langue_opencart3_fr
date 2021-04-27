@@ -19,3 +19,5 @@ $_['entry_date_added']  = 'Date d&rsquo;ajout';
 
 // Error
 $_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les transferts de fichiers !';
+$_['error_upload']      = 'Transfert non valide !' ;
+$_['error_file']        = 'Le fichier a transférer n&rsquo;a pas été trouvé !' ;

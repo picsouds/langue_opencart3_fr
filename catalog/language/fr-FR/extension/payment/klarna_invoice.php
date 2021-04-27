@@ -10,6 +10,8 @@ $_['text_year']         = 'Année';
 $_['text_month']        = 'Mois';
 $_['text_day']          = 'Jour';
 $_['text_comment']      = 'ID de facture Klarna: %s. ' . "\n" . '%s/%s: %.4f';
+$_['text_trems_description']    = 'Mit der Übermittlung der für die Abwicklung des Rechnungskaufes und einer Identitäts - und Bonitätsprüfung erforderlichen
+Daten an Klarna bin ich einverstanden. Meine <a href="https://online.klarna.com/consent_de.yaws" target="_blank">Einwilligung</a> kann ich jederzeit mit Wirkung für die Zukunft widerrufen.';
 
 // Entry
 $_['entry_gender']    = 'Genre';

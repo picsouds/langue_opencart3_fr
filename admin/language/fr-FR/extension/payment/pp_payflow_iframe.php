@@ -101,4 +101,4 @@ $_['error_partner']       = 'Le nom du partenaire est requis !';
 $_['error_missing_data']  = 'Données manquantes';
 $_['error_missing_order'] = 'Impossible de trouver la commande';
 $_['error_general']       = 'Une erreur s&rsquo;est produite';
-$_['error_capture_amt']   = 'Saisissez le montant à réceptionner';
+$_['error_capture']       = 'Saisissez le montant à réceptionner';

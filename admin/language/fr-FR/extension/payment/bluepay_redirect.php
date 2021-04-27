@@ -31,6 +31,9 @@ $_['text_column_date_added'] = 'Créé le';
 $_['text_confirm_void']      = 'Etes-vous certain de vouloir annuler le paiement ?';
 $_['text_confirm_release']   = 'Etes-vous certain de vouloir envoyer le paiement ?';
 $_['text_confirm_rebate']    = 'Etes-vous certain de vouloir effectuer un remboursement du paiement ?';
+$_['text_void']              = 'Annuler';
+$_['text_payment']           = 'Paiement';
+$_['text_rebate']            = 'Remboursement';
 
 // Entry
 $_['entry_vendor']           = 'ID du compte';

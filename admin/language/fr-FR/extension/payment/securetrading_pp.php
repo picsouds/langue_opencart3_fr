@@ -13,8 +13,12 @@ $_['text_refund_issued']                         = 'Le remboursement a été env
 $_['text_pending_settlement_manually_overriden'] = 'Réglement en attente, remplacé manuellement';
 $_['text_pending_suspended']                     = 'Suspendu';
 $_['text_pending_settled']                       = 'Réglé';
+$_['text_reversed']                              = 'Reversé';
+$_['text_payment']                               = 'Paiement';
+$_['text_rebate']                                = 'Remboursement';
 
 $_['entry_site_reference']                      = 'Référence du site';
+$_['entry_version']                              = 'Version';
 $_['entry_username']                            = 'Nom d&rsquo;utilisateur';
 $_['entry_password']                            = 'Mot de passe';
 $_['entry_site_security_status']                = 'Utiliser le hachage de sécurité du site';
@@ -39,6 +43,7 @@ $_['entry_refund']                              = 'Envoi de remboursement(%s) : 
 
 $_['error_permission']            = 'Attention: vous n&rsquo;êtes pas autorisé à modifier ce module';
 $_['error_site_reference']        = 'La référence du site est requise';
+$_['error_version']               = 'La version est requise';
 $_['error_notification_password'] = 'Mot de passe de notification est requis';
 $_['error_cards_accepted']        = 'Les cartes acceptées sont requises';
 $_['error_username']              = 'Le nom d&rsquo;utilisateur est requis';
@@ -46,6 +51,7 @@ $_['error_password']              = 'Le mot de passe est requis';
 $_['error_connection']            = 'Impossible de se connecter à Secure Trading';
 $_['error_data_missing']          = 'Données manquantes';
 
+$_['help_version']  = 'Version Paiement (e.g. 2)';
 $_['help_username'] = 'Votre nom d&rsquo;utilisateur du service';
 $_['help_password'] = 'Votre mot de passe pour le service';
 $_['help_refund']   = 'Veuillez inclure la partie décimale et le séparateur (virgule) du montant';

@@ -44,6 +44,9 @@ $_['text_void_ok']                               = 'Annulation réussie, le stat
 $_['text_confirm_void']                          = 'Etes-vous sûr de vouloir annuler l&rsquo;autorisation?';
 $_['text_confirm_release']                       = 'Etes-vous sûr de vouloir libérer le paiement?';
 $_['text_confirm_rebate']                        = 'Etes-vous sûr de vouloir annuler le paiement?';
+$_['text_reversed']                              = 'Reversé';
+$_['text_payment']                               = 'Paiement';
+$_['text_rebate']                                = 'Remboursement';
 
 $_['entry_site_reference']        = 'Référence du site';
 $_['entry_username']              = 'Nom d&rsquo;utilisateur';

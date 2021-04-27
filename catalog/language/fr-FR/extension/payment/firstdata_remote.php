@@ -3,6 +3,7 @@
 $_['text_title']       = 'Carte de crédit ou de débit';
 $_['text_credit_card'] = 'Détails de la carte de crédit';
 $_['text_wait']        = 'Veuillez patientez';
+$_['text_store_card']  = 'Stocker les détails de la carte ?';
 
 // Entry
 $_['entry_cc_number']      = 'Numéro de la carte';
