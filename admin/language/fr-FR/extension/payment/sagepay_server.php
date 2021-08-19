@@ -33,7 +33,7 @@ $_['text_confirm_void']      = 'Etes-vous certain de vouloir annuler le paiement
 $_['text_confirm_release']   = 'Etes-vous certain de vouloir envoyer ce paiement ?';
 $_['text_confirm_rebate']    = 'Etes-vous certain de vouloir remboursement le paiement ?';
 $_['text_void']              = 'Annulé';
-$_['text_payment']           = 'Paiement'
+$_['text_payment']           = 'Paiement';
 $_['text_rebate']            = 'Remboursement';
 
 // Entry
