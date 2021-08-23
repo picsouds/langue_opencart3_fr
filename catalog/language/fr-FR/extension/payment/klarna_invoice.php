@@ -1,8 +1,8 @@
 <?php
 // Text
 $_['text_title']        = 'Facturation Klarna - Paiement dans les 14 jours';
-$_['text_terms_fee']    = '<span id="klarna_invoice_toc"></span> (+%s)<script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: &rsquo;klarna_invoice_toc&rsquo;, eid: &rsquo;%s&rsquo;, country: &rsquo;%s&rsquo;, charge: %s});</script>';
-$_['text_terms_no_fee'] = '<span id="klarna_invoice_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: &rsquo;klarna_invoice_toc&rsquo;, eid: &rsquo;%s&rsquo;, country: &rsquo;%s&rsquo;});</script>';
+$_['text_terms_fee']	= '<span id="klarna_invoice_toc"></span> (+%s)<script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\', charge: %s});</script>';
+$_['text_terms_no_fee'] = '<span id="klarna_invoice_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\'});</script>';
 $_['text_additional']   = 'La facturation Klarna requiert des informations complémentaires pour pouvoir procéder à votre commande.';
 $_['text_male']         = 'Homme';
 $_['text_female']       = 'Femme';

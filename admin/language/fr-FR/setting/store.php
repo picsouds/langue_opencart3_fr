@@ -63,7 +63,7 @@ $_['entry_secure']                 = 'Utilisé SSL';
 
 // Help
 $_['help_url']                     = 'Inclure l&rsquo;URL entière de votre boutique. Veillez à bien ajouter &rsquo;/&rsquo; à la fin. Par exemple : http://www.yourdomain.com/path/<br/><br/>N&rsquo;utilisez pas de répertoires pour créer une nouvelle boutique. Vous devez toujours utiliser une url vers un nouveau domaine ou sous-domaine de votre hébergement.';
-$_['help_ssl']                     = 'URL SSL pour votre boutique. Veillez à bien ajouter &rsquo;/&rsquo; à la fin. Par exemple : http://www.yourdomain.com/path/<b/><br/>N&rsquo;utilisez pas de répertoires pour créer une nouvelle boutique. Vous devez toujours utiliser une url vers un nouveau domaine ou sous-domaine de votre hébergement..';
+$_['help_ssl']                     = 'URL SSL pour votre boutique. Veillez à bien ajouter &rsquo;/&rsquo; à la fin. Par exemple : http://www.yourdomain.com/path/<br/><br/>N&rsquo;utilisez pas de répertoires pour créer une nouvelle boutique. Vous devez toujours utiliser une url vers un nouveau domaine ou sous-domaine de votre hébergement..';
 $_['help_geocode']                 = 'Veuillez saisir l&rsquo;emplacement géocode de votre boutique manuellement.';
 $_['help_open']                    = 'Renseignez les horaires d&rsquo;ouverture de votre boutique.';
 $_['help_comment']                 = 'Ce champ est dédié aux notes spéciales que vous souhaitez indiquer au client, par exemple si votre boutique n&rsquo;accepte pas les chèques.';

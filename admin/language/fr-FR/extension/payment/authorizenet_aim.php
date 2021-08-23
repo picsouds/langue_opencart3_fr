@@ -10,10 +10,10 @@ $_['text_test']             = 'Test';
 $_['text_live']             = 'Direct';
 $_['text_authorization']    = 'Autorisation';
 $_['text_capture']          = 'Capture';
-$_['text_authorizenet_aim'] = '<a onclick="window.open(&rsquo;http://reseller.authorize.net/application/?id=5561142&rsquo;);"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorizenet_aim'] = '<a href="https://account.authorize.net/signUpNow?resellerID=26357" target="_BLANK"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_login']           = 'ID';
+$_['entry_login']           = 'Login ID';
 $_['entry_key']             = 'Clef de transaction';
 $_['entry_hash']            = 'Clef de hachage MD5';
 $_['entry_server']          = 'Serveur de transaction';

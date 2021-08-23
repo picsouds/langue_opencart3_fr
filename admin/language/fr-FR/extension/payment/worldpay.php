@@ -48,7 +48,7 @@ $_['entry_voided_status']   = 'Statut Annulé';
 // Help
 $_['help_total']        = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 $_['help_debug']        = 'En activant le débogage, vous autorisez l&rsquo;écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire';
-$_['help_secret_token'] = 'Définissez-le assez long et difficle à deviner';
+$_['help_secret_token'] = 'Définissez-le assez long et difficile à deviner';
 $_['help_webhook_url']  = 'Définissez les webhooks Worldpay pour appeler cette URL';
 $_['help_cron_job_url'] = 'Définissez une tâche CRON pour appeler cette URL';
 

@@ -6,10 +6,10 @@ $_['heading_title']         = 'Authorize.Net (SIM)';
 $_['text_extension']        = 'Extensions';
 $_['text_success']          = 'Succès: vous avez modifié le module Authorize.Net (SIM) !';
 $_['text_edit']             = 'Modifier le module Authorize.Net (SIM)';
-$_['text_authorizenet_sim'] = '<a onclick="window.open(&rsquo;http://reseller.authorize.net/application/?id=5561142&rsquo;);"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_authorizenet_sim']	= '<a href="https://account.authorize.net/signUpNow?resellerID=26357" target="_BLANK"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_merchant']        = 'ID';
+$_['entry_merchant']        = 'Merchant ID';
 $_['entry_key']             = 'Clef de transaction';
 $_['entry_callback']        = 'URL de réponse retour';
 $_['entry_md5']             = 'Valeur de hachage MD5';

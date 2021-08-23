@@ -21,7 +21,7 @@ __A partir de l'installation par défaut (en langue anglaise)__
 4. Enregistrer les changements
 
 5. `Navigation` : Aller à la rubrique `System -> Settings`
-6. Sur votre boutique `Store Name` , `Edit` puis cliquer sur l'onglet `Local` et changer les paramètres du `Language` et `Administration Language` pour `Français`
+6. Sur votre boutique `Store Name`, `Edit` puis cliquer sur l'onglet `Local` et changer les paramètres du `Language` et `Administration Language` pour `Français`
 7. Enregistrer les changements
 8. Installation terminée
 

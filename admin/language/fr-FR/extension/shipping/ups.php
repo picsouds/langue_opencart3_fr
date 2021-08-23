@@ -80,7 +80,7 @@ $_['entry_tax_class']              = 'Type de taxes';
 $_['entry_geo_zone']               = 'Zone géographique';
 $_['entry_status']                 = 'Statut';
 $_['entry_sort_order']             = 'Ordre de tri';
-$_['entry_debug']                  = 'Mode de débugage';
+$_['entry_debug']                  = 'Mode de débogage';
 
 // Help
 $_['help_key']                     = 'Saisissez la clef XML d&rsquo;accès aux tarifs qui vous a été attribuée par UPS.';

@@ -16,7 +16,7 @@ $_['text_stock']                     = 'Stock';
 $_['text_affiliate']                 = 'Affiliés';
 $_['text_captcha']                   = 'Captcha';
 $_['text_register']                  = 'Compte';
-$_['text_guest']                     = 'Commande utisateur invité';
+$_['text_guest']                     = 'Commande utilisateur invité';
 $_['text_return']                    = 'Retours';
 $_['text_contact']                   = 'Contact';
 $_['text_shipping']                  = 'Adresse de livraison';
@@ -179,10 +179,10 @@ $_['help_seo_url']                   = 'Pour utiliser les URL SEO, le module mod
 $_['help_file_max_size']             = 'La taille maximum du fichier image que vous pouvez télécharger dans le manager d&rsquo;image. Exprimé en byte. ';
 $_['help_file_ext_allowed']          = 'Ajouter quelles sont les extensions de fichiers autorisées à être téléchargés. Utilisez une nouvelle ligne pour chaque valeur. ';
 $_['help_file_mime_allowed']         = 'Ajouter quels types de fichiers mime sont autorisés à être téléchargés. Utilisez une nouvelle ligne pour chaque valeur. ';
-$_['help_maintenance']               = 'Empêche les clients de naviguer sur votre boutique. Ils verront plutôt un message de maintenance. Si vous êtes connecté en tant qu&rsquo;administrateur, vous verrez la boutique normallement. ';
+$_['help_maintenance']               = 'Empêche les clients de naviguer sur votre boutique. Ils verront plutôt un message de maintenance. Si vous êtes connecté en tant qu&rsquo;administrateur, vous verrez la boutique normalement. ';
 $_['help_password']                  = 'Autoriser l&rsquo;utilisation du mot de passe oublié pour l&rsquo;administrateur. Cela sera automatiquement désactivé si le système détecte une tentative de piratage. ';
 $_['help_encryption']                = 'Veuillez fournir une clé secrète qui sera utilisée pour crypter les informations privées lors du traitement des commandes.';
-$_['help_compression']               = 'Utliser GZIP pour un transfert plus efficace pour les requêtes clientes. Le niveau de compression doit être compris entre 0 et 9 ';
+$_['help_compression']               = 'Utiliser GZIP pour un transfert plus efficace pour les requêtes clientes. Le niveau de compression doit être compris entre 0 et 9 ';
 
 // Error
 $_['error_warning']                  = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';

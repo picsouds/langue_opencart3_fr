@@ -28,7 +28,7 @@ $_['text_pill']			 	 			= 'Poussoir';
 $_['text_rect']			 	 			= 'Rect';
 $_['text_checkout']			 	 		= 'Commander';
 $_['text_pay']			 	 			= 'Payer';
-$_['text_buy_now']			 	 		= 'Achter maintenant';
+$_['text_buy_now']			 	 		= 'Acheter maintenant';
 $_['text_pay_pal']			 	 		= 'PayPal';
 $_['text_installment']			 	 	= 'Versement';
 $_['text_text']							= 'Texte Message';
@@ -38,10 +38,10 @@ $_['text_no']			 	 			= 'Non';
 
 // Entry
 $_['entry_status']     					= 'Statut';
-$_['entry_product_page_status']     	= 'État de la page produit';
+$_['entry_product_page_status']     	= 'Etat de la page produit';
 $_['entry_cart_page_status']     		= 'Etat de la page du panier';
-$_['entry_insert_tag']     				= 'Inserer Tag';
-$_['entry_insert_type']     			= 'Insert Type';
+$_['entry_insert_tag']     				= 'Insérer Tag';
+$_['entry_insert_type']     			= 'Insérer Type';
 $_['entry_button_align']     			= 'Bouton alignement';
 $_['entry_button_size'] 				= 'Bouton taille';
 $_['entry_button_color'] 				= 'Bouton couleur';

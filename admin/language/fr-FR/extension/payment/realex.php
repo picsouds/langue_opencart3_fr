@@ -78,7 +78,7 @@ $_['help_total']        = 'Le montant total que la commande doit atteindre avant
 $_['help_card_select']  = 'Demander à l&rsquo;utilisateur de choisir le type de carte bancaire avant qu&rsquo;ils soient redirigés';
 $_['help_notification'] = 'Vous devez fournir cette URL à Realex pour recevoir des notifications de paiement';
 $_['help_debug']        = 'En activant le débogage, vous autorisez l&rsquo;écriture de données sensibles dans un fichier journal. Vous devriez toujours désactiver cette fonction sauf avis contraire.';
-$_['help_dcc_settle']   = 'Si votre sous-compte a DCC activé vous devez utiliser le réglement automatique';
+$_['help_dcc_settle']   = 'Si votre sous-compte a DCC activé vous devez utiliser le règlement automatique';
 
 // Tab
 $_['tab_api']          = 'Informations de l&rsquo;API';
@@ -98,4 +98,4 @@ $_['error_secret']          = 'Le mot secret partagé est requis';
 $_['error_live_url']        = 'L&rsquo;URL de production est nécessaire';
 $_['error_demo_url']        = 'L&rsquo;URL de démonstration est requise';
 $_['error_data_missing']    = 'Données manquantes';
-$_['error_use_select_card'] = 'Vous devez avoir "Selectionner une carte bancaire" activé pour le routage des sous-comptes par type de carte bancaire pour fonctionner';
+$_['error_use_select_card'] = 'Vous devez avoir "Sélectionner une carte bancaire" activé pour le routage des sous-comptes par type de carte bancaire pour fonctionner';

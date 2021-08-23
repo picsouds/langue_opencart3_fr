@@ -69,7 +69,7 @@ $_['entry_tax']             = 'Classe de taxes';
 $_['entry_geo_zone']        = 'Zone géographique';
 $_['entry_status']          = 'Statut';
 $_['entry_sort_order']      = 'Ordre de tri';
-$_['entry_debug']           = 'Mode de débuguage';
+$_['entry_debug']           = 'Mode de débogage';
 
 // Help
 $_['help_dimension']        = 'Dimensions moyennes du colis pour la livraison. Les dimensions du produits ne sont actuellement pas utilisées pour la livraison.';

@@ -1,4 +1,4 @@
-<?php
+<?php /** @noinspection ALL */
 // Heading
 $_['heading_title']          = 'BluePay en ligne';
 
