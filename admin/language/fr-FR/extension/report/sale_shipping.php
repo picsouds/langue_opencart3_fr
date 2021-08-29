@@ -24,7 +24,6 @@ $_['column_total']      = 'Total';
 $_['entry_date_start']  = 'Date de début';
 $_['entry_date_end']    = 'Date de fin';
 $_['entry_group']       = 'Grouper par';
-$_['entry_status']      = 'Statut de la commande';
 $_['entry_status']      = 'Statut';
 $_['entry_sort_order']  = 'Ordre de tri';
 

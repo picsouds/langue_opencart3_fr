@@ -20,4 +20,5 @@ $_['entry_name']       = 'Nom du module';
 // Error
 $_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les modules !';
 $_['error_name']       = 'Le nom du module doit être compris entre 3 et 64 caractères !';
+$_['error_code_name']  = 'Le code du module doit être compris entre 3 et 32 caractères !';
 $_['error_code']       = 'Extension requise !';

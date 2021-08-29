@@ -28,3 +28,4 @@ $_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifie
 $_['error_query']      = 'La requête doit être comprise entre 3 et 64 caractères!';
 $_['error_keyword']    = 'Le mot-clé doit être compris entre 3 et 64 caractères!';
 $_['error_exists']     = 'Mot-clé déjà utilisé!';
+$_['error_query_exists'] = 'Requête déjà utilisée!';

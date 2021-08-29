@@ -19,7 +19,6 @@ $_['column_total']     = 'Total';
 // Entry
 $_['entry_date_start'] = 'Date de début';
 $_['entry_date_end']   = 'Date de fin';
-$_['entry_status']     = 'Statut de la commande';
 $_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Ordre de tri';
 

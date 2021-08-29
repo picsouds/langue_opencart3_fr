@@ -8,7 +8,7 @@ $_['text_db_connection']     = '1. Veuillez entrer vos détails de connexion à 
 $_['text_db_administration'] = '2. Veuillez saisir un nom d&rsquo;utilisateur et un mot de passe pour l&rsquo;administration.';
 $_['text_mysqli']            = 'MySQLi';
 $_['text_mysql']             = 'MySQL';
-$_['text_mpdo']              = 'mPDO';
+$_['text_mpdo']              = 'PDO';
 $_['text_pgsql']             = 'PostgreSQL';
 
 // Entry

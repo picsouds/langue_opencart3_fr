@@ -38,7 +38,7 @@ $_['entry_date_start']    = 'Date de début';
 $_['entry_date_end']      = 'Date de fin';
 $_['entry_uses_total']    = 'Nombre d&rsquo;utilisations par bon';
 $_['entry_uses_customer'] = 'Nombre d&rsquo;utilisations par client';
-$_['entry_status']        = 'Status';
+$_['entry_status']        = 'Statut';
 
 // Help
 $_['help_code']           = 'Le code que le client devra entrer pour bénéficier de la réduction.';
