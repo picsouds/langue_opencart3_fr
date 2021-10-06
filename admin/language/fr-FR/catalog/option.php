@@ -38,4 +38,4 @@ $_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à modif
 $_['error_name']         = 'Le nom de l&rsquo;option doit être compris entre 1 et 128 caractères !';
 $_['error_type']         = 'Attention: valeurs de l&rsquo;option requises !';
 $_['error_option_value'] = 'La valeur de l&rsquo;option doit être comprise entre 1 et 128 caractères !';
-$_['error_product']      = 'Attention: cette option ne peut pas être supprimée car elle est actuellement assignée aux produits %s!';
+$_['error_product']      = 'Attention: cette option ne peut pas être supprimée car elle est actuellement assignée à %s produits !';
