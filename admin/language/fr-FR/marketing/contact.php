@@ -31,7 +31,7 @@ $_['help_affiliate']       = '(saisie semi-automatique)';
 $_['help_product']         = 'Envoyer uniquement aux clients qui ont commandé des produits dans la liste. (saisie semi-automatique)';
 
 // Error
-$_['error_permission']     = 'Attention: vous n&rsquo;êtes pas autorisé à envoyer des e-mails !';
+$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à envoyer des e-mails !';
 $_['error_subject']        = 'Le sujet de l&rsquo;e-mail est requis !';
 $_['error_message']        = 'Le corps du message de l&rsquo;e-mail est requis !';
 $_['error_email']          = 'E-mail requis !';

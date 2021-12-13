@@ -4,7 +4,7 @@ $_['heading_title'] = 'eWAY Payment';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Succès: vous avez modifié le module paiement eWAY!';
+$_['text_success']       = 'Succès : vous avez modifié le module paiement eWAY!';
 $_['text_edit']          = 'Modifier eWAY';
 $_['text_eway']          = '<a target="_BLANK" href="http://www.eway.com.au/"><img src="view/image/payment/eway.png" alt="eWAY" title="eWAY" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorisation'] = 'Autorisation';
@@ -30,7 +30,7 @@ $_['entry_sort_order']          = 'Ordre de tri';
 $_['entry_transaction_method']  = 'Méthode de transaction';
 
 // Error
-$_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module de paiement eWAY';
+$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module de paiement eWAY';
 $_['error_username']     = 'La clé de l&rsquo;API eWAY est requise!';
 $_['error_password']     = 'Le mot de passe eWAY est requis!';
 $_['error_payment_type'] = 'Au moins un type de paiement est requis!';
@@ -57,7 +57,7 @@ $_['text_total_refunded']       = 'Total remboursé';
 $_['text_refund_success']       = 'Le remboursement a réussi!';
 $_['text_capture_success']      = 'La capture a réussi!';
 $_['text_refund_failed']        = 'Le remboursement a échoué: ';
-$_['text_capture_failed']       = 'Echec de la capture: ';
+$_['text_capture_failed']       = '&Eacute;chec de la capture: ';
 $_['text_unknown_failure']      = 'Ordre ou montant invalide';
 $_['text_refund']               = 'Remboursement';
 

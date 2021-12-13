@@ -8,7 +8,7 @@ $_['text_cart']               = 'Panier d&rsquo;achat';
 $_['text_shipping_updated']   = 'Mode de livraison mis à jour';
 $_['text_trial']              = '%s chaque %s %s pour %s paiements soit ';
 $_['text_recurring']          = '%s chaque %s %s';
-$_['text_recurring_item']     = 'Elément récurrent';
+$_['text_recurring_item']     = '&Eacute;lément récurrent';
 $_['text_length'] 	          = ' pour %s paiements';
 
 // Entry
@@ -24,4 +24,4 @@ $_['button_express_shipping'] = 'Mettre à jour la livraison';
 $_['error_heading_title']     = 'Une erreur s&rsquo;est produite';
 $_['error_too_many_failures'] = 'Votre paiement a échoué trop souvent';
 $_['error_unavailable']       = 'Veuillez utiliser la commande complète avec cette commande';
-$_['error_no_shipping']       = 'Attention: aucune option de livraison n&rsquo;est disponible. Veuillez <a href="%s"> nous contacter </a> pour obtenir de l&rsquo;aide!';
+$_['error_no_shipping']       = 'Attention : aucune option de livraison n&rsquo;est disponible. Veuillez <a href="%s"> nous contacter </a> pour obtenir de l&rsquo;aide!';

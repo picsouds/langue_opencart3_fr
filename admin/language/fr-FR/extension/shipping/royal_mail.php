@@ -4,7 +4,7 @@ $_['heading_title'] = 'Royal Mail';
 
 // Text
 $_['text_extension']                   = 'Extensions';
-$_['text_success']                     = 'Succès: vous avez modifié la livraison Royal Mail !';
+$_['text_success']                     = 'Succès : vous avez modifié la livraison Royal Mail !';
 $_['text_edit']                        = 'Modifier la livraison Royal Mail';
 
 // Entry
@@ -41,7 +41,7 @@ $_['tab_international_standard']       = 'Norme internationale';
 $_['tab_international_tracked_signed'] = 'International suivi & signé';
 $_['tab_international_tracked']        = 'International suivi';
 $_['tab_international_signed']         = 'Signé international';
-$_['tab_international_economy']        = 'Economique internationale';
+$_['tab_international_economy']        = '&Eacute;conomique internationale';
 
 // Error
-$_['error_permission']                 = 'Attention: vous n&rsquo;êtes pas autorisé à modifier la livraison Royal Mail !';
+$_['error_permission']                 = 'Attention : vous n&rsquo;êtes pas autorisé à modifier la livraison Royal Mail !';

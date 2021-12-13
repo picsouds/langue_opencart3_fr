@@ -4,7 +4,7 @@ $_['heading_title'] = 'PayPal Pro';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Succès: vous avez modifié le module Paypal Pro !';
+$_['text_success']       = 'Succès : vous avez modifié le module Paypal Pro !';
 $_['text_edit']          = 'Modifier les paramètres de Paypal Pro';
 $_['text_pp_pro']        = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorisation';
@@ -27,7 +27,7 @@ $_['help_test']  = 'Utilisez le live ou bien tester avec (bac à sable) pour tra
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le paiement PayPal site paiement Checkout Pro !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le paiement PayPal site paiement Checkout Pro !';
 $_['error_username']   = 'Nom d&rsquo;utilisateur API requis !';
 $_['error_password']   = 'Mot de passe API requis !';
 $_['error_signature']  = 'Signature de l&rsquo;API requise !';

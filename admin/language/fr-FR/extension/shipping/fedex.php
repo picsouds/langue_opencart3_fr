@@ -4,7 +4,7 @@ $_['heading_title']                            = 'FedEx';
 
 // Text
 $_['text_shipping']                            = 'Livraison';
-$_['text_success']                             = 'Succès: vous avez modifié la livraison FedEx !';
+$_['text_success']                             = 'Succès : vous avez modifié la livraison FedEx !';
 $_['text_edit']                                = 'Modifier la livraison FedEx';
 $_['text_europe_first_international_priority'] = 'FedEx Europe First®';
 $_['text_fedex_1_day_freight']                 = 'FedEx 1Day Freight';
@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Voulez-vous afficher le poids 
 $_['help_weight_class']                        = 'Configurer en kilogrammes ou en livres.';
 
 // Error
-$_['error_permission']                         = 'Attention: vous n&rsquo;êtes pas autorisé à modifier la livraison FedEx !';
+$_['error_permission']                         = 'Attention : vous n&rsquo;êtes pas autorisé à modifier la livraison FedEx !';
 $_['error_key']                                = 'Clef requise !';
 $_['error_password']                           = 'Le mot de passe est requis !';
 $_['error_account']                            = 'Compte requis !';

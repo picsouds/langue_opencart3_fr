@@ -4,7 +4,7 @@ $_['heading_title'] = 'Paiements Paypal standard';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Succès: vous avez modifié le module Paiements Paypal standard';
+$_['text_success']       = 'Succès : vous avez modifié le module Paiements Paypal standard';
 $_['text_edit']          = 'Modifier le paiement Paypal standard';
 $_['text_pp_standard']   = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorisation';
@@ -16,7 +16,7 @@ $_['entry_test']                     = 'Mode bac à sable';
 $_['entry_transaction']              = 'Méthode de transaction';
 $_['entry_debug']                    = 'Mode de débogage';
 $_['entry_total']                    = 'Total';
-$_['entry_canceled_reversal_status'] = 'Etat de renversement annulée';
+$_['entry_canceled_reversal_status'] = '&Eacute;tat de renversement annulée';
 $_['entry_completed_status']         = 'Statut terminé';
 $_['entry_denied_status']            = 'Statut refusé';
 $_['entry_expired_status']           = 'Statut expiré';
@@ -40,5 +40,5 @@ $_['help_debug'] = 'Enregistre des informations supplémentaires dans le journal
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier payment PayPal !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier payment PayPal !';
 $_['error_email']      = 'E-mail requis !';

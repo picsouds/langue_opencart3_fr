@@ -26,13 +26,13 @@ $_['entry_zone']         = 'Département';
 $_['entry_default']      = 'Adresse par défaut';
 
 // Error
-$_['error_delete']       = 'Attention: vous devez avoir au moins une adresse valide !';
-$_['error_default']      = 'Attention: vous ne pouvez pas supprimer votre adresse par défaut !';
-$_['error_firstname']    = 'Attention: le prénom doit être compris entre 1 et 32 caractères !';
-$_['error_lastname']     = 'Attention: le nom de famille doit être compris entre 1 et 32 caractères !';
-$_['error_address_1']    = 'Attention: l&rsquo;adresse doit être comprise entre 3 et 128 caractères !';
-$_['error_postcode']     = 'Attention: le code postal doit être compris entre 2 et 10 caractères !';
-$_['error_city']         = 'Attention: le nom de la ville doit être compris entre 2 et 128 caractères !';
-$_['error_country']      = 'Attention: vous devez sélectionner un pays !';
-$_['error_zone']         = 'Attention: vous devez sélectionner un département !';
+$_['error_delete']       = 'Attention : vous devez avoir au moins une adresse valide !';
+$_['error_default']      = 'Attention : vous ne pouvez pas supprimer votre adresse par défaut !';
+$_['error_firstname']    = 'Attention : le prénom doit être compris entre 1 et 32 caractères !';
+$_['error_lastname']     = 'Attention : le nom de famille doit être compris entre 1 et 32 caractères !';
+$_['error_address_1']    = 'Attention : l&rsquo;adresse doit être comprise entre 3 et 128 caractères !';
+$_['error_postcode']     = 'Attention : le code postal doit être compris entre 2 et 10 caractères !';
+$_['error_city']         = 'Attention : le nom de la ville doit être compris entre 2 et 128 caractères !';
+$_['error_country']      = 'Attention : vous devez sélectionner un pays !';
+$_['error_zone']         = 'Attention : vous devez sélectionner un département !';
 $_['error_custom_field'] = '%s est requis !';

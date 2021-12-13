@@ -4,7 +4,7 @@ $_['heading_title']          = 'Menu par défaut';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le flux Google Base!';
+$_['text_success']           = 'Succès : vous avez modifié le flux Google Base!';
 $_['text_edit']              = 'Modifier Google Base';
 $_['text_import']            = 'Pour télécharger la dernière liste de catégories Google en <a href="https://support.google.com/merchants/answer/160081?hl=fr" target="_blank" class="alert-link">Cliquez ici</a> et choisissez une taxonomie avec des ID numériques dans le fichier Texte brut (.txt). Télécharger via le bouton d&rsquo;importation vert. ';
 
@@ -20,6 +20,6 @@ $_['entry_data_feed']        = 'URL du flux de données';
 $_['entry_status']           = 'Statut';
 
 // Error
-$_['error_permission']       = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le flux Google Base!';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le flux Google Base!';
 $_['error_upload']           = 'Impossible de télécharger le fichier!';
 $_['error_filetype']         = 'Type de fichier invalide!';

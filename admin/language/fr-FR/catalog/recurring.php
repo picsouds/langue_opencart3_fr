@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Paiement récurrents';
 
 // Text
-$_['text_success']          = 'Succès: vous avez modifié les paiements récurrents!';
+$_['text_success']          = 'Succès : vous avez modifié les paiements récurrents!';
 $_['text_list']             = 'Liste des paiements récurrents';
 $_['text_add']              = 'Ajouter un paiement récurrent';
 $_['text_edit']             = 'Modifier un paiement récurrent';
@@ -36,7 +36,7 @@ $_['column_sort_order']     = 'Ordre de tri';
 $_['column_action']         = 'Action';
 
 // Error
-$_['error_warning']         = 'Attention: veuillez vérifier les erreurs de formulaire !';
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paiements récurrents !';
+$_['error_warning']         = 'Attention : veuillez vérifier les erreurs de formulaire !';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paiements récurrents !';
 $_['error_name']            = 'Le nom du produit doit être compris entre 3 et 255 caractères !';
-$_['error_product']         = 'Attention: ce paiement récurrent ne peut être supprimé car il est actuellement attribué à %s produits !';
+$_['error_product']         = 'Attention : ce paiement récurrent ne peut être supprimé car il est actuellement attribué à %s produits !';

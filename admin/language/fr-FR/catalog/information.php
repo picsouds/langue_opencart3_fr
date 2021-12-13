@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Informations';
 
 // Text
-$_['text_success']           = 'Succès: vous avez modifié les informations !';
+$_['text_success']           = 'Succès : vous avez modifié les informations !';
 $_['text_list']              = 'Liste des information';
 $_['text_add']               = 'Ajouter une information';
 $_['text_edit']              = 'Modifier une information';
@@ -32,15 +32,15 @@ $_['entry_layout']           = 'Disposition de mise en page';
 $_['help_bottom']            = 'Afficher dans le bas de page.';
 
 // Error
-$_['error_warning']          = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']       = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les informations !';
+$_['error_warning']          = 'Attention : veuillez vérifier le formulaire';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les informations !';
 $_['error_title']            = 'Le titre de l&rsquo;information doit être compris entre 3 et 64 caractères !';
 $_['error_description']      = 'La description de l&rsquo;information doit être plus de 3 caractères !';
 $_['error_meta_title']       = 'Le titre de la méta-balise doit être supérieur à 3 et moins de 255 caractères !';
 $_['error_keyword']          = 'L&rsquo;URL SEO est déjà utilisée !';
 $_['error_unique']           = 'L&rsquo;URL SEO doit être unique!';
-$_['error_account']          = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée en tant que termes du compte de la boutique!';
-$_['error_checkout']         = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée aux conditions de paiement de la boutique! ';
-$_['error_affiliate']        = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme termes d&rsquo;affiliation de la boutique!';
-$_['error_return']           = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme conditions de retour de la boutique!';
-$_['error_store']            = 'Attention: cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement utilisée par la boutique %s!';
+$_['error_account']          = 'Attention : cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée en tant que termes du compte de la boutique!';
+$_['error_checkout']         = 'Attention : cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée aux conditions de paiement de la boutique! ';
+$_['error_affiliate']        = 'Attention : cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme termes d&rsquo;affiliation de la boutique!';
+$_['error_return']           = 'Attention : cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement affectée comme conditions de retour de la boutique!';
+$_['error_store']            = 'Attention : cette page d&rsquo;information ne peut pas être supprimée car elle est actuellement utilisée par la boutique %s!';

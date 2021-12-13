@@ -7,7 +7,7 @@ $_['text_card_type']         = 'Type de carte';
 $_['text_card_name']         = 'Nom de la carte : ';
 $_['text_card_digits']       = 'Derniers numéros : ';
 $_['text_card_expiry']       = 'Date d&rsquo;expiration';
-$_['text_transaction_error'] = 'Attention: une erreur s&rsquo;est produite pendant le déroulement de l&rsquo;opération - ';
+$_['text_transaction_error'] = 'Attention : une erreur s&rsquo;est produite pendant le déroulement de l&rsquo;opération - ';
 
 // Entry
 $_['entry_card']             = 'Nouvelle carte ou carte existante : ';

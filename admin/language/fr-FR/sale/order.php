@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Commandes';
 
 // Text
-$_['text_success']               = 'Succès: vous avez modifié les commandes!';
+$_['text_success']               = 'Succès : vous avez modifié les commandes!';
 $_['text_list']                  = 'Liste de commande';
 $_['text_add']                   = 'Ajouter une commande';
 $_['text_edit']                  = 'Modifier la commande';
@@ -53,11 +53,11 @@ $_['text_product']               = 'Ajouter un ou plusieurs produits';
 $_['text_voucher']               = 'Ajouter un ou plusieurs chèques-cadeaux';
 $_['text_shipping']              = 'Expédition';
 $_['text_contact']               = 'Contact';
-$_['text_reward_added']          = 'Succès: points de fidélité ajoutés!';
-$_['text_reward_removed']        = 'Succès: points de fidélité supprimés!';
-$_['text_commission_added']      = 'Succès: commission ajoutée!';
-$_['text_commission_removed']    = 'Succès: commission supprimée!';
-$_['text_restock']               = 'Succès: les produits ont été réapprovisionnés!';
+$_['text_reward_added']          = 'Succès : points de fidélité ajoutés!';
+$_['text_reward_removed']        = 'Succès : points de fidélité supprimés!';
+$_['text_commission_added']      = 'Succès : commission ajoutée!';
+$_['text_commission_removed']    = 'Succès : commission supprimée!';
+$_['text_restock']               = 'Succès : les produits ont été réapprovisionnés!';
 $_['text_upload']                = 'Votre fichier a été téléchargé avec succès!';
 $_['text_picklist']              = 'Bordereau d&rsquo;envoi';
 
@@ -126,7 +126,7 @@ $_['entry_date_modified']        = 'Date de modification';
 $_['help_override']              = 'Si la commande du client est bloquée pour le changer le statut de la commande en raison d&rsquo;une extension anti-fraude - permettre d&rsquo;ignorer.';
 
 // Error
-$_['error_warning']              = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']           = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les commandes!';
-$_['error_action']               = 'Attention: impossible de terminer cette action!';
+$_['error_warning']              = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']           = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les commandes!';
+$_['error_action']               = 'Attention : impossible de terminer cette action!';
 $_['error_filetype']             = 'Type de fichier invalide!';

@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Catégories';
 
 // Text
-$_['text_success']           = 'Succès: vous avez modifié les catégories!';
+$_['text_success']           = 'Succès : vous avez modifié les catégories!';
 $_['text_list']              = 'Liste des catégories';
 $_['text_add']               = 'Ajouter une catégorie';
 $_['text_edit']              = 'Modifier la catégorie';
@@ -38,8 +38,8 @@ $_['help_top']               = 'Afficher dans la barre de menu supérieure. Ne f
 $_['help_column']            = 'Nombre de colonnes à utiliser pour les 3 catégories inférieures. Ne fonctionne que pour les catégories parentes supérieures. ';
 
 // Error
-$_['error_warning']          = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']       = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les catégories!';
+$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les catégories!';
 $_['error_name']             = 'Le nom de la catégorie doit être compris entre 1 et 255 caractères!';
 $_['error_meta_title']       = 'Le titre de la  méta-balise doit être supérieur à 1 et inférieur à 255 caractères!';
 $_['error_keyword']          = 'L&rsquo;URL SEO est déjà utilisée!';

@@ -4,7 +4,7 @@ $_['heading_title']                    = 'Thème du magasin par défaut';
 
 // Text
 $_['text_extension']                   = 'Extensions';
-$_['text_success']                     = 'Succès: vous avez modifié le thème du magasin par défaut!';
+$_['text_success']                     = 'Succès : vous avez modifié le thème du magasin par défaut!';
 $_['text_edit']                        = 'Modifier le thème du magasin par défaut';
 $_['text_general']                     = 'Général';
 $_['text_product']                     = 'Produits';
@@ -34,7 +34,7 @@ $_['help_product_limit']               = 'Détermine combien d&rsquo;éléments 
 $_['help_product_description_length']  = 'Dans la vue liste, limite de caractères de description courte (catégories, spécial, etc)';
 
 // Error
-$_['error_permission']                 = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le thème du magasin par défaut!';
+$_['error_permission']                 = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le thème du magasin par défaut!';
 $_['error_limit']                      = 'Limite de produit requise!';
 $_['error_image_thumb']                = 'La taille de l&rsquo;image pour la vignette est requise!';
 $_['error_image_popup']                = 'La taille de l&rsquo;image pour la fenêtre popup est requise!';

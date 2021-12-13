@@ -26,11 +26,11 @@ $_['text_transaction_date_added']          = 'Date de création';
 $_['text_transaction_payment']             = 'Paiement';
 $_['text_transaction_outstanding_payment'] = 'Paiement en suspens';
 $_['text_transaction_skipped']             = 'Paiement omis';
-$_['text_transaction_failed']              = 'Echec du paiement';
+$_['text_transaction_failed']              = '&Eacute;chec du paiement';
 $_['text_transaction_cancelled']           = 'Annulé';
 $_['text_transaction_suspended']           = 'Suspendu';
 $_['text_transaction_suspended_failed']    = 'Suspendu en raison d&rsquo;un échec du paiement';
-$_['text_transaction_outstanding_failed']  = 'Echec du paiement en suspens';
+$_['text_transaction_outstanding_failed']  = '&Eacute;chec du paiement en suspens';
 $_['text_transaction_expired']             = 'Expiré';
 $_['text_empty']                           = 'Aucun paiement récurrent trouvé';
 $_['text_error']                           = 'Le paiement récurrent que vous avez demandé ne peut être trouvé!';
@@ -46,7 +46,7 @@ $_['column_order_recurring_id']            = 'ID de profil';
 
 // Error
 $_['error_not_cancelled']                  = 'Erreur: %s';
-$_['error_not_found']                      = 'Attention: aucun paiement récurrent à annuler';
+$_['error_not_found']                      = 'Attention : aucun paiement récurrent à annuler';
 
 // Button
 $_['button_return']                        = 'Retour';

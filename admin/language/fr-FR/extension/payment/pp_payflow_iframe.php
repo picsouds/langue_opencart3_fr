@@ -5,7 +5,7 @@ $_['heading_refund'] = 'Rembourser';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module PayPal Payflow Pro iFrame !';
+$_['text_success']           = 'Succès : vous avez modifié le module PayPal Payflow Pro iFrame !';
 $_['text_edit']              = 'Modifier PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']     = 'Autorisation';
@@ -58,7 +58,7 @@ $_['entry_debug']                    = 'Mode de débogage';
 $_['entry_transaction_reference']    = 'Référence de la transaction';
 $_['entry_transaction_amount']       = 'Montant de la transaction';
 $_['entry_refund_amount']            = 'Montant du remboursement';
-$_['entry_capture_status']           = 'Etat de réception';
+$_['entry_capture_status']           = '&Eacute;tat de réception';
 $_['entry_void']                     = 'Annulation';
 $_['entry_capture']                  = 'Réceptionner';
 $_['entry_transactions']             = 'Transactions';
@@ -67,7 +67,7 @@ $_['entry_canceled_reversal_status'] = 'Statut Annulé';
 $_['entry_completed_status']         = 'Statut Terminé';
 $_['entry_denied_status']            = 'Statut Refusé';
 $_['entry_expired_status']           = 'Statut Expiré';
-$_['entry_failed_status']            = 'Statut Echoué';
+$_['entry_failed_status']            = 'Statut &Eacute;choué';
 $_['entry_pending_status']           = 'Statut En attente';
 $_['entry_processed_status']         = 'Statut Traité';
 $_['entry_refunded_status']          = 'Statut Remboursé';
@@ -93,7 +93,7 @@ $_['button_void']    = 'Annulation';
 $_['button_capture'] = 'Réceptionner';
 
 // Error
-$_['error_permission']    = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
+$_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
 $_['error_vendor']        = 'Le nom du fournisseur est requis !';
 $_['error_user']          = 'Le nom d&rsquo;utilisateur est requis !';
 $_['error_password']      = 'Le mot de passe est requis !';

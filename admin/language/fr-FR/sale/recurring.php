@@ -3,7 +3,7 @@
 $_['heading_title']                        = 'Paiements récurrents';
 
 // Text
-$_['text_success']                         = 'Succès: vous avez modifié les paiements récurrents!';
+$_['text_success']                         = 'Succès : vous avez modifié les paiements récurrents!';
 $_['text_list']                            = 'Liste des commandes';
 $_['text_filter']                          = 'Filtre';
 $_['text_recurring_detail']                = 'Détails';

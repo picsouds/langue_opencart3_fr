@@ -5,7 +5,7 @@ $_['heading_title']     = 'Rapport d&rsquo;expédition';
 // Text
 $_['text_extension']    = 'Extensions';
 $_['text_edit']         = 'Modifier le compte rendu d&rsquo;expédition';
-$_['text_success']      = 'Succès: vous avez modifié le rapport d&rsquo;expédition!';
+$_['text_success']      = 'Succès : vous avez modifié le rapport d&rsquo;expédition!';
 $_['text_filter']       = 'Filtre';
 $_['text_year']         = 'Année';
 $_['text_month']        = 'Mois';
@@ -28,4 +28,4 @@ $_['entry_status']      = 'Statut';
 $_['entry_sort_order']  = 'Ordre de tri';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport d&rsquo;expédition!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le rapport d&rsquo;expédition!';

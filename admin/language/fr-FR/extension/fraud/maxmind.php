@@ -4,8 +4,8 @@ $_['heading_title']                           = 'MaxMind Anti-Fraude';
 
 // Text
 $_['text_extension']                          = 'Extensions';
-$_['text_success']                            = 'Succès: vous avez modifié MaxMind anti-fraude!';
-$_['text_edit']                               = 'Editer MaxMind Anti-Fraud';
+$_['text_success']                            = 'Succès : vous avez modifié MaxMind anti-fraude!';
+$_['text_edit']                               = '&Eacute;diter MaxMind Anti-Fraud';
 $_['text_signup']                             = 'MaxMind est un service de détection de fraude. Si vous n&rsquo;avez pas de clé de licence, vous pouvez <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u> inscrivez-vous ici </u></a>. ';
 $_['text_country_match']                      = 'Country Match: ';
 $_['text_country_code']                       = 'Code pays: ';
@@ -70,7 +70,7 @@ $_['help_country_match']                      = 'Indique si le pays de l&rsquo;a
 $_['help_country_code']                       = 'Code de pays de l&rsquo;adresse IP.';
 $_['help_high_risk_country']                  = 'L&rsquo;adresse IP ou l&rsquo;adresse de facturation est-elle au Ghana, au Nigeria ou au Vietnam?';
 $_['help_distance']                           = 'Distance de l&rsquo;adresse IP au lieu de facturation en kilomètres (grande distance = risque plus élevé).';
-$_['help_ip_region']                          = 'Etat / Région estimé de l&rsquo;adresse IP.';
+$_['help_ip_region']                          = '&Eacute;tat / Région estimé de l&rsquo;adresse IP.';
 $_['help_ip_city']                            = 'Ville estimée de l&rsquo;adresse IP.';
 $_['help_ip_latitude']                        = 'Latitude estimée de l&rsquo;adresse IP.';
 $_['help_ip_longitude']                       = 'Longitude estimée de l&rsquo;adresse IP.';
@@ -108,15 +108,15 @@ $_['help_bin_phone_match']                    = 'Déterminé si le numéro de t�
 $_['help_bin_phone']                          = 'Numéro de téléphone du service client indiqué au dos de la carte de crédit. Disponible pour environ 75% des numéros BIN. Dans certains cas, le numéro de téléphone renvoyé peut être périmé. ';
 $_['help_customer_phone_in_billing_location'] = 'Déterminé si le numéro de téléphone du client est dans le code postal de facturation. Une valeur de retour de Oui fournit une indication positive que le numéro de téléphone indiqué appartient au titulaire de la carte. Une valeur de retour de Non indique que le numéro de téléphone peut se trouver dans une zone différente ou peut ne pas figurer dans notre base de données. NotFound est renvoyé lorsque le préfixe de numéro de téléphone ne peut pas être trouvé dans notre base de données. Actuellement, nous ne prenons en charge que les numéros de téléphone américains. ';
 $_['help_ship_forward']                       = 'Indiquer si l&rsquo;adresse de livraison est dans la base de données de gouttes de courrier connues.';
-$_['help_city_postal_match']                  = 'Indique si la ville de facturation et l&rsquo;état correspondent au code postal. Actuellement disponible uniquement pour les adresses américaines, renvoie une chaîne vide en dehors des Etats-Unis. ';
-$_['help_ship_city_postal_match']             = 'Indique si la ville et l&rsquo;état de livraison correspondent au code postal. Actuellement disponible uniquement pour les adresses américaines, renvoie une chaîne vide en dehors des Etats-Unis. ';
+$_['help_city_postal_match']                  = 'Indique si la ville de facturation et l&rsquo;état correspondent au code postal. Actuellement disponible uniquement pour les adresses américaines, renvoie une chaîne vide en dehors des &Eacute;tats-Unis. ';
+$_['help_ship_city_postal_match']             = 'Indique si la ville et l&rsquo;état de livraison correspondent au code postal. Actuellement disponible uniquement pour les adresses américaines, renvoie une chaîne vide en dehors des &Eacute;tats-Unis. ';
 $_['help_score']                              = 'Score global de fraude basé sur les résultats listés ci-dessus. Ceci est le score de fraude original, et est basé sur une formule simple. Il a été remplacé par le score de risque (voir ci-dessous), mais est conservé pour une compatibilité ascendante.';
 $_['help_explanation']                        = 'Une brève explication du score, détaillant les facteurs qui y ont contribué, selon notre formule. Veuillez noter que ceci correspond au score, pas au riskScore. ';
 $_['help_risk_score']                         = 'Nouveau score de fraude représentant la probabilité estimée que la commande soit une fraude, basée sur une analyse des transactions minFraud passées. Nécessite une mise à niveau pour les clients qui se sont inscrits avant février 2007. ';
 $_['help_queries_remaining']                  = 'Le nombre de requêtes qui restent dans votre compte peut être utilisé pour vous avertir quand vous devrez ajouter plus de requêtes à votre compte.';
-$_['help_maxmind_id']                         = 'Identificateur unique, utilisé pour référencer les transactions lors de la remontée d&rsquo;activités frauduleuses vers MaxMind. Ce reporting permettra à MaxMind d&rsquo;améliorer son service et permettra à une fonctionnalité planifiée de personnaliser la formule de notation de fraude en fonction de votre historique de rétrofacturation. ';
+$_['help_maxmind_id']                         = 'Identificateur unique, utilisé pour référencer les transactions lors de la remontée d&rsquo;activités frauduleuses vers MaxMind. Ce reporting permettra à MaxMind d&rsquo;améliorer son service et permettra à une fonctionnalité planifiée de personnaliser la formule de notation de fraude en fonction de votre historique de rétro facturation. ';
 $_['help_error']                              = 'Retourne une chaîne d&rsquo;erreur avec un message d&rsquo;avertissement ou une raison pour laquelle la requête a échoué.';
 
 // Error
-$_['error_permission']                        = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les anti-fraude de MaxMind!';
+$_['error_permission']                        = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les anti-fraude de MaxMind!';
 $_['error_key']                               = 'Clé de licence requise!';

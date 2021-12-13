@@ -4,7 +4,7 @@ $_['heading_title']              = 'FraudLabs Pro';
 
 // Text
 $_['text_extension']             = 'Extensions';
-$_['text_success']               = 'Succès: vous avez modifié les paramètres de FraudLabs Pro!';
+$_['text_success']               = 'Succès : vous avez modifié les paramètres de FraudLabs Pro!';
 $_['text_edit']                  = 'Paramètres';
 $_['text_signup']                = 'FraudLab s Pro est un service de détection de fraude. Vous pouvez <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"> vous inscrire </u> </a> pour obtenir une clé API gratuite. ' ;
 $_['text_id']                    = 'FraudLabs Pro ID';
@@ -30,7 +30,7 @@ $_['text_status']                = 'FraudLabs Pro Status';
 $_['text_message']               = 'Message';
 $_['text_transaction_id']        = 'ID de la transaction';
 $_['text_credits']               = 'Solde';
-$_['text_error']                 = 'Erreur: ';
+$_['text_error']                 = 'Erreur : ';
 $_['text_flp_upgrade']           = '<a href="http://www.fraudlabspro.com/plan" target="_blank"> [Mise à niveau] </a>';
 $_['text_flp_merchant_area']     = 'Veuillez vous connecter à <a href="http://www.fraudlabspro.com/merchant/login" target="_blank"> FraudLabs Pro Merchant Area</a> pour plus d&rsquo;informations à propos de cette commande.';
 $_['text_rule_validation']       = 'Validation des règles';
@@ -77,5 +77,5 @@ $_['help_transaction_id']        = 'ID unique pour une transaction filtrée par 
 $_['help_credits']               = 'Solde des crédits disponibles après cette transaction.';
 
 // Error
-$_['error_permission']           = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres de FraudLabs Pro!';
+$_['error_permission']           = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres de FraudLabs Pro!';
 $_['error_key']                  = 'Clé de l&rsquo;API requise!';

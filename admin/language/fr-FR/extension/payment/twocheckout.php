@@ -4,7 +4,7 @@ $_['heading_title'] = '2Checkout';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès: vous avez modifié le module 2Checkout !';
+$_['text_success']     = 'Succès : vous avez modifié le module 2Checkout !';
 $_['text_edit']        = 'Modifier 2Checkout';
 $_['text_twocheckout'] = '<a href="https://www.2checkout.com/2co/affiliate?affiliate=1596408" target="_blank"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
 
@@ -24,6 +24,6 @@ $_['help_secret'] = 'Le mot secret qui permet de confirmer les transactions (doi
 $_['help_total']  = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le compte 2Checkout !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le compte 2Checkout !';
 $_['error_account']    = 'Numéro de compte requis';
 $_['error_secret']     = 'Mot secret requis';

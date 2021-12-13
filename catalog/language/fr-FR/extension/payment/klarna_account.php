@@ -35,6 +35,6 @@ $_['help_house_ext'] = 'Veuillez saisir le supplément au numéro de rue, par ex
 $_['help_company']   = 'Veuillez saisir le numéro d&rsquo;enregistrement de votre société';
 
 // Error
-$_['error_deu_terms']     = 'Attention: vous devez accepter la politique de confidentialité de Klarna (Datenschutz)';
-$_['error_address_match'] = 'Attention: les adresses de facturation et de livraison doivent concorder si vous souhaitez utiliser le paiement Klarna';
-$_['error_network']       = 'Attention: une erreur est survenue lors de la connexion à Klarna. Veuillez essayer à nouveau plus tard.';
+$_['error_deu_terms']     = 'Attention : vous devez accepter la politique de confidentialité de Klarna (Datenschutz)';
+$_['error_address_match'] = 'Attention : les adresses de facturation et de livraison doivent concorder si vous souhaitez utiliser le paiement Klarna';
+$_['error_network']       = 'Attention : une erreur est survenue lors de la connexion à Klarna. Veuillez essayer à nouveau plus tard.';

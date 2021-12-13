@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Etats des retours';
+$_['heading_title']    = 'Statuts du retour';
 
 // Text
-$_['text_success']     = 'Succès: vous avez modifié les états de retours !';
-$_['text_list']        = 'Liste des états des retours';
-$_['text_add']         = 'Ajouter un état des retours';
-$_['text_edit']        = 'Modifier un état des retours';
+$_['text_success']     = 'Succès : vous avez modifié les statuts du retour !';
+$_['text_list']        = 'Liste des statuts du retour';
+$_['text_add']         = 'Ajouter un statut du retour';
+$_['text_edit']        = 'Modifier un statut du retour';
 
 // Column
-$_['column_name']      = 'Nom de l&rsquo;état des retours';
+$_['column_name']      = 'Nom de statut du retour';
 $_['column_action']    = 'Action';
 
 // Entry
-$_['entry_name']       = 'Nom du l&rsquo;états des retours';
+$_['entry_name']       = 'Nom du statut du retour';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les états des retours !';
-$_['error_name']       = 'Le nom de l&rsquo;état des retours doit être compris entre 3 et 32 caractères !';
-$_['error_default']    = 'Attention: cet état des retours ne peut être supprimé car il est actuellement assigné comme état des retours par défaut !';
-$_['error_return']     = 'Attention: cet état des retours ne peut être supprimé car il est actuellement attribué à %s retours !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les statuts du retour !';
+$_['error_name']       = 'Le nom du statut de retour doit être compris entre 3 et 32 caractères !';
+$_['error_default']    = 'Attention : ce statut du retour ne peut être supprimé car il est actuellement assigné comme statut du retour par défaut !';
+$_['error_return']     = 'Attention : ce statut du retour ne peut être supprimé car il est actuellement attribué à %s retours !';

@@ -14,6 +14,6 @@ $_['entry_password']  = 'Nouveau mot de passe';
 $_['entry_confirm']   = 'Confirmer';
 
 // Error
-$_['error_email']     = 'Attention: cet e-mail n&rsquo;a pas été trouvé dans nos fichiers, veuillez essayer à nouveau !';
+$_['error_email']     = 'Attention : cet e-mail n&rsquo;a pas été trouvé dans nos fichiers, veuillez essayer à nouveau !';
 $_['error_password']  = 'Le mot de passe doit être compris entre 4 et 20 caractères !';
 $_['error_confirm']   = 'Le mot de passe et la confirmation du mot de passe ne correspondent pas!';

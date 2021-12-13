@@ -4,7 +4,7 @@ $_['heading_title']          = 'Redirection BluePay (nécessite SSL)';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module de redirection BluePay !';
+$_['text_success']           = 'Succès : vous avez modifié le module de redirection BluePay !';
 $_['text_edit']              = 'Modifier Redirection BluePay (nécessite SSL)';
 $_['text_bluepay_redirect']  = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay en ligne" title="BluePay en ligne" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']               = 'Simulateur';
@@ -16,7 +16,7 @@ $_['text_release_ok']        = 'Envoi effectué';
 $_['text_release_ok_order']  = 'Envoi effectué';
 $_['text_rebate_ok']         = 'Remboursement effectué';
 $_['text_rebate_ok_order']   = 'Remboursement effectué : le statut de la commande a été mis à jour';
-$_['text_void_ok']           = 'Succès: le statut de la commande a été mis à jour à (annulé)';
+$_['text_void_ok']           = 'Succès : le statut de la commande a été mis à jour à (annulé)';
 $_['text_payment_info']      = 'Informations de paiement';
 $_['text_release_status']    = 'Paiement envoyé';
 $_['text_void_status']       = 'Paiement annulé';
@@ -61,6 +61,6 @@ $_['button_rebate']          = 'Remise et/ou remboursement';
 $_['button_void']            = 'Annulation';
 
 // Error
-$_['error_permission']       = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_id']       = 'ID de compte requis !';
 $_['error_secret_key']       = 'La clef secrète est requise !';

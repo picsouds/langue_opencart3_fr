@@ -40,7 +40,7 @@ $_['error_alert_failed_token']   = 'Notre prestataire de paiement n&rsquo;a pas 
 $_['error_alert_failed_network'] = 'Une erreur réseau est survenue, veuillez réessayer';
 $_['error_alert_unknown']        = 'Une erreur inconnue est survenue, si le problème persiste, veuillez contacter le support';
 $_['error_unavailable']          = 'Veuillez utiliser la commande complète avec cette commande';
-$_['error_no_shipping']          = 'Attention: aucune option de livraison disponible.';
+$_['error_no_shipping']          = 'Attention : aucune option de livraison disponible.';
 
 // Button
 $_['button_confirm']          = 'Payer maintenant';

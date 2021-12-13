@@ -37,7 +37,7 @@ $_['button_edit']           = 'Modifier';
 $_['button_filter']         = 'Affiner la recherche';
 $_['button_new_address']    = 'Nouvelle adresse';
 $_['button_change_address'] = 'Changer d&rsquo;adresse';
-$_['button_reviews']        = 'Evaluations';
+$_['button_reviews']        = '&Eacute;valuations';
 $_['button_write']          = 'Rédiger une évaluation';
 $_['button_login']          = 'Se connecter';
 $_['button_update']         = 'Modifier';
@@ -60,15 +60,15 @@ $_['button_map']            = 'Voir la carte Google';
 
 // Error
 $_['error_exception']       = 'Code d&rsquo;erreur(%s) : %s dans %s sur la ligne %s';
-$_['error_upload_1']        = 'Attention: le fichier téléchargé excède la directive UPLOAD_MAX_FILESIZE dans le fichier php.ini !';
-$_['error_upload_2']        = 'Attention: le fichier téléchargé excède la directive MAX_FILE_SIZE qui a été spécifiée dans le formulaire HTML !';
-$_['error_upload_3']        = 'Attention: le fichier n&rsquo;a été envoyé que partiellement !';
-$_['error_upload_4']        = 'Attention: aucun fichier n&rsquo;a été envoyé !';
-$_['error_upload_6']        = 'Attention: aucun dossier temporaire !';
-$_['error_upload_7']        = 'Attention: impossible d&rsquo;écrire le fichier sur le disque !';
-$_['error_upload_8']        = 'Attention: envoi de fichier bloqué par extension !';
-$_['error_upload_999']      = 'Attention: aucun code d&rsquo;erreur disponible !';
-$_['error_curl']            = 'CURL: code d&rsquo;erreur (%s): %s';
+$_['error_upload_1']        = 'Attention : le fichier téléchargé excède la directive UPLOAD_MAX_FILESIZE dans le fichier php.ini !';
+$_['error_upload_2']        = 'Attention : le fichier téléchargé excède la directive MAX_FILE_SIZE qui a été spécifiée dans le formulaire HTML !';
+$_['error_upload_3']        = 'Attention : le fichier n&rsquo;a été envoyé que partiellement !';
+$_['error_upload_4']        = 'Attention : aucun fichier n&rsquo;a été envoyé !';
+$_['error_upload_6']        = 'Attention : aucun dossier temporaire !';
+$_['error_upload_7']        = 'Attention : impossible d&rsquo;écrire le fichier sur le disque !';
+$_['error_upload_8']        = 'Attention : envoi de fichier bloqué par extension !';
+$_['error_upload_999']      = 'Attention : aucun code d&rsquo;erreur disponible !';
+$_['error_curl']            = 'CURL : code d&rsquo;erreur (%s): %s';
 
 /* When doing translations only include the matching language code */
 

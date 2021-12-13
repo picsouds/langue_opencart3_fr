@@ -1771,7 +1771,7 @@ INSERT INTO `oc_information_description` (`information_id`, `language_id`, `titl
 (3, 1, 'Privacy Policy', '&lt;p&gt;\r\n	Privacy Policy&lt;/p&gt;\r\n', 'Privacy Policy', '', ''),
 (6, 1, 'Delivery Information', '&lt;p&gt;\r\n	Delivery Information&lt;/p&gt;\r\n', 'Delivery Information', '', ''),
 (4, 2, 'À propos de nous', '&lt;p&gt;\r\n	À propos de nous&lt;/p&gt;\r\n', 'À propos de nous', '', ''),
-(5, 2, 'Termes &amp; Conditions', '&lt;p&gt;\r\n	Termes &amp;amp; Conditions&lt;/p&gt;\r\n', 'Termes &amp; Conditions', '', ''),
+(5, 2, 'Termes et Conditions', '&lt;p&gt;\r\n	Termes &amp;amp; Conditions&lt;/p&gt;\r\n', 'Termes &amp; Conditions', '', ''),
 (3, 2, 'Politique de confidentialité', '&lt;p&gt;\r\n	Politique de confidentialité&lt;/p&gt;\r\n', 'Politique de confidentialité', '', ''),
 (6, 2, 'Informations de livraison', '&lt;p&gt;\r\n	Informations de livraison&lt;/p&gt;\r\n', 'Informations de livraison', '', '');
 

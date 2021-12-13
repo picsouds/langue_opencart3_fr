@@ -4,7 +4,7 @@ $_['heading_title'] = 'Klarna Checkout';
 
 // Text
 $_['text_extension']                     = 'Extensions';
-$_['text_success']                       = 'Succès: vous avez modifié le module Klarna Checkout!';
+$_['text_success']                       = 'Succès : vous avez modifié le module Klarna Checkout!';
 $_['text_edit']                          = 'Modifier la vérification de Klarna';
 $_['text_live']                          = 'Live';
 $_['text_test']                          = 'Test';
@@ -24,7 +24,7 @@ $_['text_confirm_settlement']            = 'Etes-vous sûr de vouloir traiter le
 $_['text_no_capture']                    = 'Aucune capture';
 $_['text_no_refund']                     = 'Aucun remboursement';
 $_['text_success_action']                = 'Succès';
-$_['text_error_generic']                 = 'Erreur: il y avait une erreur avec votre requête.';
+$_['text_error_generic']                 = 'Erreur : il y avait une erreur avec votre requête.';
 $_['text_capture_shipping_info_title']   = 'Capture %d - Informations de livraison';
 $_['text_capture_billing_address_title'] = 'Capture %d - Adresse de facturation';
 $_['text_new_capture_title']             = 'Nouvelle capture';
@@ -149,7 +149,7 @@ $_['button_account_remove']        = 'Supprimer le compte';
 $_['button_account_add']           = 'Ajouter un compte';
 $_['button_capture']               = 'Capture';
 $_['button_refund']                = 'Remboursement';
-$_['button_extend_authorization']  = 'Etendre';
+$_['button_extend_authorization']  = '&Eacute;tendre';
 $_['button_release_authorization'] = 'Libérer';
 $_['button_update']                = 'Mettre à jour';
 $_['button_add_shipping_info']     = 'Ajouter les informations de livraison';
@@ -161,7 +161,7 @@ $_['button_new_refund']            = 'Nouveau remboursement';
 $_['button_process_settlement']    = 'Traiter les fichiers de règlement';
 
 // Error
-$_['error_warning']          = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
 $_['error_php_version']      = 'Une version minimale de PHP 5.4.0 est requise!';
 $_['error_ssl']              = 'Vous devez activer "Utiliser SSL" dans les paramètres du magasin et avoir un certificat SSL installé!';
 $_['error_account_minimum']  = 'Veuillez ajouter au moins un compte.';
@@ -169,7 +169,7 @@ $_['error_locale']           = 'Veuillez entrer un paramètre régional valide.'
 $_['error_account_currency'] = 'La liste des comptes contient une ou plusieurs devises dupliquées.';
 $_['error_merchant_id']      = 'Identifiant du marchand requis!';
 $_['error_secret']           = 'Secret partagé requis!';
-$_['error_tax_warning']      = 'Attention: certains de vos produits utilisent un taux de taxe basée sur les adresses de paiement. Klarna Checkout ne fonctionnera pas si l&rsquo;un de ceux-ci est placé dans le panier. ';
+$_['error_tax_warning']      = 'Attention : certains de vos produits utilisent un taux de taxe basée sur les adresses de paiement. Klarna Checkout ne fonctionnera pas si l&rsquo;un de ceux-ci est placé dans le panier. ';
 
 // Tab
 $_['tab_setting']      = 'Paramètres';

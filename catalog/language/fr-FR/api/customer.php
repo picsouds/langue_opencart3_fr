@@ -3,7 +3,7 @@
 $_['text_success']       = 'Le profil a été modifié avec succès';
 
 // Error
-$_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à accéder à l&rsquo;API !';
+$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à accéder à l&rsquo;API !';
 $_['error_customer']     = 'Vous devez sélectionner un client!';
 $_['error_firstname']    = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']     = 'Le nom de famille doit être compris entre 1 et 32 caractères !';

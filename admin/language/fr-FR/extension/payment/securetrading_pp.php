@@ -6,7 +6,7 @@ $_['text_extension']                             = 'Extensions';
 $_['text_all_geo_zones']                         = 'Toutes les zones géographiques';
 $_['text_process_immediately']                   = 'Procéder immédiatement';
 $_['text_wait_x_days']                           = 'Attendre %d jours';
-$_['text_success']                               = 'Succès: vous avez modifié le module Secure Trading !';
+$_['text_success']                               = 'Succès : vous avez modifié le module Secure Trading !';
 $_['text_pending_settlement']                    = 'Règlement en attente';
 $_['text_authorisation_reversed']                = 'L&rsquo;autorisation a été annulée avec succès';
 $_['text_refund_issued']                         = 'Le remboursement a été envoyé avec succès';
@@ -41,7 +41,7 @@ $_['entry_reverse_authorisation']               = 'Autorisation inverse : ';
 $_['entry_refunded']                            = 'Remboursé : ';
 $_['entry_refund']                              = 'Envoi de remboursement(%s) : ';
 
-$_['error_permission']            = 'Attention: vous n&rsquo;êtes pas autorisé à modifier ce module';
+$_['error_permission']            = 'Attention : vous n&rsquo;êtes pas autorisé à modifier ce module';
 $_['error_site_reference']        = 'La référence du site est requise';
 $_['error_version']               = 'La version est requise';
 $_['error_notification_password'] = 'Mot de passe de notification est requis';

@@ -3,16 +3,16 @@
 $_['heading_title'] = 'Se connecter et payer avec Amazon';
 
 //Text
-$_['text_success']                 = 'Succès: vous avez modifié le module Se connecter et payer avec Amazon !';
+$_['text_success']                 = 'Succès : vous avez modifié le module Se connecter et payer avec Amazon !';
 $_['text_ipn_url']                 = 'URL du planificateur CRON';
 $_['text_ipn_token']               = 'Jeton secret';
-$_['text_us']                      = 'Etats-Unis';
+$_['text_us']                      = '&Eacute;tats-Unis';
 $_['text_de']                      = 'Allemand';
 $_['text_uk']                      = 'Anglais';
 $_['text_fr']                      = 'Français';
 $_['text_it']                      = 'Italien';
 $_['text_es']                      = 'Espagnol';
-$_['text_us_region']               = 'Etats-Unis';
+$_['text_us_region']               = '&Eacute;tats-Unis';
 $_['text_eu_region']               = 'Région euro';
 $_['text_uk_region']               = 'Royaume-Uni';
 $_['text_live']                    = 'Direct';
@@ -36,8 +36,8 @@ $_['text_large']                   = 'Large';
 $_['text_x_large']                 = 'Extra large';
 $_['text_background']              = 'Arrière-plan';
 $_['text_edit']                    = 'Modifier Amazon Pay';
-$_['text_amazon_login_pay']         = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="S&rsquo;inscrire à Amazon Pay"><img src="view/image/payment/amazon_lpa.png" alt="Amazon Pay et Connexion avec Amazon" title="Amazon Pay et Connexion avec Amazon" style="border: 1px solid #EEEEEE;" /></a>';
-$_['text_amazon_join']              = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="S&rsquo;inscrire à Amazon Pay"><u>S&rsquo;inscrire à Amazon Pay</u></a>';
+$_['text_amazon_login_pay']        = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="S&rsquo;inscrire à Amazon Pay"><img src="view/image/payment/amazon_lpa.png" alt="Amazon Pay et Connexion avec Amazon" title="Amazon Pay et Connexion avec Amazon" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_amazon_join']             = '<a href="https://pay.amazon.com/help/201828820" target="_blank" title="S&rsquo;inscrire à Amazon Pay"><u>S&rsquo;inscrire à Amazon Pay</u></a>';
 $_['text_payment_info']            = 'Information de paiement';
 $_['text_capture_ok']              = 'La capture a été réalisée avec succès';
 $_['text_capture_ok_order']        = 'La capture a été réalisée avec succès : l&rsquo;autorisation a été entièrement capturée';
@@ -99,7 +99,7 @@ $_['entry_ipn_token']      = 'Jeton secret';
 $_['entry_debug']          = 'Enregistrements de débogage';
 
 // Help
-$_['help_pay_mode']       = 'Paiement uniquement disponible pour les boutiques localisée aux Etats-Unis';
+$_['help_pay_mode']       = 'Paiement uniquement disponible pour les boutiques localisée aux &Eacute;tats-Unis';
 $_['help_checkout']       = 'Le bouton de paiement doit-il également se connecter au client ?';
 $_['help_capture_status'] = 'Choisissez le statut de la commande qui déclenchera la capture automatique d&rsquo;un paiement autorisé';
 $_['help_capture_oc_status'] = 'Choisissez le statut de la commande que la commande obtiendra une fois qu&rsquo;elle sera capturée dans Amazon Seller Central ou à partir de la fonction de capture dans l&rsquo;admin OpenCart > %s > %s > %s.';
@@ -115,13 +115,13 @@ $_['help_buyer_multi_currency_no_available_currency']     = 'There are no <a hre
 $_['tab_order_adjustment'] = 'Ajustement de la commande';
 
 // Errors
-$_['error_permission']    = 'Attention: vous n&rsquo;êtes pas autorisé à modifier ce module';
+$_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier ce module';
 $_['error_merchant_id']   = 'Un numéro de boutique est requis';
 $_['error_access_key']    = 'Une clef d&rsquo;accès est requise';
 $_['error_access_secret'] = 'Une clef secrète est requise';
 $_['error_client_id']     = 'Un ID du client est requis';
 $_['error_client_secret'] = 'Un ID de client est requis';
-$_['error_pay_mode']      = 'Paiement uniquement disponible pour les boutiques localisée aux Etats-Unis';
+$_['error_pay_mode']      = 'Paiement uniquement disponible pour les boutiques localisée aux &Eacute;tats-Unis';
 $_['error_minimum_total'] = 'Le total minimum de la commande doit être supérieur à zéro';
 $_['error_curreny']       = 'Votre boutique doit avoir la devise %s installée et activée';
 $_['error_upload']        = 'Le téléchargement a échoué';

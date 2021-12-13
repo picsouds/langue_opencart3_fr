@@ -10,7 +10,7 @@ $_['text_payment']              = 'Moyen de paiement';
 $_['text_cheque']               = 'Chèque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Virement bancaire';
-$_['text_success']              = 'Succès: votre compte a été correctement mis à jour';
+$_['text_success']              = 'Succès : votre compte a été correctement mis à jour';
 $_['text_agree']                = 'J&rsquo;ai lu et accepté les <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
@@ -27,7 +27,7 @@ $_['entry_bank_account_name']   = 'Nom du compte';
 $_['entry_bank_account_number'] = 'Numéro du compte';
 
 // Error
-$_['error_agree']               = 'Attention: vous devez accepter les %s';
+$_['error_agree']               = 'Attention : vous devez accepter les %s';
 $_['error_cheque']              = 'Nom de bénéficiaire du chèque requis!';
 $_['error_paypal']              = 'L&rsquo;adresse e-mail PayPal ne semble pas être valide!';
 $_['error_bank_account_name']   = 'Nom de la banque';

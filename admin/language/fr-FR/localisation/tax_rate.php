@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Taux de taxe';
 
 // Text
-$_['text_success']         = 'Succès: vous avez modifié les taux de taxe !';
+$_['text_success']         = 'Succès : vous avez modifié les taux de taxe !';
 $_['text_list']            = 'Liste des taux de taxe';
 $_['text_add']             = 'Ajouter un taux de taxe';
 $_['text_edit']            = 'Modifier un taux de taxe';
@@ -27,7 +27,7 @@ $_['entry_customer_group'] = 'Groupe de clients';
 $_['entry_geo_zone']       = 'Zone géographique';
 
 // Error
-$_['error_permission']     = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les taux de taxe !';
-$_['error_tax_rule']       = 'Attention: ce taux de taxe ne peut être supprimé car il est actuellement attribué à %s types de taxes !';
+$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les taux de taxe !';
+$_['error_tax_rule']       = 'Attention : ce taux de taxe ne peut être supprimé car il est actuellement attribué à %s types de taxes !';
 $_['error_name']           = 'Le nom du taux doit être compris entre 1 et 32 caractères !';
 $_['error_rate']           = 'Le taux de taxe est requis !';

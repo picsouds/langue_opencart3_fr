@@ -41,7 +41,7 @@ $_['error_card_invalid'] 			    	= 'Erreur: la carte est invalide!';
 $_['error_squareup_cron_token'] 			= 'Erreur: le jeton d&rsquo;accès n&rsquo;a pas pu être actualisé. Veuillez connecter votre extension Square Payment via le panneau d&rsquo;administration OpenCart. ';
 
 // Warning
-$_['warning_test_mode'] 				    = 'Attention: le mode bac à sable est activé! Les transactions sembleront passer, mais aucun frais ne sera comptabilisé. ';
+$_['warning_test_mode'] 				    = 'Attention : le mode bac à sable est activé! Les transactions sembleront passer, mais aucun frais ne sera comptabilisé. ';
 
 // Statuses
 $_['squareup_status_comment_authorized'] 	= 'La transaction par carte a été autorisée mais pas encore capturée.';

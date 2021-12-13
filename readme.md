@@ -29,7 +29,7 @@ __A partir de l'installation par défaut (en langue anglaise)__
 
 Extraire les répertoires `admin/language/fr-FR`, `catalog/language/fr-FR` et `install` dans le répertoire `upload` de votre site.
 
-1. Suivre la procédure d'installation classique (Language Francais disponible sur la procédure d'installation)
+1. Suivre la procédure d'installation classique (Langage Francais disponible sur la procédure d'installation)
 2. L'étape 4/4 de l'installation exécute les requêtes de `opencart.sql` et installe l'environnement français par défaut ainsi que les données (catégories, produits ...)
 
 ## Ancienne version

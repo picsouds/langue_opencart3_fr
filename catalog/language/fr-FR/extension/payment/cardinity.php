@@ -2,7 +2,7 @@
 // Text
 $_['text_title']               = 'Carte de crédit / carte de débit (Cardinity)';
 $_['text_payment_success']     = 'Succès du paiement, détails ci-dessous';
-$_['text_payment_failed']      = 'Echec du paiement, détails ci-dessous';
+$_['text_payment_failed']      = '&Eacute;chec du paiement, détails ci-dessous';
 
 // Entry
 $_['entry_holder']             = 'Nom du détenteur de la carte';

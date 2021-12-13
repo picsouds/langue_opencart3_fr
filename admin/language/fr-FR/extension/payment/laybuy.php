@@ -13,7 +13,7 @@ $_['tab_modify']    = 'Modifier le plan';
 
 // Text
 $_['text_extension']           = 'Extensions';
-$_['text_success']             = 'Succès: vous avez modifié le module de paiement Lay-Buy!';
+$_['text_success']             = 'Succès : vous avez modifié le module de paiement Lay-Buy!';
 $_['text_edit']                = 'Modifier Lay-Buy';
 $_['text_laybuy']              = '<a href="https://www.lay-buys.com" target="_blank"><img src="view/image/payment/laybuys.png" style="width:94px;height:25px" alt="Lay-Buys" title="Lay-Buys"></a>';
 $_['text_cancel_success']      = 'La transaction a été annulée avec succès.';
@@ -57,14 +57,14 @@ $_['text_lastname']            = 'Nom de famille';
 $_['text_email']               = 'E-mail';
 $_['text_address']             = 'Adresse';
 $_['text_suburb']              = 'Banlieue';
-$_['text_state']               = 'Etat';
+$_['text_state']               = '&Eacute;tat';
 $_['text_country']             = 'Pays';
 $_['text_postcode']            = 'Code postal';
 $_['text_payment_info']        = 'Informations de paiement';
 $_['text_no_cron_time']        = 'Le cron n&rsquo;a pas encore été exécuté ';
 $_['text_comment']             = 'Mis à jour par Lay-Buy';
 $_['text_comment_canceled']    = 'Commande annulée et récurrente du profil PayPal #%s annulé.';
-$_['text_remaining']           = 'Restant: ';
+$_['text_remaining']           = 'Restant : ';
 $_['text_payment']             = 'Paiement';
 
 // Column
@@ -125,7 +125,7 @@ $_['help_cron_url']                = 'Définir un travail cron pour appeler cett
 $_['help_cron_time']               = 'C&rsquo;est la dernière fois que l&rsquo;URL du travail cron a été exécutée.';
 
 // Error
-$_['error_permission']    = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le paiement Lay-buy!';
+$_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le paiement Lay-buy!';
 $_['error_membership_id'] = 'ID d&rsquo;adhésion Lay-Buys requis!';
 $_['error_token']         = 'Jeton Secret Lay-Buy requis!';
 $_['error_min_deposit']   = 'Vous ne pouvez pas dépasser le montant du versement maximum!';

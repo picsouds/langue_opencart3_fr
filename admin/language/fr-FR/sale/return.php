@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Retours de produits';
 
 // Text
-$_['text_success']         = 'Succès: vous avez modifié les retours de produits !';
+$_['text_success']         = 'Succès : vous avez modifié les retours de produits !';
 $_['text_list']            = 'Liste des retours de produits';
 $_['text_add']             = 'Ajouter un retour de produit';
 $_['text_edit']            = 'Modifier un retour de produit';
@@ -52,8 +52,8 @@ $_['entry_date_modified']  = 'Date de modification';
 $_['help_product']         = 'Saisie semi-automatique';
 
 // Error
-$_['error_warning']        = 'Attention: veuillez vérifier le formulaire attentivement pour les erreurs';
-$_['error_permission']     = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les retours de produits !';
+$_['error_warning']        = 'Attention : veuillez vérifier le formulaire attentivement pour les erreurs';
+$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les retours de produits !';
 $_['error_order_id']       = 'ID de la commande requis !';
 $_['error_firstname']      = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']       = 'Le nom de famille doit être compris entre 1 et 32 caractères !';

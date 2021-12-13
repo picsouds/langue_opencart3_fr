@@ -4,7 +4,7 @@ $_['heading_title']    = 'Statistique des ventes';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès: vous avez modifié le tableau de bord!';
+$_['text_success']     = 'Succès : vous avez modifié le tableau de bord!';
 $_['text_edit']        = 'Modifier le tableau de bord';
 $_['text_order']       = 'Commandes';
 $_['text_customer']    = 'Clients';
@@ -19,4 +19,4 @@ $_['entry_sort_order'] = 'Ordre de tri';
 $_['entry_width']      = 'Largeur';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le tableau de bord!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le tableau de bord!';

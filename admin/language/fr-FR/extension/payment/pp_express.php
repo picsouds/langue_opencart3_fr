@@ -4,7 +4,7 @@ $_['heading_title'] = 'Paiement Express via PayPal';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module PayPal Express via Paypal !';
+$_['text_success']           = 'Succès : vous avez modifié le module PayPal Express via Paypal !';
 $_['text_edit']              = 'Modifier Paiement Express via PayPal';
 $_['text_pp_express']        = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']     = 'Autorisation';
@@ -17,7 +17,7 @@ $_['text_show_advanced']     = 'Afficher la configuration avancée';
 $_['text_show_quick_setup']  = 'Afficher la configuration rapide';
 $_['text_quick_setup']       = 'Configuration rapide - Lier un compte existant ou créer un nouveau compte PayPal pour commencer à accepter les paiements en quelques minutes';
 $_['text_paypal_consent']    = 'En utilisant l&rsquo;outil de configuration rapide, vous autorisez PayPal à recevoir des informations sur votre boutique';
-$_['text_success_connect']   = 'Succès: vous avez connecté votre compte PayPal!';
+$_['text_success_connect']   = 'Succès : vous avez connecté votre compte PayPal!';
 $_['text_preferred_main']    = 'Donne à vos acheteurs une expérience de paiement simplifiée sur plusieurs appareils qui les maintient à proximité de votre site Web tout au long du processus d&rsquo;autorisation de paiement';
 $_['text_learn_more']         = '(En savoir plus)';
 $_['text_preferred_li_1']     = 'Commencez à accepter PayPal en trois clics';
@@ -74,7 +74,7 @@ $_['help_colour']    = 'Code couleur HTML sur 6 caractères';
 $_['help_currency']  = 'Utilisé pour les recherches de transaction';
 
 // Error
-$_['error_permission']        = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le paiement PayPal Express Checkout !';
+$_['error_permission']        = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le paiement PayPal Express Checkout !';
 $_['error_username']          = 'Nom d&rsquo;utilisateur API requis !';
 $_['error_password']          = 'Mot de passe API requis !';
 $_['error_signature']         = 'Signature de l&rsquo;API requise !';

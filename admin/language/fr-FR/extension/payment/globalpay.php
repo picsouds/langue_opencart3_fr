@@ -4,7 +4,7 @@ $_['heading_title']          = 'Globalpay Redirect';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module Globalpay Redirect !';
+$_['text_success']           = 'Succès : vous avez modifié le module Globalpay Redirect !';
 $_['text_edit']              = 'Modifier Globalpay Redirect';
 $_['text_live']              = 'Direct';
 $_['text_demo']              = 'Démonstration';
@@ -98,4 +98,4 @@ $_['error_secret']          = 'Un secret partagé est requis';
 $_['error_live_url']        = 'Une URL de connexion de production est requise';
 $_['error_demo_url']        = 'Une URL de connexion de démonstration est requise';
 $_['error_data_missing']    = 'Données manquantes';
-$_['error_use_select_card'] = 'Vous devez avoir "Selectionner une carte bancaire" activé pour le routage des sous-comptes par type de carte bancaire pour fonctionner';
+$_['error_use_select_card'] = 'Vous devez avoir "Sélectionner une carte bancaire" activé pour le routage des sous-comptes par type de carte bancaire pour fonctionner';

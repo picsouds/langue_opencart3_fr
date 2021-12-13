@@ -4,7 +4,7 @@ $_['heading_title']    = 'Produits phares';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès: vous avez modifié le module Produits phares !';
+$_['text_success']     = 'Succès : vous avez modifié le module Produits phares !';
 $_['text_edit']        = 'Modifier le module Produits phares';
 
 // Entry
@@ -19,7 +19,7 @@ $_['entry_status']     = 'Statut';
 $_['help_product']     = '(saisie semi-automatique)';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module Produits phares !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module Produits phares !';
 $_['error_name']       = 'Le nom du module doit être compris entre 3 et 64 caractères !';
 $_['error_width']      = 'La largeur est requise !';
 $_['error_height']     = 'La hauteur est requise !';

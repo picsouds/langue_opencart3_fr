@@ -4,7 +4,7 @@ $_['heading_title'] = 'LIQPAY';
 
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success']   = 'Succès: vous avez modifié le module LIQPAY !';
+$_['text_success']   = 'Succès : vous avez modifié le module LIQPAY !';
 $_['text_edit']      = 'Modifier les paramètres de LIQPAY';
 $_['text_pay']       = 'LIQPAY';
 $_['text_card']      = 'Carte bancaire';
@@ -24,6 +24,6 @@ $_['entry_sort_order']   = 'Ordre de tri';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement LIQPAY !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement LIQPAY !';
 $_['error_merchant']   = 'L&rsquo;ID marchand est requis !';
 $_['error_signature']  = 'La signature est requise !';

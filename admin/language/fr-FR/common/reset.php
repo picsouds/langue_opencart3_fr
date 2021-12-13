@@ -4,7 +4,7 @@ $_['heading_title']  = 'Réinitialiser le mot de passe';
 
 // Text
 $_['text_password']  = 'Veuillez entrer le nouveau mot de passe que vous souhaitez utiliser.';
-$_['text_success']   = 'Succès: votre mot de passe a été mis à jour avec succès.';
+$_['text_success']   = 'Succès : votre mot de passe a été mis à jour avec succès.';
 
 // Entry
 $_['entry_password'] = 'Mot de passe';

@@ -147,14 +147,14 @@ $_['tab_google']                    = 'Google';
 
 // Error
 $_['error_exception']               = 'Code d&rsquo;erreur (%s): %s dans %s à la ligne %s';
-$_['error_upload_1']                = 'Attention: le fichier transféré dépasse la directive upload_max_filesize dans le fichier php.ini !';
-$_['error_upload_2']                = 'Attention: le fichier transféré dépasse la directive MAX_FILE_SIZE qui est spécifiée dans le formulaire HTML !';
-$_['error_upload_3']                = 'Attention: le fichier n&rsquo;a été transféré que partiellement !';
-$_['error_upload_4']                = 'Attention: aucun fichier n&rsquo;a été transféré !';
-$_['error_upload_6']                = 'Attention: le dossier temporaire est manquant !';
-$_['error_upload_7']                = 'Attention: echec de l&rsquo;écriture du fichier sur le disque !';
-$_['error_upload_8']                = 'Attention: le transfert de fichier a été arrêté en raison de l&rsquo;extension !';
-$_['error_upload_999']              = 'Attention: aucun code d&rsquo;erreur disponible !';
+$_['error_upload_1']                = 'Attention : le fichier transféré dépasse la directive upload_max_filesize dans le fichier php.ini !';
+$_['error_upload_2']                = 'Attention : le fichier transféré dépasse la directive MAX_FILE_SIZE qui est spécifiée dans le formulaire HTML !';
+$_['error_upload_3']                = 'Attention : le fichier n&rsquo;a été transféré que partiellement !';
+$_['error_upload_4']                = 'Attention : aucun fichier n&rsquo;a été transféré !';
+$_['error_upload_6']                = 'Attention : le dossier temporaire est manquant !';
+$_['error_upload_7']                = 'Attention : échec de l&rsquo;écriture du fichier sur le disque !';
+$_['error_upload_8']                = 'Attention : le transfert de fichier a été arrêté en raison de l&rsquo;extension !';
+$_['error_upload_999']              = 'Attention : aucun code d&rsquo;erreur disponible !';
 $_['error_curl']                    = 'CURL: code d&rsquo;erreur (%s): %s';
 
 /* When doing translations only include the matching language code */

@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Moyens de paiement';
 
 // Text
-$_['text_success']      = 'Succès: vous avez modifié les moyens de paiements !';
+$_['text_success']      = 'Succès : vous avez modifié les moyens de paiements !';
 $_['text_list']         = 'Liste des moyens de paiements';
 
 
@@ -14,4 +14,4 @@ $_['column_sort_order'] = 'Ordre de tri';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les moyens de paiements !';
+$_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les moyens de paiements !';

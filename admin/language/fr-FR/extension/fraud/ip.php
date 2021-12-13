@@ -4,7 +4,7 @@ $_['heading_title']      = 'IP anti-fraude';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Succès: vous avez modifié l&rsquo;adresse IP anti-fraude!';
+$_['text_success']       = 'Succès : vous avez modifié l&rsquo;adresse IP anti-fraude!';
 $_['text_edit']          = 'Modifier l&rsquo;adresse IP anti-fraude';
 $_['text_ip_add']        = 'Ajouter une adresse IP';
 $_['text_ip_list']       = 'Liste d&rsquo;adresses IP de fraude';
@@ -24,4 +24,4 @@ $_['entry_order_status'] = 'Statut de la commande';
 $_['help_order_status']  = 'Les clients qui ont une IP bannie sur leurs comptes se verront attribuer ce statut de commande et ne seront pas autorisés à atteindre automatiquement le statut complet.';
 
 // Error
-$_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à modifier l&rsquo;adresse IP anti-fraude!';
+$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier l&rsquo;adresse IP anti-fraude!';

@@ -4,7 +4,7 @@ $_['heading_title']         = 'Service US Postal';
 
 // Text
 $_['text_extension']        = 'Extensions';
-$_['text_success']          = 'Succès: vous avez modifié Service US Postal !';
+$_['text_success']          = 'Succès : vous avez modifié Service US Postal !';
 $_['text_edit']             = 'Modifier Livraison Service US Postal';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
@@ -79,7 +79,7 @@ $_['help_weight_class']     = 'Doit être indiqué en livres.';
 $_['help_debug']            = 'Sauver les données envoyées et reçues dans l&rsquo;historique du système';
 
 // Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le service US Postal !';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le service US Postal !';
 $_['error_user_id']         = 'ID de l&rsquo;utilisateur requis !';
 $_['error_postcode']        = 'Code postal requis !';
 $_['error_width']           = 'Largeur requise !';

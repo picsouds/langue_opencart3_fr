@@ -131,8 +131,8 @@ $_['button_disconnect']                 = 'Déconnecter';
 $_['button_smart_button']               = 'Configuration du bouton intelligent';
 
 // Success
-$_['success_save']		 				= 'Succès: vous avez modifié le module de paiement PayPal!';
+$_['success_save']		 				= 'Succès : vous avez modifié le module de paiement PayPal!';
 
 // Error
-$_['error_permission']	 				= 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module de paiement PayPal!';
+$_['error_permission']	 				= 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module de paiement PayPal!';
 $_['error_timeout'] 	  				= 'Désolé, PayPal est actuellement occupé. Veuillez réessayer plus tard!';

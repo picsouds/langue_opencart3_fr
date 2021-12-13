@@ -4,7 +4,7 @@ $_['heading_title']                            = 'EC-Ship';
 
 // Text
 $_['text_extension']                           = 'Extension';
-$_['text_success']                             = 'Succès: vous avez modifié l&rsquo;envoi EC-Ship!';
+$_['text_success']                             = 'Succès : vous avez modifié l&rsquo;envoi EC-Ship!';
 $_['text_edit']                                = 'Modifier EC-Ship';
 $_['text_air_registered_mail']                 = 'Courrier recommandé par air';
 $_['text_air_parcel']                          = 'Air Parcel (Paquet maximum poids 20KG)';
@@ -40,7 +40,7 @@ $_['help_service']                             = 'Sélectionnez les services EC-
 $_['help_weight_class']                        = 'Mettre en kilogrammes seulement.';
 
 // Error
-$_['error_permission']                         = 'Attention: vous n&rsquo;êtes pas autorisé à modifier l&rsquo;expédition EC-SHIP!';
+$_['error_permission']                         = 'Attention : vous n&rsquo;êtes pas autorisé à modifier l&rsquo;expédition EC-SHIP!';
 $_['error_api_key']                            = 'Clé de l&rsquo;API d&rsquo;accès obligatoire!';
 $_['error_username']                           = 'Nom d&rsquo;utilisateur requis!';
 $_['error_api_username']                       = 'Nom d&rsquo;utilisateur de l&rsquo;API requis!';

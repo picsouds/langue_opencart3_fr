@@ -5,7 +5,7 @@ $_['heading_title'] = 'Rapport d&rsquo;activité client';
 // Text
 $_['text_extension']               = 'Extensions';
 $_['text_edit']                    = 'Modifier le rapport d&rsquo;activité du client';
-$_['text_success']                 = 'Succès: vous avez modifié le rapport d&rsquo;activité du client!';
+$_['text_success']                 = 'Succès : vous avez modifié le rapport d&rsquo;activité du client!';
 $_['text_filter']                  = 'Filtre';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> a enregistré pour un compte.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> a mis à jour les détails de leur compte.';
@@ -39,4 +39,4 @@ $_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Ordre de tri';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport d&rsquo;activité du client!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le rapport d&rsquo;activité du client!';

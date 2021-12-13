@@ -15,7 +15,7 @@ $_['text_payment_address']  = 'Adresse de facturation';
 $_['text_payment_method']   = 'Moyen de paiement : ';
 $_['text_comment']          = 'Commentaire';
 $_['text_history']          = 'Historique des commandes';
-$_['text_success']          = 'Succès: vous avez ajouté <a href="%s"> %s</a> à votre <a href="%s"> panier d&rsquo;achat</a> !';
+$_['text_success']          = 'Succès : vous avez ajouté <a href="%s"> %s</a> à votre <a href="%s"> panier d&rsquo;achat</a> !';
 $_['text_empty']            = 'Vous n&rsquo;avez effectué aucun commande précédemment';
 $_['text_error']            = 'La commande que vous avez demandée n&rsquo;a pas pu être trouvée !';
 

@@ -16,9 +16,9 @@ $_['entry_cc_cvv2']        = 'Cryptogramme visuel (CVV2)';
 $_['entry_cc_issue']       = 'Numéro d&rsquo;émission de la carte : ';
 
 // Error
-$_['error_required']       = 'Attention: tous les champs d&rsquo;information de paiement sont requis.';
-$_['error_general']        = 'Attention: un problème est survenu durant l&rsquo;opération. Veuillez essayer à nouveau.';
-$_['error_config']         = 'Attention: erreur de configuration du module de paiement. Veuillez vérifier vos données de connexion.';
-$_['error_address']        = 'Attention: les données concernant l&rsquo;adresse, la ville, le pays ou le code postal ne correspondent pas. Veuillez essayer à nouveau.';
-$_['error_declined']       = 'Attention: cette opération a été refusée. Veuillez essayer à nouveau.';
-$_['error_invalid']        = 'Attention: les informations fournies pour cette carte de crédit ne sont pas valides. Veuillez essayer à nouveau.';
+$_['error_required']       = 'Attention : tous les champs d&rsquo;information de paiement sont requis.';
+$_['error_general']        = 'Attention : un problème est survenu durant l&rsquo;opération. Veuillez essayer à nouveau.';
+$_['error_config']         = 'Attention : erreur de configuration du module de paiement. Veuillez vérifier vos données de connexion.';
+$_['error_address']        = 'Attention : les données concernant l&rsquo;adresse, la ville, le pays ou le code postal ne correspondent pas. Veuillez essayer à nouveau.';
+$_['error_declined']       = 'Attention : cette opération a été refusée. Veuillez essayer à nouveau.';
+$_['error_invalid']        = 'Attention : les informations fournies pour cette carte de crédit ne sont pas valides. Veuillez essayer à nouveau.';

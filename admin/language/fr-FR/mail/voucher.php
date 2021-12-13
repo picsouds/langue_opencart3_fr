@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_success']  = 'Succès: vous avez modifié les chèques cadeaux!';
+$_['text_success']  = 'Succès : vous avez modifié les chèques cadeaux!';
 $_['text_subject']  = 'Vous venez de recevoir un chèque cadeau provenant de %s';
 $_['text_greeting'] = 'Félicitations, vous venez de recevoir un chèque cadeau d\'une valeur de %s';
 $_['text_from']     = 'Ce chèque cadeau a été envoyé de la part de %s';

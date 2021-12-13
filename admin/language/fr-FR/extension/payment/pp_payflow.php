@@ -4,7 +4,7 @@ $_['heading_title'] = 'PayPal Payflow Pro';
 
 // Text
 $_['text_extension']     = 'Extensions';
-$_['text_success']       = 'Succès: vous avez modifié le module PayPal Payflow Pro !';
+$_['text_success']       = 'Succès : vous avez modifié le module PayPal Payflow Pro !';
 $_['text_edit']          = 'Modifier les paramètres PayPal Payflow Pro';
 $_['text_pp_payflow']    = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorisation';
@@ -32,7 +32,7 @@ $_['help_test']     = 'Utiliser le mode direct ou bien le mode de test (bac à s
 $_['help_total']    = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro (UK) !';
 $_['error_vendor']     = 'Le nom du fournisseur est requis !';
 $_['error_user']       = 'Le nom d&rsquo;utilisateur est requis !';
 $_['error_password']   = 'Le mot de passe est requis !';

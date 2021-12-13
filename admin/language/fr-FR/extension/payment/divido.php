@@ -7,7 +7,7 @@ $_['text_divido']         = '<a href="http://divido.com" target="_blank"><img sr
 $_['text_edit']           = 'Modifier Divido';
 $_['text_extension']      = 'Extensions';
 $_['text_order_info']     = 'Divido info';
-$_['text_success']        = 'Succès: vous avez modifié le module Divido';
+$_['text_success']        = 'Succès : vous avez modifié le module Divido';
 $_['text_proposal_id']    = 'ID de la proposition';
 $_['text_application_id'] = 'ID de l&rsquo;application';
 $_['text_deposit_amount'] = 'Montant du dépôt';

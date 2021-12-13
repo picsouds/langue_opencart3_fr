@@ -4,7 +4,7 @@ $_['heading_title']                = 'Activité récente';
 
 // Text
 $_['text_extension']               = 'Extensions';
-$_['text_success']                 = 'Succès: vous avez modifié l&rsquo;activité du tableau de bord!';
+$_['text_success']                 = 'Succès : vous avez modifié l&rsquo;activité du tableau de bord!';
 $_['text_edit']                    = 'Modifier l&rsquo;activité récente du tableau de bord';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> a enregistré un nouveau compte.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> a mis à jour les détails de son compte.';
@@ -29,4 +29,4 @@ $_['entry_sort_order']             = 'Ordre de tri';
 $_['entry_width']                  = 'Largeur';
 
 // Error
-$_['error_permission']             = 'Attention: vous n&rsquo;êtes pas autorisé à modifier l&rsquo;activité du tableau de bord!';
+$_['error_permission']             = 'Attention : vous n&rsquo;êtes pas autorisé à modifier l&rsquo;activité du tableau de bord!';

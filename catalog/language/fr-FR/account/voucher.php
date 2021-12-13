@@ -29,4 +29,4 @@ $_['error_from_name']  = 'Votre nom doit être compris entre 1 et 64 caractères
 $_['error_email']      = 'L&rsquo;adresse e-mail ne semble pas être valide !';
 $_['error_theme']      = 'Vous devez sélectionner un thème !';
 $_['error_amount']     = 'Le montant doit être compris entre %s et %s !';
-$_['error_agree']      = 'Attention: vous devez accepter que les chèques cadeaux ne sont pas remboursables !';
+$_['error_agree']      = 'Attention : vous devez accepter que les chèques cadeaux ne sont pas remboursables !';

@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Produits';
 
 // Text
-$_['text_success']           = 'Succès: vous avez modifié les produits !';
+$_['text_success']           = 'Succès : vous avez modifié les produits !';
 $_['text_list']              = 'Liste des produits';
 $_['text_add']               = 'Ajouter un produit';
 $_['text_edit']              = 'Modifier le produit';
@@ -84,7 +84,7 @@ $_['entry_layout']           = 'Disposition de mise en page';
 $_['entry_recurring']        = 'Profil récurrent';
 
 // Help
-$_['help_sku']               = 'L&rsquo;unité de gestion des stocks';
+$_['help_sku']               = 'L&rsquo;unité de gestion du stock';
 $_['help_upc']               = 'Code de produit universel';
 $_['help_ean']               = 'Numéro d&rsquo;article européen';
 $_['help_jan']               = 'Numéro d&rsquo;article japonais';
@@ -101,8 +101,8 @@ $_['help_related']           = '(saisie semi-automatique)';
 $_['help_tag']               = 'Séparés par des virgules';
 
 // Error
-$_['error_warning']          = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']       = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les produits!';
+$_['error_warning']          = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']       = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les produits!';
 $_['error_name']             = 'Le nom du produit doit être supérieur à 1 et inférieur à 255 caractères!';
 $_['error_meta_title']       = 'Le titre de la méta-balise doit être supérieur à 1 et inférieur à 255 caractères!';
 $_['error_model']            = 'La référence du produit doit être supérieur à 1 et inférieur à 64 caractères!';

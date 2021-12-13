@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Champs personnalisés';
 
 // Text
-$_['text_success']         = 'Succès: vous avez modifié les champs personnalisés !';
+$_['text_success']         = 'Succès : vous avez modifié les champs personnalisés !';
 $_['text_list']            = 'Liste des champs personnalisés';
 $_['text_add']             = 'Ajouter un champ personnalisé';
 $_['text_edit']            = 'Modifier le champ personnalisé';
@@ -13,7 +13,7 @@ $_['text_radio']           = 'Radio';
 $_['text_checkbox']        = 'Case à cocher';
 $_['text_input']           = 'Entrée de données';
 $_['text_text']            = 'Texte';
-$_['text_textarea']        = 'Zone de texte multiligne';
+$_['text_textarea']        = 'Zone de texte multi-ligne';
 $_['text_file']            = 'Fichier';
 $_['text_date']            = 'Date';
 $_['text_datetime']        = 'Date et heure';
@@ -49,7 +49,7 @@ $_['help_regex']           = 'Regex. par exemple: /[a-zA-Z0-9_-]/';
 $_['help_sort_order']      = 'Utiliser le signe moins pour revenir au champ précédent.';
 
 // Error
-$_['error_permission']     = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les champs personnalisés!';
+$_['error_permission']     = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les champs personnalisés!';
 $_['error_name']           = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères!';
-$_['error_type']           = 'Attention: les valeurs du champ personnalisé sont requises !';
+$_['error_type']           = 'Attention : les valeurs du champ personnalisé sont requises !';
 $_['error_custom_value']   = 'Le nom du champ personnalisé doit être compris entre 1 et 128 caractères!';

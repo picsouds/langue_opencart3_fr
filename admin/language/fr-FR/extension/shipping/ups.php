@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_extension']               = 'Extensions';
-$_['text_success']                 = 'Succès: vous aviez modifié la livraison UPS !';
+$_['text_success']                 = 'Succès : vous aviez modifié la livraison UPS !';
 $_['text_edit']                    = 'Modifiez les paramètres de livraison UPS';
 $_['text_regular_daily_pickup']    = 'Ramassage jour régulier';
 $_['text_daily_pickup']            = 'Ramassage quotidien';
@@ -21,7 +21,7 @@ $_['text_ups_pak']                 = 'UPS Pak';
 $_['text_ups_express_box']         = 'UPS Boîte Express';
 $_['text_ups_25kg_box']            = 'UPS Boîte de 25 kg';
 $_['text_ups_10kg_box']            = 'UPS Boîte de 10 kg';
-$_['text_us']                      = 'En provenance des Etats-Unis';
+$_['text_us']                      = 'En provenance des &Eacute;tats-Unis';
 $_['text_ca']                      = 'En provenance du Canada';
 $_['text_eu']                      = 'En provenance de l&rsquo;Union européenne';
 $_['text_pr']                      = 'En provenance de Puerto Rico';
@@ -86,9 +86,9 @@ $_['entry_debug']                  = 'Mode de débogage';
 $_['help_key']                     = 'Saisissez la clef XML d&rsquo;accès aux tarifs qui vous a été attribuée par UPS.';
 $_['help_username']                = 'Saisissez votre nom d&rsquo;utilisateur de compte UPS Services.';
 $_['help_password']                = 'Saisissez votre mot de passe de compte UPS Services.';
-$_['help_pickup']                  = 'Comment fournissez-vous les colis à UPS (uniquement utilisé quand l&rsquo;origine de l&rsquo;envoi est situé aux Etats-Unis) ?';
+$_['help_pickup']                  = 'Comment fournissez-vous les colis à UPS (uniquement utilisé quand l&rsquo;origine de l&rsquo;envoi est situé aux &Eacute;tats-Unis) ?';
 $_['help_packaging']               = 'Quel type d&rsquo;emballage utilisez-vous ?';
-$_['help_classification']          = '01 - Si vous facturez à un compte UPS et avez un ramassage quotidien UPS, 03 - Si vous n&rsquo;avez pas de compte UPS ou facturez à un compte UPS mais sans avoir de ramassage quotidien, 04 - Si vous expédiez à partir d&rsquo;un point de vente (uniquement utilisé quand l&rsquo;origine de l&rsquo;envoi est situé aux Etats-Unis)';
+$_['help_classification']          = '01 - Si vous facturez à un compte UPS et avez un ramassage quotidien UPS, 03 - Si vous n&rsquo;avez pas de compte UPS ou facturez à un compte UPS mais sans avoir de ramassage quotidien, 04 - Si vous expédiez à partir d&rsquo;un point de vente (uniquement utilisé quand l&rsquo;origine de l&rsquo;envoi est situé aux &Eacute;tats-Unis)';
 $_['help_origin']                  = 'Quel point d&rsquo;origine doit être utilisé (ce paramètre affecte seulement les noms des produits qui sont affichés pour l&rsquo;utilisateur)';
 $_['help_city']                    = 'Saisissez le nom de la ville d&rsquo;origine.';
 $_['help_state']                   = 'Saisissez le code à deux lettres pour votre département d&rsquo;origine.';
@@ -105,11 +105,11 @@ $_['help_dimension']               = 'Ceci est supposé être votre moyenne de v
 $_['help_debug']                   = 'Sauver les données envoyées et reçues dans l&rsquo;historique du système';
 
 // Error
-$_['error_permission']             = 'Attention: vous n&rsquo;êtes pas autorisé à modifier la livraison UPS !';
+$_['error_permission']             = 'Attention : vous n&rsquo;êtes pas autorisé à modifier la livraison UPS !';
 $_['error_key']                    = 'Clef d&rsquo;accès requise !';
 $_['error_username']               = 'Nom d&rsquo;utilisateur requis !';
 $_['error_password']               = 'Mot de passe requis !';
 $_['error_city']                   = 'Ville d&rsquo;origine requise !';
-$_['error_state']                  = 'Etat ou province d&rsquo;origine requis !';
+$_['error_state']                  = '&Eacute;tat ou province d&rsquo;origine requis !';
 $_['error_country']                = 'Pays d&rsquo;origine requis !';
 $_['error_dimension']              = 'Moyenne requise !';

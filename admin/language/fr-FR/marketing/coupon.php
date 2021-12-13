@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Bons de réduction';
 
 // Text
-$_['text_success']        = 'Succès: vous avez modifié les bons de réduction !';
+$_['text_success']        = 'Succès : vous avez modifié les bons de réduction !';
 $_['text_list']           = 'Liste des bons';
 $_['text_add']            = 'Ajouter un bon';
 $_['text_edit']           = 'Modifier un bon';
@@ -51,7 +51,7 @@ $_['help_uses_total']     = 'Le nombre maximum de fois que le bon de réduction 
 $_['help_uses_customer']  = 'Le nombre maximum de fois que le bon de réduction pourra être utilisé par un client unique. Laissez le champ vide pour une utilisation illimitée';
 
 // Error
-$_['error_permission']    = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les bons de réduction !';
-$_['error_exists']        = 'Attention: ce bon de réduction est déjà utilisé !';
+$_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les bons de réduction !';
+$_['error_exists']        = 'Attention : ce bon de réduction est déjà utilisé !';
 $_['error_name']          = 'Le nom du bon doit être compris entre 3 et 128 caractères !';
 $_['error_code']          = 'Le code doit être compris entre 3 et 10 caractères !';

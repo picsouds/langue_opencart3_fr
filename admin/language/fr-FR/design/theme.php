@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']     = 'Editeur de thème';
+$_['heading_title']     = '&Eacute;diteur de thème';
 
 // Text
-$_['text_success']      = 'Succès: vous avez modifié les thèmes!';
+$_['text_success']      = 'Succès : vous avez modifié les thèmes!';
 $_['text_edit']         = 'Modifier le thème';
 $_['text_store']        = 'Choisissez votre boutique';
 $_['text_template']     = 'Choisissez un modèle';
@@ -19,5 +19,5 @@ $_['column_date_added'] = 'Date d&rsquo;ajout';
 $_['column_action']     = 'Action';
 
 // Error
-$_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier l&rsquo;éditeur de thème!';
-$_['error_twig']        = 'Attention: vous ne pouvez sauvegarder que les fichiers .twig!';
+$_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier l&rsquo;éditeur de thème!';
+$_['error_twig']        = 'Attention : vous ne pouvez sauvegarder que les fichiers .twig!';

@@ -4,7 +4,7 @@ $_['heading_title']         = 'Payer avec Amazon';
 
 // Text
 $_['text_module']           = 'Modules';
-$_['text_success']          = 'Succès: vous avez modifié le module Pay with Amazon!';
+$_['text_success']          = 'Succès : vous avez modifié le module Pay with Amazon!';
 $_['text_content_top']      = 'Contenu supérieur';
 $_['text_content_bottom']   = 'Contenu inférieur';
 $_['text_column_left']      = 'Colonne gauche';
@@ -30,4 +30,4 @@ $_['entry_status']          = 'Statut';
 $_['entry_sort_order']      = 'Ordre de tri';
 
 //Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module Pay with Amazon!';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module Pay with Amazon!';

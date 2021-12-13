@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_extension']       = 'Informations de paiement';
-$_['text_capture_status']  = 'Etat de réception';
+$_['text_capture_status']  = '&Eacute;tat de réception';
 $_['text_amount_auth']     = 'Montant autorisé';
 $_['text_amount_captured'] = 'Montant réceptionné';
 $_['text_amount_refunded'] = 'Montant remboursé';

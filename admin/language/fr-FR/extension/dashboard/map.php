@@ -4,7 +4,7 @@ $_['heading_title']    = 'Carte du monde';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_success']     = 'Succès: vous avez modifié la carte du tableau de bord!';
+$_['text_success']     = 'Succès : vous avez modifié la carte du tableau de bord!';
 $_['text_edit']        = 'Modifier la carte du tableau de bord';
 $_['text_order']       = 'Commandes';
 $_['text_sale']        = 'Ventes';
@@ -15,4 +15,4 @@ $_['entry_sort_order'] = 'Ordre de tri';
 $_['entry_width']      = 'Largeur';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier la carte du tableau de bord!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier la carte du tableau de bord!';

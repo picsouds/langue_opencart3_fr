@@ -4,7 +4,7 @@ $_['heading_title']          = 'BluePay en ligne';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module de paiement BluePay !';
+$_['text_success']           = 'Succès : vous avez modifié le module de paiement BluePay !';
 $_['text_edit']              = 'Modifier les paramètres BluePay';
 $_['text_bluepay_hosted']    = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Hosted Form" title="BluePay Hosted Form" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']              = 'Test';
@@ -61,7 +61,7 @@ $_['button_rebate']          = 'Remise et/ou remboursement';
 $_['button_void']            = 'Annulation';
 
 // Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module de paiement BluePay !';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module de paiement BluePay !';
 $_['error_account_name']    = 'Le nom du compte est requis !';
 $_['error_account_id']      = 'L&rsquo;ID du compte est requis !';
 $_['error_secret_key']      = 'La clef secrète est requise !';

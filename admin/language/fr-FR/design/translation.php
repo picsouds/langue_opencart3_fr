@@ -1,9 +1,9 @@
 <?php
 // Heading
-$_['heading_title']    = 'Editeur de langue';
+$_['heading_title']    = '&Eacute;diteur de langage';
 
 // Text
-$_['text_success']     = 'Succès: vous avez modifié l&rsquo;éditeur de langue!';
+$_['text_success']     = 'Succès : vous avez modifié l&rsquo;éditeur de langue!';
 $_['text_list']        = 'Liste de traduction';
 $_['text_edit']        = 'Modifier la traduction';
 $_['text_add']         = 'Ajouter une traduction';
@@ -28,5 +28,5 @@ $_['entry_default']    = 'Défaut';
 $_['entry_value']      = 'Valeur';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier l&rsquo;éditeur de langue!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier l&rsquo;éditeur de langue!';
 $_['error_key']        = 'La clé doit être comprise entre 3 et 64 caractères!';

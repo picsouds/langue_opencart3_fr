@@ -4,7 +4,7 @@ $_['heading_title']                = 'Boutiques';
 
 // Text
 $_['text_settings']                = 'Paramètres';
-$_['text_success']                 = 'Succès: vous avez modifié les boutiques !';
+$_['text_success']                 = 'Succès : vous avez modifié les boutiques !';
 $_['text_list']                    = 'Liste des boutiques';
 $_['text_add']                     = 'Ajouter une boutique';
 $_['text_edit']                    = 'Modifier les boutiques';
@@ -84,8 +84,8 @@ $_['help_icon']                    = 'L&rsquo;icône doit être un fichier PNG a
 $_['help_secure']                  = 'Pour utiliser le SSL, vérifier auprès de votre hébergeur si un certificat SSL est installé.';
 
 // Error
-$_['error_warning']                = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']             = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les boutiques!';
+$_['error_warning']                = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']             = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les boutiques!';
 $_['error_url']                    = 'URL de la boutique requise!';
 $_['error_meta_title']             = 'Le titre de la méta-balise doit être compris entre 3 et 32 ​​caractères!';
 $_['error_name']                   = 'Le nom de la boutique doit être compris entre 3 et 32 ​​caractères!';
@@ -94,5 +94,5 @@ $_['error_address']                = 'L&rsquo;adresse de la boutique doit être 
 $_['error_email']                  = 'L&rsquo;adresse e-mail ne semble pas être valide!';
 $_['error_telephone']              = 'Le téléphone doit être compris entre 3 et 32 ​​caractères!';
 $_['error_customer_group_display'] = 'Vous devez inclure le groupe de clients par défaut si vous allez utiliser cette fonctionnalité!';
-$_['error_default']                = 'Attention: vous ne pouvez pas supprimer votre boutique par défaut!';
-$_['error_store']                  = 'Attention: cette boutique ne peut pas être supprimée car elle est actuellement affectée a %s commandes!';
+$_['error_default']                = 'Attention : vous ne pouvez pas supprimer votre boutique par défaut!';
+$_['error_store']                  = 'Attention : cette boutique ne peut pas être supprimée car elle est actuellement affectée a %s commandes!';

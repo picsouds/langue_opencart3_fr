@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Dispositions';
 
 // Text
-$_['text_success']        = 'Succès: vous avez modifié les dispositions !';
+$_['text_success']        = 'Succès : vous avez modifié les dispositions !';
 $_['text_list']           = 'Liste des dispositions';
 $_['text_add']            = 'Ajouter une disposition';
 $_['text_edit']           = 'Modifier une disposition';
@@ -27,10 +27,10 @@ $_['entry_route']         = 'Chemin';
 $_['entry_module']        = 'Module';
 
 // Error
-$_['error_permission']    = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les dispositions !';
+$_['error_permission']    = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les dispositions !';
 $_['error_name']          = 'Le nom de la disposition doit être compris entre 3 et 64 caractères !';
-$_['error_default']       = 'Attention: cette disposition ne peut être supprimée car il est actuellement défini comme disposition par défaut pour cette boutique !';
-$_['error_store']         = 'Attention: cette disposition ne peut être supprimée car il est actuellement attribué à %s boutiques !';
-$_['error_product']       = 'Attention: cette disposition ne peut être supprimée car il est actuellement attribué à %s produits !';
-$_['error_category']      = 'Attention: cette disposition ne peut être supprimée car il est actuellement attribué à %s catégories !';
-$_['error_information']   = 'Attention: cette disposition ne peut être supprimée car il est actuellement attribué à %s pages d&rsquo;informations !';
+$_['error_default']       = 'Attention : cette disposition ne peut être supprimée car il est actuellement défini comme disposition par défaut pour cette boutique !';
+$_['error_store']         = 'Attention : cette disposition ne peut être supprimée car il est actuellement attribué à %s boutiques !';
+$_['error_product']       = 'Attention : cette disposition ne peut être supprimée car il est actuellement attribué à %s produits !';
+$_['error_category']      = 'Attention : cette disposition ne peut être supprimée car il est actuellement attribué à %s catégories !';
+$_['error_information']   = 'Attention : cette disposition ne peut être supprimée car il est actuellement attribué à %s pages d&rsquo;informations !';

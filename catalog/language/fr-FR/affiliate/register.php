@@ -37,7 +37,7 @@ $_['entry_password']            = 'Mot de passe';
 $_['entry_confirm']             = 'Confirmer le mot de passe';
 
 // Error
-$_['error_exists']              = 'Attention: cet e-mail est déjà enregistré !';
+$_['error_exists']              = 'Attention : cet e-mail est déjà enregistré !';
 $_['error_firstname']           = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']            = 'Le nom de famille doit être compris entre 1 et 32 caractères !';
 $_['error_email']               = 'L&rsquo;adresse e-mail ne semble pas être valide !';
@@ -49,4 +49,4 @@ $_['error_bank_account_name']   = 'Nom du compte requis!';
 $_['error_bank_account_number'] = 'Numéro de compte requis!';
 $_['error_password']            = 'Le mot de passe doit être compris entre 4 et 20 caractères!';
 $_['error_confirm']             = 'Le mot de passe et sa confirmation ne correspondent pas!';
-$_['error_agree']               = 'Attention: vous devez accepter les %s';
+$_['error_agree']               = 'Attention : vous devez accepter les %s';

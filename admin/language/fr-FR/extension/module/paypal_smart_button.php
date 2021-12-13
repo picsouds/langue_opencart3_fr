@@ -38,8 +38,8 @@ $_['text_no']			 	 			= 'Non';
 
 // Entry
 $_['entry_status']     					= 'Statut';
-$_['entry_product_page_status']     	= 'Etat de la page produit';
-$_['entry_cart_page_status']     		= 'Etat de la page du panier';
+$_['entry_product_page_status']     	= '&Eacute;tat de la page produit';
+$_['entry_cart_page_status']     		= '&Eacute;tat de la page du panier';
 $_['entry_insert_tag']     				= 'Insérer Tag';
 $_['entry_insert_type']     			= 'Insérer Type';
 $_['entry_button_align']     			= 'Bouton alignement';
@@ -61,7 +61,7 @@ $_['entry_message_flex_ratio'] = 'Ratio de la bannière de message' ;
 $_['help_message_status']				= 'Ajoutez des messages de paiement ultérieur à votre site.';
 
 // Success
-$_['success_save']						= 'Succès: vous avez modifié le module Bouton intelligent PayPal!';
+$_['success_save']						= 'Succès : vous avez modifié le module Bouton intelligent PayPal!';
 
 // Error
-$_['error_permission'] 					= 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module Bouton intelligent PayPal!';
+$_['error_permission'] 					= 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module Bouton intelligent PayPal!';

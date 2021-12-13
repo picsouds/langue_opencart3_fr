@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Clients';
 
 // Text
-$_['text_success']              = 'Succès: vous avez modifié les clients!';
+$_['text_success']              = 'Succès : vous avez modifié les clients!';
 $_['text_list']                 = 'Liste des clients';
 $_['text_add']                  = 'Ajouter un client';
 $_['text_edit']                 = 'Modifier un client';
@@ -91,9 +91,9 @@ $_['help_commission']           = 'Pourcentage que l&rsquo;affilié reçoit sur 
 $_['help_points']               = 'Utilisez le signe moins pour supprimer des points';
 
 // Error
-$_['error_warning']             = 'Attention: veuillez vérifier le formulaire';
-$_['error_permission']          = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les clients !';
-$_['error_exists']              = 'Attention: cet e-mail est déjà enregistré !';
+$_['error_warning']             = 'Attention : veuillez vérifier le formulaire';
+$_['error_permission']          = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les clients !';
+$_['error_exists']              = 'Attention : cet e-mail est déjà enregistré !';
 $_['error_firstname']           = 'Le prénom doit être compris entre 1 et 32 caractères !';
 $_['error_lastname']            = 'Le nom de famille doit être compris entre 1 à 32 caractères !';
 $_['error_email']               = 'L&rsquo;adresse e-mail ne semble pas être valide !';
@@ -102,7 +102,7 @@ $_['error_password']            = 'Le mot de passe doit être compris entre 4 et
 $_['error_confirm']             = 'Le mot de passe et sa confirmation ne correspondent pas !';
 $_['error_address_1']           = 'L&rsquo;adresse doit être comprise entre 3 et 128 caractères !';
 $_['error_city']                = 'Le nom de la ville doit être compris entre 2 à 128 caractères !';
-$_['error_postcode']            = 'Attention: le code postal doit être compris entre 2 et 10 caractères !';
+$_['error_postcode']            = 'Attention : le code postal doit être compris entre 2 et 10 caractères !';
 $_['error_country']             = 'Veuillez sélectionner un pays !';
 $_['error_zone']                = 'Veuillez sélectionner une région !';
 $_['error_custom_field']        = '%s est requis !';

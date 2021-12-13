@@ -4,7 +4,7 @@ $_['heading_title'] = 'Skrill';
 
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success']   = 'Succès: vous avez modifié le module Skrill.';
+$_['text_success']   = 'Succès : vous avez modifié le module Skrill.';
 $_['text_edit']      = 'Modifier Skrill';
 $_['text_skrill']    = '<a href="https://content.skrill.com/en/ecommerce-solutions/opencart/" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 
@@ -25,5 +25,5 @@ $_['entry_sort_order']        = 'Ordre de tri';
 $_['help_total'] = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier Skrill !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier Skrill !';
 $_['error_email']      = 'L&rsquo;adresse e-mail est requise !';

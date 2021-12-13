@@ -4,7 +4,7 @@ $_['heading_title'] = 'Realex Redirect';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module Realex Redirect !';
+$_['text_success']           = 'Succès : vous avez modifié le module Realex Redirect !';
 $_['text_edit']              = 'Modifier Realex Redirect';
 $_['text_live']              = 'Production';
 $_['text_demo']              = 'Démonstration';

@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Options';
 
 // Text
-$_['text_success']       = 'Succès: vous avez modifié les options !';
+$_['text_success']       = 'Succès : vous avez modifié les options !';
 $_['text_list']          = 'Liste des options';
 $_['text_add']           = 'Ajouter une option';
 $_['text_edit']          = 'Modifier l&rsquo;option';
@@ -13,7 +13,7 @@ $_['text_radio']         = 'Bouton radio';
 $_['text_checkbox']      = 'Case à cocher';
 $_['text_input']         = 'Entrée de données';
 $_['text_text']          = 'Texte';
-$_['text_textarea']      = 'Zone de texte multiligne';
+$_['text_textarea']      = 'Zone de texte multi-ligne';
 $_['text_file']          = 'Fichier';
 $_['text_date']          = 'Date';
 $_['text_datetime']      = 'Date et heure';
@@ -34,8 +34,8 @@ $_['entry_image']        = 'Image';
 $_['entry_sort_order']   = 'Ordre de tri';
 
 // Error
-$_['error_permission']   = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les options !';
+$_['error_permission']   = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les options !';
 $_['error_name']         = 'Le nom de l&rsquo;option doit être compris entre 1 et 128 caractères !';
-$_['error_type']         = 'Attention: valeurs de l&rsquo;option requises !';
+$_['error_type']         = 'Attention : valeurs de l&rsquo;option requises !';
 $_['error_option_value'] = 'La valeur de l&rsquo;option doit être comprise entre 1 et 128 caractères !';
-$_['error_product']      = 'Attention: cette option ne peut pas être supprimée car elle est actuellement assignée à %s produits !';
+$_['error_product']      = 'Attention : cette option ne peut pas être supprimée car elle est actuellement assignée à %s produits !';

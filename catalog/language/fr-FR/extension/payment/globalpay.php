@@ -11,8 +11,8 @@ $_['entry_cc_type']      = 'Type de carte';
 // Text
 $_['text_success']       = 'Votre paiement a été autorisé.';
 $_['text_decline']       = 'Votre paiement a été refusé.';
-$_['text_bank_error']    = 'Attention: une erreur est survenue lors du traitement de votre demande avec la banque.';
-$_['text_generic_error'] = 'Attention: une erreur est survenue lors du traitement de votre demande.';
+$_['text_bank_error']    = 'Attention : une erreur est survenue lors du traitement de votre demande avec la banque.';
+$_['text_generic_error'] = 'Attention : une erreur est survenue lors du traitement de votre demande.';
 $_['text_hash_failed']   = 'La vérification du hachage a échoué. Ne tentez pas à nouveau d&rsquo;effectuer de paiement car son statut est inconnu. Veuillez contacter l&rsquo;administrateur du site marchand.';
 $_['text_link']          = 'Veuillez cliquer <a href="%s">ici</a> pour continuer';
 $_['text_select_card']   = 'Veuillez sélectionner votre type de carte';

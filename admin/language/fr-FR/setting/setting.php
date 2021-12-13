@@ -4,10 +4,10 @@ $_['heading_title']                  = 'Paramètres';
 
 // Text
 $_['text_stores']                    = 'Boutique';
-$_['text_success']                   = 'Succès: vous avez modifié les paramètres!';
+$_['text_success']                   = 'Succès : vous avez modifié les paramètres!';
 $_['text_edit']                      = 'Modifier le paramètre';
 $_['text_product']                   = 'Produits';
-$_['text_review']                    = 'Evaluations';
+$_['text_review']                    = '&Eacute;valuations';
 $_['text_voucher']                   = 'Chèque cadeau';
 $_['text_tax']                       = 'Taxes';
 $_['text_account']                   = 'Compte';
@@ -27,7 +27,7 @@ $_['text_mail_alert']                = 'Alertes mail';
 $_['text_mail_account']              = 'Compte';
 $_['text_mail_affiliate']            = 'Affilié';
 $_['text_mail_order']                = 'Commandes';
-$_['text_mail_review']               = 'Evaluations';
+$_['text_mail_review']               = '&Eacute;valuations';
 $_['text_general']                   = 'Général';
 $_['text_security']                  = 'Sécurité';
 $_['text_upload']                    = 'Uploads';
@@ -185,8 +185,8 @@ $_['help_encryption']                = 'Veuillez fournir une clé secrète qui s
 $_['help_compression']               = 'Utiliser GZIP pour un transfert plus efficace pour les requêtes clientes. Le niveau de compression doit être compris entre 0 et 9 ';
 
 // Error
-$_['error_warning']                  = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']               = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres!';
+$_['error_warning']                  = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']               = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres!';
 $_['error_meta_title']               = 'Le titre de méta-balise doit être compris entre 3 et 32 ​​caractères!';
 $_['error_name']                     = 'Le nom de la boutique doit être compris entre 3 et 32 ​​caractères!';
 $_['error_owner']                    = 'Le propriétaire de la boutique doit être compris entre 3 et 64 caractères!';

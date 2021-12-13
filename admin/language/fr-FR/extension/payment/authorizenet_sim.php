@@ -4,7 +4,7 @@ $_['heading_title']         = 'Authorize.Net (SIM)';
 
 // Text
 $_['text_extension']        = 'Extensions';
-$_['text_success']          = 'Succès: vous avez modifié le module Authorize.Net (SIM) !';
+$_['text_success']          = 'Succès : vous avez modifié le module Authorize.Net (SIM) !';
 $_['text_edit']             = 'Modifier le module Authorize.Net (SIM)';
 $_['text_authorizenet_sim']	= '<a href="https://account.authorize.net/signUpNow?resellerID=26357" target="_BLANK"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
 
@@ -26,6 +26,6 @@ $_['help_md5']              = 'La fonction de hachage MD5 permet d&rsquo;authent
 $_['help_total']            = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le module de paiement Authorize.Net (SIM) !';
 $_['error_merchant']        = 'L&rsquo;ID marchand est requis !';
 $_['error_key']             = 'La clef de transaction est requise !';

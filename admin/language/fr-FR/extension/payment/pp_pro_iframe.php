@@ -4,13 +4,13 @@ $_['heading_title'] = 'PayPal Pro iFrame';
 
 // Text
 $_['text_extension']          = 'Extensions';
-$_['text_success']            = 'Succès: vous avez modifié le module PayPal Pro iFrame !';
+$_['text_success']            = 'Succès : vous avez modifié le module PayPal Pro iFrame !';
 $_['text_edit']               = 'Modifier les paramètres PayPal Pro iFrame';
 $_['text_pp_pro_iframe']      = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']      = 'Approbation';
 $_['text_sale']               = 'Vente';
 $_['text_payment_info']       = 'Information de paiement';
-$_['text_capture_status']     = 'Etat de réception';
+$_['text_capture_status']     = '&Eacute;tat de réception';
 $_['text_amount_auth']        = 'Montant approuvé';
 $_['text_amount_captured']    = 'Montant réceptionné';
 $_['text_amount_refunded']    = 'Montant remboursé';
@@ -91,7 +91,7 @@ $_['text_exchange']           = 'Taux de change';
 $_['text_payment_status']     = 'Statut du paiement';
 $_['text_pending_reason']     = 'Motif d&rsquo;attente';
 $_['text_reason_code']        = 'Code du motif';
-$_['text_protect_elig']       = 'Eligibilité de protection';
+$_['text_protect_elig']       = '&Eacute;ligibilité de protection';
 $_['text_protect_elig_type']  = 'Type d&rsquo;éligibilité de protection';
 $_['text_store_id']           = 'ID marchand';
 $_['text_terminal_id']        = 'Numéro du terminal';
@@ -131,7 +131,7 @@ $_['entry_test']                     = 'Mode de test';
 $_['entry_total']                    = 'Total';
 $_['entry_order_status']             = 'Statut de la commande : ';
 $_['entry_geo_zone']                 = 'Zone géographique : ';
-$_['entry_status']                   = 'Etat : ';
+$_['entry_status']                   = '&Eacute;tat : ';
 $_['entry_sort_order']               = 'Ordre de tri : ';
 $_['entry_transaction_method']       = 'Méthode de transaction : ';
 $_['entry_transaction_id']           = 'Numéro de transaction';
@@ -145,7 +145,7 @@ $_['entry_canceled_reversal_status'] = 'Statut Annulation de retour de paiement'
 $_['entry_completed_status']         = 'Statut Terminé';
 $_['entry_denied_status']            = 'Statut Refusé';
 $_['entry_expired_status']           = 'Statut Expiré';
-$_['entry_failed_status']            = 'Statut Echoué';
+$_['entry_failed_status']            = 'Statut &Eacute;choué';
 $_['entry_pending_status']           = 'Statut En attente';
 $_['entry_processed_status']         = 'Statut Traité ';
 $_['entry_refunded_status']          = 'Statut Remboursé';
@@ -163,7 +163,7 @@ $_['button_capture']     = 'Capture';
 $_['button_reauthorise'] = 'Ré-approuver';
 
 // Error
-$_['error_permission']          = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
+$_['error_permission']          = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement PayPal Website Payment Pro iFrame (UK) !';
 $_['error_sig']                 = 'La signature est requise !';
 $_['error_user']                = 'Le nom d&rsquo;utilisateur est requis !';
 $_['error_password']            = 'Le mot de passe est requis !';

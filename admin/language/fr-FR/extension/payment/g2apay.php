@@ -4,7 +4,7 @@ $_['heading_title'] = 'G2APay';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module G2APay.';
+$_['text_success']           = 'Succès : vous avez modifié le module G2APay.';
 $_['text_edit']              = 'Modifier G2APay';
 $_['text_g2apay']            = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2APay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_payment_info']      = 'Information de paiement';
@@ -26,18 +26,18 @@ $_['entry_secret']                    = 'Secret';
 $_['entry_api_hash']                  = 'API Hash';
 $_['entry_environment']               = 'Environnement';
 $_['entry_secret_token']              = 'Jeton Secret';
-$_['entry_ipn_url']                   = 'URL de l&rsquo;IPN: ';
+$_['entry_ipn_url']                   = 'URL de l&rsquo;IPN : ';
 $_['entry_total']                     = 'Total';
 $_['entry_geo_zone']                  = 'Zone géographique';
 $_['entry_status']                    = 'Statut';
 $_['entry_sort_order']                = 'Ordre de tri';
 $_['entry_debug']                     = 'Journalisation du débogage';
 $_['entry_order_status']              = 'Statut de la commande';
-$_['entry_complete_status']           = 'Statut complet: ';
-$_['entry_rejected_status']           = 'Statut rejeté: ';
-$_['entry_cancelled_status']          = 'Statut annulé: ';
-$_['entry_pending_status']            = 'Statut en attente: ';
-$_['entry_refunded_status']           = 'Statut Remboursé: ';
+$_['entry_complete_status']           = 'Statut complet : ';
+$_['entry_rejected_status']           = 'Statut rejeté : ';
+$_['entry_cancelled_status']          = 'Statut annulé : ';
+$_['entry_pending_status']            = 'Statut en attente : ';
+$_['entry_refunded_status']           = 'Statut Remboursé : ';
 $_['entry_partially_refunded_status'] = 'Statut partiellement remboursé: ';
 
 // Help
@@ -50,7 +50,7 @@ $_['tab_settings']     = 'Paramètres';
 $_['tab_order_status'] = 'Statut de la commande';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier G2APay!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier G2APay!';
 $_['error_email']      = 'E-Mail requis!';
 $_['error_secret']     = 'Secret requis!';
 $_['error_api_hash']   = 'API Hash requis!';

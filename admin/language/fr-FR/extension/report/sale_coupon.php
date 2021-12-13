@@ -5,7 +5,7 @@ $_['heading_title']    = 'Rapport des bons de réduction';
 // Text
 $_['text_extension']   = 'Extensions';
 $_['text_edit']        = 'Modifier le rapport des bons de réduction';
-$_['text_success']     = 'Succès: vous avez modifié le rapport des bons de réduction!';
+$_['text_success']     = 'Succès : vous avez modifié le rapport des bons de réduction!';
 $_['text_filter']      = 'Filtre';
 
 // Column
@@ -22,4 +22,4 @@ $_['entry_status']     = 'Statut';
 $_['entry_sort_order'] = 'Ordre de tri';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport des bons de réduction!';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le rapport des bons de réduction!';

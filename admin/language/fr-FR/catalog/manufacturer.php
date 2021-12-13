@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Fabricants';
 
 // Text
-$_['text_success']      = 'Succès: vous avez modifié les fabricants !';
+$_['text_success']      = 'Succès : vous avez modifié les fabricants !';
 $_['text_list']         = 'Liste des fabricants';
 $_['text_add']          = 'Ajouter un fabricant';
 $_['text_edit']         = 'Modifier un fabricant';
@@ -26,8 +26,8 @@ $_['entry_sort_order']  = 'Ordre de tri';
 $_['entry_type']        = 'Type';
 
 // Error
-$_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les fabricants !';
+$_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les fabricants !';
 $_['error_name']        = 'Le nom du fabricant doit être compris entre 2 et 64 caractères !';
 $_['error_keyword']     = 'L&rsquo;URL SEO est déjà utilisée !';
 $_['error_unique']      = 'L&rsquo;URL SEO doit être unique!';
-$_['error_product']     = 'Attention: ce fabricant ne peut être supprimé car il est actuellement affecté aux produits %s !';
+$_['error_product']     = 'Attention : ce fabricant ne peut être supprimé car il est actuellement affecté aux produits %s !';

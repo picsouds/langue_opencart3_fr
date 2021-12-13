@@ -8,7 +8,7 @@ $_['tab_settings'] = 'Paramètres';
 
 // Text
 $_['text_extension']        = 'Extensions';
-$_['text_success']          = 'Succès: vous avez modifié le module Pilibaba for Chinese Checkout!';
+$_['text_success']          = 'Succès : vous avez modifié le module Pilibaba for Chinese Checkout!';
 $_['text_edit']             = 'Modifier Pilibaba';
 $_['text_pilibaba']         = '<a href="http://www.pilibaba.com" target="_blank"><img src="view/image/payment/pilibaba.png" alt="Pilibaba" title="Pilibaba"></a>';
 $_['text_live']             = 'Live';
@@ -56,8 +56,8 @@ $_['help_total']           = 'Total de la commande à atteindre avant que cette 
 $_['help_logging']         = 'L&rsquo;activation du débogage écrira des données sensibles dans un fichier journal. Vous devriez toujours désactiver sauf indication contraire. ';
 
 // Error
-$_['error_warning']         = 'Attention: veuillez vérifier attentivement le formulaire pour les erreurs!';
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le paiement Pilibaba!';
+$_['error_warning']         = 'Attention : veuillez vérifier attentivement le formulaire pour les erreurs!';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le paiement Pilibaba!';
 $_['error_merchant_number'] = 'Numéro de commerçant requis!';
 $_['error_secret_key']      = 'Clé secrète requise!';
 $_['error_shipping_fee']    = 'Les frais de livraison doivent être un nombre décimal!';

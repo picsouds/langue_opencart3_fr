@@ -4,7 +4,7 @@ $_['heading_title'] = 'First Data EMEA Connect (3DSecure activé)';
 
 // Text
 $_['text_extension']         = 'Extensions';
-$_['text_success']           = 'Succès: vous avez modifié le module First Data EMEA Connect (3DSecure activé) !';
+$_['text_success']           = 'Succès : vous avez modifié le module First Data EMEA Connect (3DSecure activé) !';
 $_['text_edit']              = 'Modifier First Data EMEA Connect (3DSecure activé)';
 $_['text_notification_url']  = 'URL de notification';
 $_['text_live']              = 'En direct';
@@ -14,7 +14,7 @@ $_['text_merchant_id']       = 'ID marchand';
 $_['text_secret']            = 'Secret partagé';
 $_['text_capture_ok']        = 'La réception du paiement a réussi';
 $_['text_capture_ok_order']  = 'La réception du paiement a réussi : le statut de la commande a été mis à jour';
-$_['text_void_ok']           = 'Succès: le statut de la commande a été mis à jour à (annulé)';
+$_['text_void_ok']           = 'Succès : le statut de la commande a été mis à jour à (annulé)';
 $_['text_settle_auto']       = 'Vente';
 $_['text_settle_delayed']    = 'Autorisation seulement';
 $_['text_success_void']      = 'La transaction a été annulée';

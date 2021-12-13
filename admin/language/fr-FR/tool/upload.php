@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Transferts de fichiers';
 
 // Text
-$_['text_success']      = 'Succès: vous avez modifié les transferts de fichiers !';
+$_['text_success']      = 'Succès : vous avez modifié les transferts de fichiers !';
 $_['text_list']         = 'Liste des transferts';
 
 // Column
@@ -18,6 +18,6 @@ $_['entry_filename']    = 'Nom du fichier';
 $_['entry_date_added']  = 'Date d&rsquo;ajout';
 
 // Error
-$_['error_permission']  = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les transferts de fichiers !';
+$_['error_permission']  = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les transferts de fichiers !';
 $_['error_upload']      = 'Transfert non valide !' ;
 $_['error_file']        = 'Le fichier a transférer n&rsquo;a pas été trouvé !' ;

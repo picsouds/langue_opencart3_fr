@@ -4,7 +4,7 @@ $_['heading_title'] = 'Paymate';
 
 // Text
 $_['text_extension'] = 'Extensions';
-$_['text_success']   = 'Succès: vous avez modifié le module Paymate !';
+$_['text_success']   = 'Succès : vous avez modifié le module Paymate !';
 $_['text_edit']      = 'Modifier les paramètres Paymate';
 $_['text_paymate']   = '<img src="view/image/payment/paymate.png" alt="Paymate" title="Paymate" style="border: 1px solid #EEEEEE;" />';
 
@@ -23,6 +23,6 @@ $_['help_password'] = 'Il suffit d&rsquo;utiliser un mot de passe aléatoire. Ce
 $_['help_total']    = 'Le montant total que la commande doit atteindre avant que ce module de paiement devienne actif.';
 
 // Error
-$_['error_permission'] = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement Paymate !';
+$_['error_permission'] = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les paramètres du module de paiement Paymate !';
 $_['error_username']   = 'Le nom d&rsquo;utilisateur Paymate est requis !';
 $_['error_password']   = 'Le mot de passe est requis !';

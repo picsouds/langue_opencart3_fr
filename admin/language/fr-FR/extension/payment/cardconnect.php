@@ -8,7 +8,7 @@ $_['tab_order_status']              = 'Statut de la commande';
 
 // Text
 $_['text_extension']                = 'Extensions';
-$_['text_success']                  = 'Succès: vous avez modifié le module CardConnect!';
+$_['text_success']                  = 'Succès : vous avez modifié le module CardConnect!';
 $_['text_edit']                     = 'Modifier CardConnect';
 $_['text_cardconnect']              = '<a href="http://www.cardconnect.com" target="_blank"><img src="view/image/payment/cardconnect.png" alt="CardConnect" title="CardConnect"></a>';
 $_['text_payment']                  = 'Paiement';
@@ -89,7 +89,7 @@ $_['button_inquire']                = 'Inquire';
 $_['button_void']                   = 'Annuler';
 
 // Error
-$_['error_permission']              = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le paiement CardConnect!';
+$_['error_permission']              = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le paiement CardConnect!';
 $_['error_merchant_id']             = 'Identifiant du marchand requis!';
 $_['error_api_username']            = 'Nom d&rsquo;utilisateur de l&rsquo;API requis!';
 $_['error_api_password']            = 'Mot de passe de l&rsquo;API requis!';

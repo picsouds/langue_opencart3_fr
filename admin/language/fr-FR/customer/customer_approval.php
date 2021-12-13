@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Approbations du client';
 
 // Text
-$_['text_success']          = 'Succès: vous avez modifié les approbations des clients!';
+$_['text_success']          = 'Succès : vous avez modifié les approbations des clients!';
 $_['text_list']             = 'Liste d&rsquo;approbation du client';
 $_['text_default']          = 'Défaut';
 $_['text_customer']         = 'Client';
@@ -25,4 +25,4 @@ $_['entry_type']            = 'Type';
 $_['entry_date_added']      = 'Date d&rsquo;ajout';
 
 // Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier les approbations des clients!';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier les approbations des clients!';

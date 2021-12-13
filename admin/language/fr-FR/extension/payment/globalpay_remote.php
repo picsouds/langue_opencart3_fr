@@ -4,7 +4,7 @@ $_['heading_title'] = 'Globalpay Remote';
 
 // Text
 $_['text_extension']        = 'Extensions';
-$_['text_success']          = 'Succès: vous avez modifié le module Globalpay Remote !';
+$_['text_success']          = 'Succès : vous avez modifié le module Globalpay Remote !';
 $_['text_edit']             = 'Modifier Globalpay Remote';
 $_['text_card_type']        = 'Type de carte';
 $_['text_enabled']          = 'Activé';

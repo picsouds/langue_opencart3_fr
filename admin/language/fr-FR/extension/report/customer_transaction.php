@@ -5,7 +5,7 @@ $_['heading_title']         = 'Rapport de transaction client';
 // Text
 $_['text_extension']        = 'Extensions';
 $_['text_edit']             = 'Modifier le rapport de transaction client';
-$_['text_success']          = 'Succès: vous avez modifié le rapport de crédit client!';
+$_['text_success']          = 'Succès : vous avez modifié le rapport de crédit client!';
 $_['text_filter']           = 'Filtre';
 
 // Column
@@ -24,4 +24,4 @@ $_['entry_status']          = 'Statut';
 $_['entry_sort_order']      = 'Ordre de tri';
 
 // Error
-$_['error_permission']      = 'Attention: vous n&rsquo;êtes pas autorisé à modifier le rapport de crédit client!';
+$_['error_permission']      = 'Attention : vous n&rsquo;êtes pas autorisé à modifier le rapport de crédit client!';

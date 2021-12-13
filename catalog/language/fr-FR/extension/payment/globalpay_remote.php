@@ -52,4 +52,4 @@ $_['error_card_name']                  = 'Veuillez vérifier que le nom du titul
 $_['error_card_cvv']                   = 'Veuillez vérifier la validité du cryptogramme visuel';
 $_['error_3d_unable']                  = 'La boutique requiert 3D secure mais n&rsquo;est pas capable de vérifier auprès de votre banque, veuillez essayer plus tard';
 $_['error_3d_500_response_no_payment'] = 'Une réponse invalide a été reçue du processeur de carte, aucune paiement n&rsquo;a été effectué';
-$_['error_3d_unsuccessful']            = 'Echec de l&rsquo;autorisation 3D secure';
+$_['error_3d_unsuccessful']            = '&Eacute;chec de l&rsquo;autorisation 3D secure';

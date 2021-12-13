@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_title']          = 'PayPal Express Checkout';
-$_['text_canceled']       = 'Succès: vous avez réussi ce paiement!';
+$_['text_canceled']       = 'Succès : vous avez réussi ce paiement!';
 
 // Button
 $_['button_cancel']       = 'Annuler le paiement récurrent';
